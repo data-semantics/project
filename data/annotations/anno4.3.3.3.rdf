@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:oa="http://www.w3.org/ns/oa#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    >
+    <oa:Annotation rdf:about="http://princeton.edu/4.3.3.3">
+        <dcterms:contributor>
+            <foaf:Person rdf:about="http://viaf.org/viaf/76318096">
+                <foaf:name>Pierre-Jean Labarrière</foaf:name>
+            </foaf:Person>
+        </dcterms:contributor>
+        <oa:hasBody>
+            <oa:TextualBody rdf:about="http://princeton.edu/4.3.3.3/body1">
+                <dc:format>text/plain</dc:format>
+                <oa:text>A Jacques Derrida, en souvenir de ses cours entendus naguère en Sorbonne, avec gratitude Gwendoline Jarczyk</oa:text>
+                <dc:langauge>fr</dc:langauge>
+            </oa:TextualBody>
+        </oa:hasBody>
+        <dcterms:creator>
+            <foaf:Person rdf:about="http://viaf.org/viaf/39378860">
+                <foaf:name>Gwendoline Jarczyk</foaf:name>
+            </foaf:Person>
+        </dcterms:creator>
+        <oa:hasTarget rdf:resource="http://example.org/item1"/>
+        <oa:motivatedBy rdf:resource="http://example.org/dedicating"/>
+    </oa:Annotation>
+    <oa:Annotation rdf:about="http://princeton.edu/4.3.3.3/meta1">
+        <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+        <dcterms:creator>
+            <foaf:Organization rdf:about="http://library.princeton.edu/">
+                <foaf:name>Princeton University Library</foaf:name>
+            </foaf:Organization>
+        </dcterms:creator>
+        <oa:hasBody>
+            <rdf:Description rdf:nodeID="ub97bL32C16">
+                <oa:role>tagging</oa:role>
+                <oa:hasSource rdf:resource="http://viaf.org/viaf/88958529"/>
+            </rdf:Description>
+        </oa:hasBody>
+        <oa:hasTarget>
+            <rdf:Description rdf:nodeID="ub97bL40C18">
+                <oa:hasSelector>
+                    <oa:TextQuoteSelector rdf:nodeID="ub97bL44C32">
+                        <oa:prefix>A </oa:prefix>
+                        <oa:exact>Jacques Derrida</oa:exact>
+                        <oa:suffix>, en souvenir de</oa:suffix>
+                    </oa:TextQuoteSelector>
+                </oa:hasSelector>
+                <oa:hasSource rdf:resource="http://princeton.edu/4.3.3.3/body1"/>
+            </rdf:Description>
+        </oa:hasTarget>
+    </oa:Annotation>
+    <oa:Annotation rdf:about="http://princeton.edu/4.3.3.3/meta2">
+        <oa:hasBody>
+            <rdf:Description rdf:nodeID="ub97bL66C16">
+                <oa:role>tagging</oa:role>
+                <oa:hasSource rdf:resource="http://viaf.org/viaf/263391098"/>
+            </rdf:Description>
+        </oa:hasBody>
+        <oa:hasTarget>
+            <rdf:Description rdf:nodeID="ub97bL74C18">
+                <oa:hasSource rdf:resource="http://princeton.edu/4.3.3.3/body1"/>
+                <oa:hasSelector>
+                    <oa:TextQuoteSelector rdf:nodeID="ub97bL78C32">
+                        <oa:prefix>ses cours entendus naguère en </oa:prefix>
+                        <oa:exact>Sorbonne</oa:exact>
+                        <oa:suffix>, avec gratitude</oa:suffix>
+                    </oa:TextQuoteSelector>
+                </oa:hasSelector>
+            </rdf:Description>
+        </oa:hasTarget>
+        <oa:motivatedBy rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+        <dcterms:creator rdf:resource="http://library.princeton.edu/"/>
+    </oa:Annotation>
+</rdf:RDF>
