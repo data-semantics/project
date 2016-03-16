@@ -1,0 +1,338 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://bibframe.org/vocab/" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">
+  <bf:Work rdf:about="http://example.org/ocm49029832">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+    <bf:authorizedAccessPoint>Fédier, François. Soixante-deux photographies de Martin Heidegger / François Fédier.Soixante-deux photographies de Martin Heidegger</bf:authorizedAccessPoint>
+    <bf:workTitle rdf:resource="http://example.org/ocm49029832title5"/>
+    <bf:creator rdf:resource="http://example.org/ocm49029832person6"/>
+    <bf:contentCategory rdf:resource="http://id.loc.gov/vocabulary/contentTypes/txt"/>
+    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/fre"/>
+    <bf:subject rdf:resource="http://example.org/ocm49029832person9"/>
+    <bf:subject rdf:resource="http://example.org/ocm49029832person10"/>
+    <bf:subject rdf:resource="http://example.org/ocm49029832person11"/>
+    <bf:subject rdf:resource="http://example.org/ocm49029832person12"/>
+    <bf:subject rdf:resource="http://example.org/ocm49029832topic13"/>
+    <bf:subject rdf:resource="http://example.org/ocm49029832topic14"/>
+    <bf:subject rdf:resource="http://example.org/ocm49029832person15"/>
+    <bf:subject rdf:resource="http://example.org/ocm49029832person16"/>
+    <bf:subject rdf:resource="http://example.org/ocm49029832topic17"/>
+    <bf:subject rdf:resource="http://example.org/ocm49029832topic18"/>
+    <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/B3279.H49"/>
+    <bf:classificationUdc rdf:resource="http://example.org/ocm49029832classification20"/>
+    <bf:classification rdf:resource="http://example.org/ocm49029832classification21"/>
+    <bf:classification rdf:resource="http://example.org/ocm49029832classification22"/>
+    <bf:series rdf:resource="http://example.org/ocm49029832work23"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">fédierfrançoissoixantedeuxphotographiesdemartinheideggerfrework</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm49029832work23">
+    <bf:title>L'infini</bf:title>
+    <bf:authorizedAccessPoint>L'infini</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Instance rdf:about="http://example.org/ocm49029832instance26">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+    <bf:instanceTitle rdf:resource="http://example.org/ocm49029832title29"/>
+    <bf:isbn10 rdf:resource="http://isbn.example.org/2070755347"/>
+    <bf:isbn13 rdf:resource="http://isbn.example.org/9782070755349"/>
+    <bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>Gallimard</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Paris </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:providerDate>©1999</bf:providerDate>
+      </bf:Provider>
+    </bf:publication>
+    <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+    <bf:extent>1 volume (unpaged) :</bf:extent>
+    <bf:dimensions>21 cm.</bf:dimensions>
+    <bf:illustrationNote>chiefly illustrations ;</bf:illustrationNote>
+    <bf:titleStatement>Soixante-deux photographies de Martin Heidegger</bf:titleStatement>
+    <bf:providerStatement>Paris : Gallimard, ©1999.</bf:providerStatement>
+    <bf:lccn>
+      <bf:Identifier>
+        <bf:identifierValue>99459307</bf:identifierValue>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/lccn"/>
+      </bf:Identifier>
+    </bf:lccn>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/49029832"/>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/systemNumber"/>
+        <bf:identifierValue>(OCoLC)41530211</bf:identifierValue>
+        <bf:identifierStatus>canceled/invalid</bf:identifierStatus>
+      </bf:Identifier>
+    </bf:systemNumber>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/systemNumber"/>
+        <bf:identifierValue>(OCoLC)265468236</bf:identifierValue>
+        <bf:identifierStatus>canceled/invalid</bf:identifierStatus>
+      </bf:Identifier>
+    </bf:systemNumber>
+    <bf:mediaCategory rdf:resource="http://id.loc.gov/vocabulary/mediaTypes/n"/>
+    <bf:carrierCategory rdf:resource="http://id.loc.gov/vocabulary/carriers/nc"/>
+    <bf:instanceOf rdf:resource="http://example.org/ocm49029832"/>
+  </bf:Instance>
+  <bf:Annotation rdf:about="http://example.org/ocm49029832annotation25">
+    <bf:derivedFrom rdf:resource="http://example.org/ocm49029832.marcxml.xml"/>
+    <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/nlggc"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/sz9xm"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcg"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/uba"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/tzt"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/lvb"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/hls"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/zwz"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcq"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcf"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcq"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclco"/>
+    <bf:descriptionLanguage rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:changeDate>2016-03-11T22:49</bf:changeDate>
+    <bf:annotates rdf:resource="http://example.org/ocm49029832"/>
+  </bf:Annotation>
+  <bf:HeldItem rdf:about="http://example.org/ocm49029832helditem46">
+    <bf:label>B3279.H49 F384 1999</bf:label>
+    <bf:shelfMarkLcc>B3279.H49 F384 1999</bf:shelfMarkLcc>
+    <bf:holdingFor rdf:resource="http://example.org/ocm49029832instance26"/>
+  </bf:HeldItem>
+  <bf:Title rdf:about="http://example.org/ocm49029832title5">
+    <bf:label>Soixante-deux photographies de Martin Heidegger / François Fédier.</bf:label>
+    <bf:titleValue>Soixante-deux photographies de Martin Heidegger</bf:titleValue>
+  </bf:Title>
+  <bf:Person rdf:about="http://example.org/ocm49029832person6">
+    <bf:label>Fédier, François.</bf:label>
+    <bf:authorizedAccessPoint>Fédier, François.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Fédier, François.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm49029832person9">
+    <bf:authorizedAccessPoint>Heidegger, Martin, 1889-1976--Portraits.</bf:authorizedAccessPoint>
+    <bf:label>Heidegger, Martin, 1889-1976--Portraits.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+        <madsrdf:authoritativeLabel>Heidegger, Martin, 1889-1976--Portraits.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Heidegger, Martin,</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Heidegger, Martin,</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:GenreForm>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Portraits</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:GenreFormElement>
+                <madsrdf:elementValue>Portraits.</madsrdf:elementValue>
+              </madsrdf:GenreFormElement>
+            </madsrdf:elementList>
+          </madsrdf:GenreForm>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm49029832person10">
+    <bf:authorizedAccessPoint>Heidegger, Martin.</bf:authorizedAccessPoint>
+    <bf:label>Heidegger, Martin.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+        <madsrdf:authoritativeLabel>Heidegger, Martin.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm49029832person11">
+    <bf:authorizedAccessPoint>Heidegger, Martin, 1889-1976--Photographie.</bf:authorizedAccessPoint>
+    <bf:label>Heidegger, Martin, 1889-1976--Photographie.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+        <madsrdf:authoritativeLabel>Heidegger, Martin, 1889-1976--Photographie.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://rvm.example.org/rvm"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Heidegger, Martin,</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Heidegger, Martin,</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:Topic>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Photographie</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TopicElement>
+                <madsrdf:elementValue>Photographie.</madsrdf:elementValue>
+              </madsrdf:TopicElement>
+            </madsrdf:elementList>
+          </madsrdf:Topic>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm49029832person12">
+    <bf:authorizedAccessPoint>Heidegger, Martin, 1889-1976</bf:authorizedAccessPoint>
+    <bf:label>Heidegger, Martin, 1889-1976</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+        <madsrdf:authoritativeLabel>Heidegger, Martin, 1889-1976</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/fast"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/fast</bf:authoritySource>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierValue>(OCoLC)fst00032385</bf:identifierValue>
+      </bf:Identifier>
+    </bf:systemNumber>
+  </bf:Person>
+  <bf:Topic rdf:about="http://example.org/ocm49029832topic13">
+    <bf:authorizedAccessPoint>Filosofen</bf:authorizedAccessPoint>
+    <bf:label>Filosofen</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Filosofen</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/gtt"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/gtt</bf:authoritySource>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://example.org/ocm49029832topic14">
+    <bf:authorizedAccessPoint>Fotografia</bf:authorizedAccessPoint>
+    <bf:label>Fotografia</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Fotografia</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/larpcal"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/larpcal</bf:authoritySource>
+  </bf:Topic>
+  <bf:Person rdf:about="http://example.org/ocm49029832person15">
+    <bf:authorizedAccessPoint>Heidegger, Martin, (1889-1976)--Portraits.</bf:authorizedAccessPoint>
+    <bf:label>Heidegger, Martin, (1889-1976)--Portraits.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+        <madsrdf:authoritativeLabel>Heidegger, Martin, (1889-1976)--Portraits.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/ram"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Heidegger, Martin,</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Heidegger, Martin,</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:Topic>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Portraits</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TopicElement>
+                <madsrdf:elementValue>Portraits.</madsrdf:elementValue>
+              </madsrdf:TopicElement>
+            </madsrdf:elementList>
+          </madsrdf:Topic>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/ram</bf:authoritySource>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm49029832person16">
+    <bf:authorizedAccessPoint>Heidegger, Martin--Bildband.</bf:authorizedAccessPoint>
+    <bf:label>Heidegger, Martin--Bildband.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+        <madsrdf:authoritativeLabel>Heidegger, Martin--Bildband.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/swd"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Heidegger, Martin</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Heidegger, Martin</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:GenreForm>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Bildband</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:GenreFormElement>
+                <madsrdf:elementValue>Bildband.</madsrdf:elementValue>
+              </madsrdf:GenreFormElement>
+            </madsrdf:elementList>
+          </madsrdf:GenreForm>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/swd</bf:authoritySource>
+  </bf:Person>
+  <bf:Topic rdf:about="http://example.org/ocm49029832topic17">
+    <bf:label>Photo</bf:label>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://example.org/ocm49029832topic18">
+    <bf:authorizedAccessPoint>Portraits</bf:authorizedAccessPoint>
+    <bf:label>Portraits</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel>Portraits</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/fast"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/fast</bf:authoritySource>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierValue>(OCoLC)fst01423831</bf:identifierValue>
+      </bf:Identifier>
+    </bf:systemNumber>
+  </bf:Topic>
+  <bf:Classification rdf:about="http://example.org/ocm49029832classification20">
+    <bf:classificationNumber>92</bf:classificationNumber>
+    <bf:classificationScheme>classificationUdc</bf:classificationScheme>
+  </bf:Classification>
+  <bf:Classification rdf:about="http://example.org/ocm49029832classification21">
+    <bf:classificationScheme rdf:resource="http://id.loc.gov/authorities/classSchemes/ddc"/>
+    <bf:classificationNumber>193</bf:classificationNumber>
+    <bf:label>193</bf:label>
+    <bf:classificationEdition>full</bf:classificationEdition>
+    <bf:classificationEdition>21</bf:classificationEdition>
+  </bf:Classification>
+  <bf:Classification rdf:about="http://example.org/ocm49029832classification22">
+    <bf:classificationScheme>bcl</bf:classificationScheme>
+    <bf:classificationNumber>08.25</bf:classificationNumber>
+    <bf:label>08.25</bf:label>
+  </bf:Classification>
+  <bf:Title rdf:about="http://example.org/ocm49029832title29">
+    <bf:label>Soixante-deux photographies de Martin Heidegger / François Fédier.</bf:label>
+    <bf:titleValue>Soixante-deux photographies de Martin Heidegger</bf:titleValue>
+  </bf:Title>
+</rdf:RDF>

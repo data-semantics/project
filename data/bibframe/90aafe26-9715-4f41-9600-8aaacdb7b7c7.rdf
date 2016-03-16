@@ -1,0 +1,242 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://bibframe.org/vocab/" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">
+  <bf:Work rdf:about="http://example.org/ocm62588132">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+    <bf:authorizedAccessPoint>Nancy, Jean-Luc. Être, c'est être perçu / Jean-Luc Nancy, Jean-Claude Conésa.Être, c'est être perçu</bf:authorizedAccessPoint>
+    <bf:workTitle rdf:resource="http://example.org/ocm62588132title5"/>
+    <bf:creator rdf:resource="http://example.org/ocm62588132person6"/>
+    <bf:contributor rdf:resource="http://example.org/ocm62588132person7"/>
+    <bf:contributor rdf:resource="http://example.org/ocm62588132organization8"/>
+    <bf:contentCategory rdf:resource="http://id.loc.gov/vocabulary/contentTypes/txt"/>
+    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/fre"/>
+    <bf:subject rdf:resource="http://example.org/ocm62588132topic11"/>
+    <bf:subject rdf:resource="http://example.org/ocm62588132person12"/>
+    <bf:subject rdf:resource="http://example.org/ocm62588132person13"/>
+    <bf:subject rdf:resource="http://example.org/ocm62588132topic14"/>
+    <bf:subject rdf:resource="http://example.org/ocm62588132topic15"/>
+    <bf:subject rdf:resource="http://example.org/ocm62588132topic16"/>
+    <bf:subject rdf:resource="http://example.org/ocm62588132topic17"/>
+    <bf:subject rdf:resource="http://example.org/ocm62588132topic18"/>
+    <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/B828.45"/>
+    <bf:classification rdf:resource="http://example.org/ocm62588132classification20"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">nancyjeanlucêtrecestêtreperçufrework</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Instance rdf:about="http://example.org/ocm62588132instance23">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+    <bf:instanceTitle rdf:resource="http://example.org/ocm62588132title26"/>
+    <bf:isbn10 rdf:resource="http://isbn.example.org/291169810X"/>
+    <bf:isbn13 rdf:resource="http://isbn.example.org/9782911698101"/>
+    <bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>Éditions des Cahiers intempestifs</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Saint-Étienne </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:providerDate>©1999</bf:providerDate>
+      </bf:Provider>
+    </bf:publication>
+    <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+    <bf:extent>31 pages ;</bf:extent>
+    <bf:dimensions>21 cm</bf:dimensions>
+    <bf:titleStatement>Être, c'est être perçu</bf:titleStatement>
+    <bf:providerStatement>Saint-Étienne : Éditions des Cahiers intempestifs, ©1999.</bf:providerStatement>
+    <bf:contentsNote>Esse, est percipi / Jean-Claude Conésa -- Passage / Jean-Luc Nancy.</bf:contentsNote>
+    <bf:note>"En collaboration avec l'IUFM de l'académie de Lyon."</bf:note>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/62588132"/>
+    <bf:mediaCategory rdf:resource="http://id.loc.gov/vocabulary/mediaTypes/n"/>
+    <bf:carrierCategory rdf:resource="http://id.loc.gov/vocabulary/carriers/nc"/>
+    <bf:instanceOf rdf:resource="http://example.org/ocm62588132"/>
+  </bf:Instance>
+  <bf:Annotation rdf:about="http://example.org/ocm62588132annotation22">
+    <bf:derivedFrom rdf:resource="http://example.org/ocm62588132.marcxml.xml"/>
+    <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/cod"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/nlggc"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcf"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcq"/>
+    <bf:descriptionLanguage rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <bf:descriptionAuthentication rdf:resource="http://id.loc.gov/vocabulary/descriptionAuthentication/pcc"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:changeDate>2016-03-11T22:46</bf:changeDate>
+    <bf:annotates rdf:resource="http://example.org/ocm62588132"/>
+  </bf:Annotation>
+  <bf:HeldItem rdf:about="http://example.org/ocm62588132helditem41">
+    <bf:label>B828.45 .N36 1999</bf:label>
+    <bf:shelfMarkLcc>B828.45 .N36 1999</bf:shelfMarkLcc>
+    <bf:holdingFor rdf:resource="http://example.org/ocm62588132instance23"/>
+  </bf:HeldItem>
+  <bf:Title rdf:about="http://example.org/ocm62588132title5">
+    <bf:label>Être, c'est être perçu / Jean-Luc Nancy, Jean-Claude Conésa.</bf:label>
+    <bf:titleValue>Être, c'est être perçu</bf:titleValue>
+  </bf:Title>
+  <bf:Person rdf:about="http://example.org/ocm62588132person6">
+    <bf:label>Nancy, Jean-Luc.</bf:label>
+    <bf:authorizedAccessPoint>Nancy, Jean-Luc.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Nancy, Jean-Luc.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm62588132person7">
+    <bf:label>Conésa, Jean-Claude.</bf:label>
+    <bf:authorizedAccessPoint>Conésa, Jean-Claude.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Conésa, Jean-Claude.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Organization rdf:about="http://example.org/ocm62588132organization8">
+    <bf:label>Institut universitaire de formation des maîtres (Académie de Lyon)</bf:label>
+    <bf:authorizedAccessPoint>Institut universitaire de formation des maîtres (Académie de Lyon)</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Institut universitaire de formation des maîtres (Académie de Lyon)</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Organization>
+  <bf:Topic rdf:about="http://example.org/ocm62588132topic11">
+    <bf:authorizedAccessPoint>Perception (Philosophy)</bf:authorizedAccessPoint>
+    <bf:label>Perception (Philosophy)</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Perception (Philosophy)</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Person rdf:about="http://example.org/ocm62588132person12">
+    <bf:authorizedAccessPoint>Cerino, Jean-Marc, 1965---Criticism and interpretation.</bf:authorizedAccessPoint>
+    <bf:label>Cerino, Jean-Marc, 1965---Criticism and interpretation.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+        <madsrdf:authoritativeLabel>Cerino, Jean-Marc, 1965---Criticism and interpretation.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Cerino, Jean-Marc,</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Cerino, Jean-Marc,</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:Topic>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Criticism and interpretation</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TopicElement>
+                <madsrdf:elementValue>Criticism and interpretation.</madsrdf:elementValue>
+              </madsrdf:TopicElement>
+            </madsrdf:elementList>
+          </madsrdf:Topic>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm62588132person13">
+    <bf:authorizedAccessPoint>Cerino, Jean-Marc, 1965-</bf:authorizedAccessPoint>
+    <bf:label>Cerino, Jean-Marc, 1965-</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+        <madsrdf:authoritativeLabel>Cerino, Jean-Marc, 1965-</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/fast"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/fast</bf:authoritySource>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierValue>(OCoLC)fst00498775</bf:identifierValue>
+      </bf:Identifier>
+    </bf:systemNumber>
+  </bf:Person>
+  <bf:Topic rdf:about="http://example.org/ocm62588132topic14">
+    <bf:authorizedAccessPoint>Perception (Philosophy)</bf:authorizedAccessPoint>
+    <bf:label>Perception (Philosophy)</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Perception (Philosophy)</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/fast"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/fast</bf:authoritySource>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierValue>(OCoLC)fst01057637</bf:identifierValue>
+      </bf:Identifier>
+    </bf:systemNumber>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://example.org/ocm62588132topic15">
+    <bf:authorizedAccessPoint>Kunst</bf:authorizedAccessPoint>
+    <bf:label>Kunst</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Kunst</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/gtt"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/gtt</bf:authoritySource>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://example.org/ocm62588132topic16">
+    <bf:authorizedAccessPoint>Filosofische aspecten</bf:authorizedAccessPoint>
+    <bf:label>Filosofische aspecten</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Filosofische aspecten</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/gtt"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/gtt</bf:authoritySource>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://example.org/ocm62588132topic17">
+    <bf:authorizedAccessPoint>Waarneming</bf:authorizedAccessPoint>
+    <bf:label>Waarneming</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Waarneming</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/gtt"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/gtt</bf:authoritySource>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://example.org/ocm62588132topic18">
+    <bf:authorizedAccessPoint>Criticism, interpretation, etc</bf:authorizedAccessPoint>
+    <bf:label>Criticism, interpretation, etc</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel>Criticism, interpretation, etc</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/fast"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/fast</bf:authoritySource>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierValue>(OCoLC)fst01411635</bf:identifierValue>
+      </bf:Identifier>
+    </bf:systemNumber>
+  </bf:Topic>
+  <bf:Classification rdf:about="http://example.org/ocm62588132classification20">
+    <bf:classificationScheme>bcl</bf:classificationScheme>
+    <bf:classificationNumber>08.41</bf:classificationNumber>
+    <bf:label>08.41</bf:label>
+  </bf:Classification>
+  <bf:Title rdf:about="http://example.org/ocm62588132title26">
+    <bf:label>Être, c'est être perçu / Jean-Luc Nancy, Jean-Claude Conésa.</bf:label>
+    <bf:titleValue>Être, c'est être perçu</bf:titleValue>
+  </bf:Title>
+</rdf:RDF>

@@ -1,0 +1,292 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://bibframe.org/vocab/" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">
+  <bf:Work rdf:about="http://example.org/ocn810865253">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+    <bf:authorizedAccessPoint>Heidegger, Martin, 1889-1976. Phänomenologie des religiösen Lebens. 1. Einleitung in die Phänomenologie der Religion, 2. Augustinus und der Neuplatonismus, 3. Die Philosophischen Grundlagen der Mittelalterlichen Mystik. / Martin Heidegger.Phänomenologie des religiösen Lebens1.2.3.Einleitung in die Phänomenologie der ReligionAugustinus und der NeuplatonismusDie Philosophischen Grundlagen der Mittelalterlichen Mystik</bf:authorizedAccessPoint>
+    <bf:workTitle rdf:resource="http://example.org/ocn810865253title5"/>
+    <bf:creator rdf:resource="http://example.org/ocn810865253person6"/>
+    <bf:contributor rdf:resource="http://example.org/ocn810865253person7"/>
+    <bf:contributor rdf:resource="http://example.org/ocn810865253person8"/>
+    <bf:contributor rdf:resource="http://example.org/ocn810865253person9"/>
+    <bf:contentCategory rdf:resource="http://id.loc.gov/vocabulary/contentTypes/txt"/>
+    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/ger"/>
+    <bf:subject rdf:resource="http://example.org/ocn810865253topic12"/>
+    <bf:subject rdf:resource="http://example.org/ocn810865253topic13"/>
+    <bf:subject rdf:resource="http://example.org/ocn810865253topic14"/>
+    <bf:subject rdf:resource="http://example.org/ocn810865253topic15"/>
+    <bf:classification rdf:resource="http://example.org/ocn810865253classification16"/>
+    <bf:classification rdf:resource="http://example.org/ocn810865253classification17"/>
+    <bf:classification rdf:resource="http://example.org/ocn810865253classification18"/>
+    <bf:classification rdf:resource="http://example.org/ocn810865253classification19"/>
+    <bf:series rdf:resource="http://example.org/ocn810865253work20"/>
+    <bf:series rdf:resource="http://example.org/ocn810865253work21"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">heideggermartin18891976phänomenologiedesreligiösenlebensgerwork</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocn810865253work20">
+    <bf:title>Gesamtausgabe / Martin Heidegger. II. Abteilung, Vorlesungen 1919-1944 ; Bd. 60</bf:title>
+    <bf:authorizedAccessPoint>Gesamtausgabe / Martin Heidegger. II. Abteilung, Vorlesungen 1919-1944 ; Bd. 60</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocn810865253work21">
+    <bf:title>Works. 1975 ;</bf:title>
+    <bf:authorizedAccessPoint>Works. 1975 ;</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Instance rdf:about="http://example.org/ocn810865253instance24">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+    <bf:instanceTitle rdf:resource="http://example.org/ocn810865253title27"/>
+    <bf:titleVariation rdf:resource="http://example.org/ocn810865253title28"/>
+    <bf:titleVariation rdf:resource="http://example.org/ocn810865253title29"/>
+    <bf:titleVariation rdf:resource="http://example.org/ocn810865253title30"/>
+    <bf:titleVariation rdf:resource="http://example.org/ocn810865253title31"/>
+    <bf:isbn10 rdf:resource="http://isbn.example.org/3465028465"/>
+    <bf:isbn13 rdf:resource="http://isbn.example.org/9783465028468"/>
+    <bf:isbn10 rdf:resource="http://isbn.example.org/3465028457"/>
+    <bf:isbn13 rdf:resource="http://isbn.example.org/9783465028451"/>
+    <bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>V. Klostermann</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Frankfurt am Main </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:providerDate>©1995</bf:providerDate>
+      </bf:Provider>
+    </bf:publication>
+    <bf:format>paperback</bf:format>
+    <bf:format>paperback</bf:format>
+    <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+    <bf:extent>xiii, 351 pages ;</bf:extent>
+    <bf:dimensions>21 cm.</bf:dimensions>
+    <bf:titleStatement>Phänomenologie des religiösen Lebens.</bf:titleStatement>
+    <bf:providerStatement>Frankfurt am Main : V. Klostermann, ©1995.</bf:providerStatement>
+    <bf:contentsNote>1. Einleitung in die Phänomenologie der Religion / herausgegeben von Matthias Jung und Thomas Regehly -- 2. Augustinus und der Neuplatonismus / herausgegeben von Claudius Strube -- 3. Die philosophischen Grundlagen der mittelalterlichen Mystik / herausgegeben von Claudius Strube.</bf:contentsNote>
+    <bf:note>Transcriptions of two lectures given at Universität Freiburg im Breisgau and a draft of an undelivered lecture.</bf:note>
+    <bf:supplementaryContentNote>Includes bibliographical references.</bf:supplementaryContentNote>
+    <bf:lccn>
+      <bf:Identifier>
+        <bf:identifierValue>97148695</bf:identifierValue>
+        <bf:identifierScheme rdf:resource="http://id.loc.gov/vocabulary/identifiers/lccn"/>
+      </bf:Identifier>
+    </bf:lccn>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/810865253"/>
+    <bf:mediaCategory rdf:resource="http://id.loc.gov/vocabulary/mediaTypes/n"/>
+    <bf:carrierCategory rdf:resource="http://id.loc.gov/vocabulary/carriers/nc"/>
+    <bf:instanceOf rdf:resource="http://example.org/ocn810865253"/>
+  </bf:Instance>
+  <bf:Annotation rdf:about="http://example.org/ocn810865253annotation23">
+    <bf:derivedFrom rdf:resource="http://example.org/ocn810865253.marcxml.xml"/>
+    <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/erd"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclco"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclca"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcf"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcq"/>
+    <bf:descriptionLanguage rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:changeDate>2016-03-11T22:49</bf:changeDate>
+    <bf:annotates rdf:resource="http://example.org/ocn810865253"/>
+  </bf:Annotation>
+  <bf:HeldItem rdf:about="http://example.org/ocn810865253helditem52">
+    <bf:label>B3279 .H45 1976 Bd. 60</bf:label>
+    <bf:shelfMarkLcc>B3279 .H45 1976 Bd. 60</bf:shelfMarkLcc>
+    <bf:shelfMarkLcc>B3279.H46</bf:shelfMarkLcc>
+    <bf:holdingFor rdf:resource="http://example.org/ocn810865253instance24"/>
+  </bf:HeldItem>
+  <bf:Title rdf:about="http://example.org/ocn810865253title5">
+    <bf:label>Phänomenologie des religiösen Lebens. 1. Einleitung in die Phänomenologie der Religion, 2. Augustinus und der Neuplatonismus, 3. Die Philosophischen Grundlagen der Mittelalterlichen Mystik. / Martin Heidegger.</bf:label>
+    <bf:titleValue>Phänomenologie des religiösen Lebens</bf:titleValue>
+    <bf:partNumber>1.</bf:partNumber>
+    <bf:partNumber>2.</bf:partNumber>
+    <bf:partNumber>3.</bf:partNumber>
+    <bf:partTitle>Einleitung in die Phänomenologie der Religion</bf:partTitle>
+    <bf:partTitle>Augustinus und der Neuplatonismus</bf:partTitle>
+    <bf:partTitle>Die Philosophischen Grundlagen der Mittelalterlichen Mystik.</bf:partTitle>
+  </bf:Title>
+  <bf:Person rdf:about="http://example.org/ocn810865253person6">
+    <bf:label>Heidegger, Martin, 1889-1976.</bf:label>
+    <bf:authorizedAccessPoint>Heidegger, Martin, 1889-1976.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Heidegger, Martin, 1889-1976.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocn810865253person7">
+    <bf:label>Jung, Matthias.</bf:label>
+    <bf:authorizedAccessPoint>Jung, Matthias.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Jung, Matthias.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocn810865253person8">
+    <bf:label>Regehly, Thomas.</bf:label>
+    <bf:authorizedAccessPoint>Regehly, Thomas.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Regehly, Thomas.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocn810865253person9">
+    <bf:label>Strube, Claudius.</bf:label>
+    <bf:authorizedAccessPoint>Strube, Claudius.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Strube, Claudius.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Topic rdf:about="http://example.org/ocn810865253topic12">
+    <bf:authorizedAccessPoint>Religion--Philosophy</bf:authorizedAccessPoint>
+    <bf:label>Religion--Philosophy</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+        <madsrdf:authoritativeLabel>Religion--Philosophy</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:Topic>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Religion</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TopicElement>
+                <madsrdf:elementValue>Religion</madsrdf:elementValue>
+              </madsrdf:TopicElement>
+            </madsrdf:elementList>
+          </madsrdf:Topic>
+          <madsrdf:Topic>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Philosophy</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TopicElement>
+                <madsrdf:elementValue>Philosophy.</madsrdf:elementValue>
+              </madsrdf:TopicElement>
+            </madsrdf:elementList>
+          </madsrdf:Topic>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://example.org/ocn810865253topic13">
+    <bf:authorizedAccessPoint>Phenomenology</bf:authorizedAccessPoint>
+    <bf:label>Phenomenology</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Phenomenology</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://example.org/ocn810865253topic14">
+    <bf:authorizedAccessPoint>Phenomenology</bf:authorizedAccessPoint>
+    <bf:label>Phenomenology</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Phenomenology</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/fast"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/fast</bf:authoritySource>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierValue>(OCoLC)fst01060522</bf:identifierValue>
+      </bf:Identifier>
+    </bf:systemNumber>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://example.org/ocn810865253topic15">
+    <bf:authorizedAccessPoint>Religion--Philosophy</bf:authorizedAccessPoint>
+    <bf:label>Religion--Philosophy</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+        <madsrdf:authoritativeLabel>Religion--Philosophy</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/fast"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:Topic>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Religion</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TopicElement>
+                <madsrdf:elementValue>Religion</madsrdf:elementValue>
+              </madsrdf:TopicElement>
+            </madsrdf:elementList>
+          </madsrdf:Topic>
+          <madsrdf:Topic>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Philosophy</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TopicElement>
+                <madsrdf:elementValue>Philosophy.</madsrdf:elementValue>
+              </madsrdf:TopicElement>
+            </madsrdf:elementList>
+          </madsrdf:Topic>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/fast</bf:authoritySource>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierValue>(OCoLC)fst01093794</bf:identifierValue>
+      </bf:Identifier>
+    </bf:systemNumber>
+  </bf:Topic>
+  <bf:Classification rdf:about="http://example.org/ocn810865253classification16">
+    <bf:classificationScheme rdf:resource="http://id.loc.gov/authorities/classSchemes/lcc"/>
+    <bf:classificationNumber>B3279</bf:classificationNumber>
+    <bf:label>B3279</bf:label>
+    <bf:classificationAssigner>dlc</bf:classificationAssigner>
+  </bf:Classification>
+  <bf:Classification rdf:about="http://example.org/ocn810865253classification17">
+    <bf:classificationScheme rdf:resource="http://id.loc.gov/authorities/classSchemes/lcc"/>
+    <bf:classificationNumber>B3279.H46</bf:classificationNumber>
+    <bf:label>B3279.H46</bf:label>
+    <bf:classificationAssigner>dlc</bf:classificationAssigner>
+  </bf:Classification>
+  <bf:Classification rdf:about="http://example.org/ocn810865253classification18">
+    <bf:classificationScheme rdf:resource="http://id.loc.gov/authorities/classSchemes/ddc"/>
+    <bf:classificationNumber>193 s</bf:classificationNumber>
+    <bf:label>193 s</bf:label>
+    <bf:classificationEdition>full</bf:classificationEdition>
+    <bf:classificationEdition>21</bf:classificationEdition>
+  </bf:Classification>
+  <bf:Classification rdf:about="http://example.org/ocn810865253classification19">
+    <bf:classificationScheme rdf:resource="http://id.loc.gov/authorities/classSchemes/ddc"/>
+    <bf:classificationNumber>200</bf:classificationNumber>
+    <bf:label>200</bf:label>
+    <bf:classificationEdition>full</bf:classificationEdition>
+    <bf:classificationEdition>21</bf:classificationEdition>
+  </bf:Classification>
+  <bf:Title rdf:about="http://example.org/ocn810865253title27">
+    <bf:label>Phänomenologie des religiösen Lebens. 1. Einleitung in die Phänomenologie der Religion, 2. Augustinus und der Neuplatonismus, 3. Die Philosophischen Grundlagen der Mittelalterlichen Mystik. / Martin Heidegger.</bf:label>
+    <bf:titleValue>Phänomenologie des religiösen Lebens</bf:titleValue>
+    <bf:partNumber>1.</bf:partNumber>
+    <bf:partNumber>2.</bf:partNumber>
+    <bf:partNumber>3.</bf:partNumber>
+    <bf:partTitle>Einleitung in die Phänomenologie der Religion</bf:partTitle>
+    <bf:partTitle>Augustinus und der Neuplatonismus</bf:partTitle>
+    <bf:partTitle>Die Philosophischen Grundlagen der Mittelalterlichen Mystik.</bf:partTitle>
+  </bf:Title>
+  <bf:Title rdf:about="http://example.org/ocn810865253title28">
+    <bf:label>Vorlesungen 1919-1944</bf:label>
+    <bf:titleValue>Vorlesungen 1919-1944</bf:titleValue>
+  </bf:Title>
+  <bf:Title rdf:about="http://example.org/ocn810865253title29">
+    <bf:label>Frühe Freiburger Vorlesung Wintersemester 1920/21</bf:label>
+    <bf:titleValue>Frühe Freiburger Vorlesung Wintersemester 1920/21</bf:titleValue>
+  </bf:Title>
+  <bf:Title rdf:about="http://example.org/ocn810865253title30">
+    <bf:label>Frühe Freiburger Vorlesung Sommersemester 1921</bf:label>
+    <bf:titleValue>Frühe Freiburger Vorlesung Sommersemester 1921</bf:titleValue>
+  </bf:Title>
+  <bf:Title rdf:about="http://example.org/ocn810865253title31">
+    <bf:label>Ausarbeitungen und Entwürfe zu einer nicht gehaltenen Vorlesung 1918/19</bf:label>
+    <bf:titleValue>Ausarbeitungen und Entwürfe zu einer nicht gehaltenen Vorlesung 1918/19</bf:titleValue>
+  </bf:Title>
+</rdf:RDF>

@@ -1,0 +1,282 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://bibframe.org/vocab/" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">
+  <bf:Work rdf:about="http://example.org/ocm31974925">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+    <bf:authorizedAccessPoint>Hegel, Georg Wilhelm Friedrich, 1770-1831. Encyklopädie der philosophischen Wissenschaften. French &amp; German. Selections</bf:authorizedAccessPoint>
+    <madsrdf:authoritativeLabel>Encyklopädie der philosophischen Wissenschaften. French &amp; German. Selections</madsrdf:authoritativeLabel>
+    <bf:workTitle rdf:resource="http://example.org/ocm31974925title6"/>
+    <bf:language rdf:resource="http://example.org/ocm31974925language7"/>
+    <bf:translationOf rdf:resource="http://example.org/ocm31974925work8"/>
+    <bf:creator rdf:resource="http://example.org/ocm31974925person9"/>
+    <bf:contributor rdf:resource="http://example.org/ocm31974925person10"/>
+    <bf:formDesignation>Selections</bf:formDesignation>
+    <bf:contentCategory rdf:resource="http://id.loc.gov/vocabulary/contentTypes/txt"/>
+    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/fre"/>
+    <bf:language rdf:resource="http://example.org/ocm31974925language14"/>
+    <bf:subject rdf:resource="http://example.org/ocm31974925work15"/>
+    <bf:subject rdf:resource="http://example.org/ocm31974925topic16"/>
+    <bf:subject rdf:resource="http://example.org/ocm31974925work17"/>
+    <bf:subject rdf:resource="http://example.org/ocm31974925topic18"/>
+    <bf:subject rdf:resource="http://example.org/ocm31974925topic19"/>
+    <bf:subject rdf:resource="http://example.org/ocm31974925topic20"/>
+    <bf:subject rdf:resource="http://example.org/ocm31974925work21"/>
+    <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/B2918.F7"/>
+    <bf:series rdf:resource="http://example.org/ocm31974925work23"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">hegelgeorgwilhelmfriedrich17701831encyklopädiederphilosophischenwissenschaftenfrenchgermanselectionsfrework</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm31974925work15">
+    <bf:authorizedAccessPoint>Hegel, Georg Wilhelm Friedrich, 1770-1831. Encyklopädie der philosophischen Wissenschaften.</bf:authorizedAccessPoint>
+    <bf:label>Hegel, Georg Wilhelm Friedrich, 1770-1831. Encyklopädie der philosophischen Wissenschaften.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#NameTitle"/>
+        <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich, 1770-1831. Encyklopädie der philosophischen Wissenschaften.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich,</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Hegel, Georg Wilhelm Friedrich,</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:Title>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Encyklopädie der philosophischen Wissenschaften</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TitleElement>
+                <madsrdf:elementValue>Encyklopädie der philosophischen Wissenschaften.</madsrdf:elementValue>
+              </madsrdf:TitleElement>
+            </madsrdf:elementList>
+          </madsrdf:Title>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm31974925work17">
+    <bf:authorizedAccessPoint>Hegel, Georg Wilhelm Friedrich, 1770-1831. Encyklopädie der philosophischen Wissenschaften. Vorbegriff.</bf:authorizedAccessPoint>
+    <bf:label>Hegel, Georg Wilhelm Friedrich, 1770-1831. Encyklopädie der philosophischen Wissenschaften. Vorbegriff.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#NameTitle"/>
+        <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich, 1770-1831. Encyklopädie der philosophischen Wissenschaften. Vorbegriff.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://rvm.example.org/rvm"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich,</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Hegel, Georg Wilhelm Friedrich,</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:Title>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Encyklopädie der philosophischen Wissenschaften</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TitleElement>
+                <madsrdf:elementValue>Encyklopädie der philosophischen Wissenschaften.</madsrdf:elementValue>
+              </madsrdf:TitleElement>
+            </madsrdf:elementList>
+          </madsrdf:Title>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm31974925work21">
+    <bf:authorizedAccessPoint>Hegel, Georg Wilhelm Friedrich (1770-1831). Enzyklopädie der philosophischen Wissenschaften im Grundrisse.</bf:authorizedAccessPoint>
+    <bf:label>Hegel, Georg Wilhelm Friedrich (1770-1831). Enzyklopädie der philosophischen Wissenschaften im Grundrisse.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#NameTitle"/>
+        <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich (1770-1831). Enzyklopädie der philosophischen Wissenschaften im Grundrisse.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/ram"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich (1770-1831).</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Hegel, Georg Wilhelm Friedrich (1770-1831).</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:Title>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Enzyklopädie der philosophischen Wissenschaften im Grundrisse</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TitleElement>
+                <madsrdf:elementValue>Enzyklopädie der philosophischen Wissenschaften im Grundrisse.</madsrdf:elementValue>
+              </madsrdf:TitleElement>
+            </madsrdf:elementList>
+          </madsrdf:Title>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/ram</bf:authoritySource>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm31974925work23">
+    <bf:title>Bibliothèque des textes philosophiques</bf:title>
+    <bf:authorizedAccessPoint>Bibliothèque des textes philosophiques</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm31974925work8">
+    <bf:title>Encyklopädie der philosophischen Wissenschaften. Selections</bf:title>
+    <madsrdf:authoritativeLabel>Encyklopädie der philosophischen Wissenschaften. Selections</madsrdf:authoritativeLabel>
+    <bf:authorizedAccessPoint>Hegel, Georg Wilhelm Friedrich, 1770-1831.Encyklopädie der philosophischen Wissenschaften. Selections</bf:authorizedAccessPoint>
+    <bf:creator rdf:resource="http://example.org/ocm31974925person13"/>
+  </bf:Work>
+  <bf:Instance rdf:about="http://example.org/ocm31974925instance26">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+    <bf:instanceTitle rdf:resource="http://example.org/ocm31974925title29"/>
+    <bf:titleVariation rdf:resource="http://example.org/ocm31974925title30"/>
+    <bf:isbn10 rdf:resource="http://isbn.example.org/2711612171"/>
+    <bf:isbn13 rdf:resource="http://isbn.example.org/9782711612178"/>
+    <bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>J. Vrin</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Paris </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:providerDate>1994</bf:providerDate>
+      </bf:Provider>
+    </bf:publication>
+    <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+    <bf:extent>287 pages ;</bf:extent>
+    <bf:dimensions>18 cm.</bf:dimensions>
+    <bf:titleStatement>Concept préliminaire de l'Encyclopédie des sciences philosophiques en abrégé</bf:titleStatement>
+    <bf:providerStatement>Paris : J. Vrin, 1994.</bf:providerStatement>
+    <bf:languageNote>Includes German text and French translation on opposite pages.</bf:languageNote>
+    <bf:note>Cover title: Concept préliminaire de la philosophie.</bf:note>
+    <bf:supplementaryContentNote>Includes bibliographical references.</bf:supplementaryContentNote>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/31974925"/>
+    <bf:mediaCategory rdf:resource="http://id.loc.gov/vocabulary/mediaTypes/n"/>
+    <bf:carrierCategory rdf:resource="http://id.loc.gov/vocabulary/carriers/nc"/>
+    <bf:instanceOf rdf:resource="http://example.org/ocm31974925"/>
+  </bf:Instance>
+  <bf:Annotation rdf:about="http://example.org/ocm31974925annotation25">
+    <bf:derivedFrom rdf:resource="http://example.org/ocm31974925.marcxml.xml"/>
+    <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/vyf"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/uba"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/lvb"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcg"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/zwz"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcq"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclco"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcf"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcq"/>
+    <bf:descriptionLanguage rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:changeDate>2016-03-11T22:26</bf:changeDate>
+    <bf:annotates rdf:resource="http://example.org/ocm31974925"/>
+  </bf:Annotation>
+  <bf:HeldItem rdf:about="http://example.org/ocm31974925helditem46">
+    <bf:label>B2918.F7 B63 1994</bf:label>
+    <bf:shelfMarkLcc>B2918.F7 B63 1994</bf:shelfMarkLcc>
+    <bf:holdingFor rdf:resource="http://example.org/ocm31974925instance26"/>
+  </bf:HeldItem>
+  <bf:Title rdf:about="http://example.org/ocm31974925title6">
+    <bf:titleValue>Encyklopädie der philosophischen Wissenschaften.</bf:titleValue>
+  </bf:Title>
+  <bf:Language rdf:about="http://example.org/ocm31974925language7">
+    <bf:languageOfPart>French &amp; German.</bf:languageOfPart>
+  </bf:Language>
+  <bf:Person rdf:about="http://example.org/ocm31974925person13">
+    <bf:label>Hegel, Georg Wilhelm Friedrich, 1770-1831.</bf:label>
+    <bf:authorizedAccessPoint>Hegel, Georg Wilhelm Friedrich, 1770-1831.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich, 1770-1831.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm31974925person9">
+    <bf:label>Hegel, Georg Wilhelm Friedrich, 1770-1831.</bf:label>
+    <bf:authorizedAccessPoint>Hegel, Georg Wilhelm Friedrich, 1770-1831.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich, 1770-1831.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm31974925person10">
+    <bf:label>Bourgeois, Bernard.</bf:label>
+    <bf:authorizedAccessPoint>Bourgeois, Bernard.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Bourgeois, Bernard.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Language rdf:about="http://example.org/ocm31974925language14">
+    <bf:resourcePart>original</bf:resourcePart>
+    <bf:languageOfPartUri rdf:resource="http://id.loc.gov/vocabulary/languages/ger"/>
+  </bf:Language>
+  <bf:Topic rdf:about="http://example.org/ocm31974925topic16">
+    <bf:authorizedAccessPoint>Philosophy</bf:authorizedAccessPoint>
+    <bf:label>Philosophy</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Philosophy</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://example.org/ocm31974925topic18">
+    <bf:authorizedAccessPoint>Philosophie</bf:authorizedAccessPoint>
+    <bf:label>Philosophie</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Philosophie</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://rvm.example.org/rvm"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://example.org/ocm31974925topic19">
+    <bf:authorizedAccessPoint>Philosophy</bf:authorizedAccessPoint>
+    <bf:label>Philosophy</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Philosophy</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/fast"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/fast</bf:authoritySource>
+    <bf:systemNumber>
+      <bf:Identifier>
+        <bf:identifierValue>(OCoLC)fst01060777</bf:identifierValue>
+      </bf:Identifier>
+    </bf:systemNumber>
+  </bf:Topic>
+  <bf:Topic rdf:about="http://example.org/ocm31974925topic20">
+    <bf:authorizedAccessPoint>Hegel, georg wilhelm friedrich</bf:authorizedAccessPoint>
+    <bf:label>Hegel, georg wilhelm friedrich</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic"/>
+        <madsrdf:authoritativeLabel>Hegel, georg wilhelm friedrich</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/larpcal"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/larpcal</bf:authoritySource>
+  </bf:Topic>
+  <bf:Title rdf:about="http://example.org/ocm31974925title29">
+    <bf:label>Concept préliminaire de l'Encyclopédie des sciences philosophiques en abrégé / G.W.F. Hegel ; traduction, introduction, notes et commentaire par Bernard Bourgeois.</bf:label>
+    <bf:titleValue>Concept préliminaire de l'Encyclopédie des sciences philosophiques en abrégé</bf:titleValue>
+  </bf:Title>
+  <bf:Title rdf:about="http://example.org/ocm31974925title30">
+    <bf:label>Concept préliminaire de la philosophie</bf:label>
+    <bf:titleValue>Concept préliminaire de la philosophie</bf:titleValue>
+  </bf:Title>
+</rdf:RDF>

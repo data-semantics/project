@@ -1,0 +1,209 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://bibframe.org/vocab/" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">
+  <bf:Work rdf:about="http://example.org/ocm20743321">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+    <bf:authorizedAccessPoint>Heidegger, Martin, 1889-1976. Les hymnes de Hölderlin : La Germanie et Le Rhin / Martin Heidegger ; texte établi par Suzanne Ziegler ; traduit de l'allemand par François Fédier et Julien Hervier.Les hymnes de Hölderlin :La Germanie et Le Rhin</bf:authorizedAccessPoint>
+    <bf:workTitle rdf:resource="http://example.org/ocm20743321title5"/>
+    <bf:title xml:lang="x-bf-sort">hymnes de Hölderlin :</bf:title>
+    <bf:creator rdf:resource="http://example.org/ocm20743321person7"/>
+    <bf:contributor rdf:resource="http://example.org/ocm20743321person8"/>
+    <bf:contributor rdf:resource="http://example.org/ocm20743321person9"/>
+    <bf:contributor rdf:resource="http://example.org/ocm20743321person10"/>
+    <bf:contentCategory rdf:resource="http://id.loc.gov/vocabulary/contentTypes/txt"/>
+    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/fre"/>
+    <bf:subject rdf:resource="http://example.org/ocm20743321work13"/>
+    <bf:subject rdf:resource="http://example.org/ocm20743321work14"/>
+    <bf:subject rdf:resource="http://example.org/ocm20743321person15"/>
+    <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/B3279.H465"/>
+    <bf:classificationDdc rdf:resource="http://dewey.info/class/199.99"/>
+    <bf:series rdf:resource="http://example.org/ocm20743321work18"/>
+    <bf:series rdf:resource="http://example.org/ocm20743321work19"/>
+    <bf:series rdf:resource="http://example.org/ocm20743321work20"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">heideggermartin18891976hymnesdehölderlinlagermanieetlerhinfrework</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm20743321work13">
+    <bf:authorizedAccessPoint>Hölderlin, Friedrich, 1770-1843. Germanien.</bf:authorizedAccessPoint>
+    <bf:label>Hölderlin, Friedrich, 1770-1843. Germanien.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#NameTitle"/>
+        <madsrdf:authoritativeLabel>Hölderlin, Friedrich, 1770-1843. Germanien.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Hölderlin, Friedrich,</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Hölderlin, Friedrich,</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:Title>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Germanien</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TitleElement>
+                <madsrdf:elementValue>Germanien.</madsrdf:elementValue>
+              </madsrdf:TitleElement>
+            </madsrdf:elementList>
+          </madsrdf:Title>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm20743321work14">
+    <bf:authorizedAccessPoint>Hölderlin, Friedrich, 1770-1843. Rhein.</bf:authorizedAccessPoint>
+    <bf:label>Hölderlin, Friedrich, 1770-1843. Rhein.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#NameTitle"/>
+        <madsrdf:authoritativeLabel>Hölderlin, Friedrich, 1770-1843. Rhein.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Hölderlin, Friedrich,</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Hölderlin, Friedrich,</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:Title>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Rhein</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TitleElement>
+                <madsrdf:elementValue>Rhein.</madsrdf:elementValue>
+              </madsrdf:TitleElement>
+            </madsrdf:elementList>
+          </madsrdf:Title>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm20743321work18">
+    <bf:title>Bibliothèque de philosophie</bf:title>
+    <bf:authorizedAccessPoint>Bibliothèque de philosophie</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm20743321work19">
+    <bf:title>Série Martin Heidegger. Section II, Cours 1923-1944</bf:title>
+    <bf:authorizedAccessPoint>Série Martin Heidegger. Section II, Cours 1923-1944</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm20743321work20">
+    <bf:title>Works. 1982.</bf:title>
+    <bf:authorizedAccessPoint>Works. 1982.</bf:authorizedAccessPoint>
+    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/fre"/>
+  </bf:Work>
+  <bf:Instance rdf:about="http://example.org/ocm20743321instance23">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+    <bf:instanceTitle rdf:resource="http://example.org/ocm20743321title26"/>
+    <bf:title xml:lang="x-bf-sort">hymnes de Hölderlin :</bf:title>
+    <bf:isbn10 rdf:resource="http://isbn.example.org/2070713113"/>
+    <bf:isbn13 rdf:resource="http://isbn.example.org/9782070713110"/>
+    <bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>Gallimard</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Paris </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:providerDate>©1988</bf:providerDate>
+      </bf:Provider>
+    </bf:publication>
+    <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+    <bf:extent>285 pages ;</bf:extent>
+    <bf:dimensions>23 cm.</bf:dimensions>
+    <bf:titleStatement>Les hymnes de Hölderlin : La Germanie et Le Rhin</bf:titleStatement>
+    <bf:providerStatement>Paris : Gallimard, ©1988.</bf:providerStatement>
+    <bf:note>Translation of: Hölderlins Hymnen, Germanien und Der Rhein (Martin Heideggers Gesamtausgabe. II. Abteilung, Vorlesungen 1923-1944 ; Bd. 39).</bf:note>
+    <bf:note>"Cours professé à l'Université de Fribourg-en-Brisgau pendant le semestre d'hiver 1934-1935"--Title page verso.</bf:note>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/20743321"/>
+    <bf:mediaCategory rdf:resource="http://id.loc.gov/vocabulary/mediaTypes/n"/>
+    <bf:carrierCategory rdf:resource="http://id.loc.gov/vocabulary/carriers/nc"/>
+    <bf:instanceOf rdf:resource="http://example.org/ocm20743321"/>
+  </bf:Instance>
+  <bf:Annotation rdf:about="http://example.org/ocm20743321annotation22">
+    <bf:derivedFrom rdf:resource="http://example.org/ocm20743321.marcxml.xml"/>
+    <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/gzq"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/muq"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcg"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/cntru"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcq"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcf"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclco"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcq"/>
+    <bf:descriptionLanguage rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:changeDate>2016-03-11T22:49</bf:changeDate>
+    <bf:annotates rdf:resource="http://example.org/ocm20743321"/>
+  </bf:Annotation>
+  <bf:HeldItem rdf:about="http://example.org/ocm20743321helditem42">
+    <bf:label>B3279.H465 H727 1988 F</bf:label>
+    <bf:shelfMarkLcc>B3279.H465 H727 1988 F</bf:shelfMarkLcc>
+    <bf:holdingFor rdf:resource="http://example.org/ocm20743321instance23"/>
+  </bf:HeldItem>
+  <bf:Title rdf:about="http://example.org/ocm20743321title5">
+    <bf:label>Les hymnes de Hölderlin : La Germanie et Le Rhin / Martin Heidegger ; texte établi par Suzanne Ziegler ; traduit de l'allemand par François Fédier et Julien Hervier.</bf:label>
+    <bf:titleValue>Les hymnes de Hölderlin :</bf:titleValue>
+    <bf:subtitle>La Germanie et Le Rhin </bf:subtitle>
+  </bf:Title>
+  <bf:Person rdf:about="http://example.org/ocm20743321person7">
+    <bf:label>Heidegger, Martin, 1889-1976.</bf:label>
+    <bf:authorizedAccessPoint>Heidegger, Martin, 1889-1976.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Heidegger, Martin, 1889-1976.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm20743321person8">
+    <bf:label>Ziegler, Susanne.</bf:label>
+    <bf:authorizedAccessPoint>Ziegler, Susanne.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Ziegler, Susanne.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm20743321person9">
+    <bf:label>Fédier, François.</bf:label>
+    <bf:authorizedAccessPoint>Fédier, François.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Fédier, François.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm20743321person10">
+    <bf:label>Hervier, Julien.</bf:label>
+    <bf:authorizedAccessPoint>Hervier, Julien.</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Hervier, Julien.</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm20743321person15">
+    <bf:authorizedAccessPoint>Hölderlin, Friedrich, 1770-1843.</bf:authorizedAccessPoint>
+    <bf:label>Hölderlin, Friedrich, 1770-1843.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+        <madsrdf:authoritativeLabel>Hölderlin, Friedrich, 1770-1843.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://rvm.example.org/rvm"/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Title rdf:about="http://example.org/ocm20743321title26">
+    <bf:label>Les hymnes de Hölderlin : La Germanie et Le Rhin / Martin Heidegger ; texte établi par Suzanne Ziegler ; traduit de l'allemand par François Fédier et Julien Hervier.</bf:label>
+    <bf:titleValue>Les hymnes de Hölderlin :</bf:titleValue>
+    <bf:subtitle>La Germanie et Le Rhin </bf:subtitle>
+  </bf:Title>
+</rdf:RDF>

@@ -1,0 +1,232 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://bibframe.org/vocab/" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">
+  <bf:Work rdf:about="http://example.org/ocm12493873">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Text"/>
+    <bf:authorizedAccessPoint>Labarrière, Pierre-Jean, 1931- Structures et mouvement dialectique dans la Phénoménologie de l'esprit de Hegel / Pierre-Jean Labarrière.Structures et mouvement dialectique dans la Phénoménologie de l'esprit de Hegel</bf:authorizedAccessPoint>
+    <bf:workTitle rdf:resource="http://example.org/ocm12493873title5"/>
+    <bf:creator rdf:resource="http://example.org/ocm12493873person6"/>
+    <bf:dissertationNote>Issued also as the author's thesis, Pontificia Università gregoriana.</bf:dissertationNote>
+    <bf:contentCategory rdf:resource="http://id.loc.gov/vocabulary/contentTypes/txt"/>
+    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/fre"/>
+    <bf:subject rdf:resource="http://example.org/ocm12493873work10"/>
+    <bf:subject rdf:resource="http://example.org/ocm12493873work11"/>
+    <bf:subject rdf:resource="http://example.org/ocm12493873work12"/>
+    <bf:subject rdf:resource="http://example.org/ocm12493873person13"/>
+    <bf:classificationLcc rdf:resource="http://id.loc.gov/authorities/classification/B2929"/>
+    <bf:classification rdf:resource="http://example.org/ocm12493873classification15"/>
+    <bf:series rdf:resource="http://example.org/ocm12493873work16"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">labarrièrepierrejean1931structuresetmouvementdialectiquedanslaphénoménologiedelespritdehegelfrework</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm12493873work10">
+    <bf:authorizedAccessPoint>Hegel, Georg Wilhelm Friedrich, 1770-1831. Phänomenologie des Geistes.</bf:authorizedAccessPoint>
+    <bf:label>Hegel, Georg Wilhelm Friedrich, 1770-1831. Phänomenologie des Geistes.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#NameTitle"/>
+        <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich, 1770-1831. Phänomenologie des Geistes.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich,</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Hegel, Georg Wilhelm Friedrich,</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:Title>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Phänomenologie des Geistes</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TitleElement>
+                <madsrdf:elementValue>Phänomenologie des Geistes.</madsrdf:elementValue>
+              </madsrdf:TitleElement>
+            </madsrdf:elementList>
+          </madsrdf:Title>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm12493873work11">
+    <bf:authorizedAccessPoint>Hegel, Georg Wilhelm Friedrich, 1770-1831. Phänomenologie des Geistes.</bf:authorizedAccessPoint>
+    <bf:label>Hegel, Georg Wilhelm Friedrich, 1770-1831. Phänomenologie des Geistes.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#NameTitle"/>
+        <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich, 1770-1831. Phänomenologie des Geistes.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://rvm.example.org/rvm"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich,</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Hegel, Georg Wilhelm Friedrich,</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:Title>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Phänomenologie des Geistes</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TitleElement>
+                <madsrdf:elementValue>Phänomenologie des Geistes.</madsrdf:elementValue>
+              </madsrdf:TitleElement>
+            </madsrdf:elementList>
+          </madsrdf:Title>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm12493873work12">
+    <bf:authorizedAccessPoint>Hegel, Georg Wilhelm Friedrich (1770-1831). Phänomenologie des Geistes.</bf:authorizedAccessPoint>
+    <bf:label>Hegel, Georg Wilhelm Friedrich (1770-1831). Phänomenologie des Geistes.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#NameTitle"/>
+        <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich (1770-1831). Phänomenologie des Geistes.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/ram"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich (1770-1831).</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Hegel, Georg Wilhelm Friedrich (1770-1831).</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:Title>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Phänomenologie des Geistes</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TitleElement>
+                <madsrdf:elementValue>Phänomenologie des Geistes.</madsrdf:elementValue>
+              </madsrdf:TitleElement>
+            </madsrdf:elementList>
+          </madsrdf:Title>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/ram</bf:authoritySource>
+  </bf:Work>
+  <bf:Work rdf:about="http://example.org/ocm12493873work16">
+    <bf:title>Collection analyse et raisons</bf:title>
+    <bf:authorizedAccessPoint>Collection analyse et raisons</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Instance rdf:about="http://example.org/ocm12493873instance19">
+    <rdf:type rdf:resource="http://bibframe.org/vocab/Monograph"/>
+    <bf:instanceTitle rdf:resource="http://example.org/ocm12493873title22"/>
+    <bf:isbn10 rdf:resource="http://isbn.example.org/2700703898"/>
+    <bf:isbn13 rdf:resource="http://isbn.example.org/9782700703894"/>
+    <bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>Aubier-Montaigne</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Paris </bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:providerDate>1985</bf:providerDate>
+      </bf:Provider>
+    </bf:publication>
+    <bf:modeOfIssuance>single unit</bf:modeOfIssuance>
+    <bf:otherPhysicalFormat rdf:resource="http://example.org/ocm12493873instance27"/>
+    <bf:extent>314 pages ;</bf:extent>
+    <bf:dimensions>22 cm.</bf:dimensions>
+    <bf:titleStatement>Structures et mouvement dialectique dans la Phénoménologie de l'esprit de Hegel</bf:titleStatement>
+    <bf:edition>Nouv. éd.</bf:edition>
+    <bf:providerStatement>Paris : Aubier-Montaigne, 1985.</bf:providerStatement>
+    <bf:supplementaryContentNote>Includes bibliographical references.</bf:supplementaryContentNote>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/12493873"/>
+    <bf:mediaCategory rdf:resource="http://id.loc.gov/vocabulary/mediaTypes/n"/>
+    <bf:carrierCategory rdf:resource="http://id.loc.gov/vocabulary/carriers/nc"/>
+    <bf:instanceOf rdf:resource="http://example.org/ocm12493873"/>
+  </bf:Instance>
+  <bf:Instance rdf:about="http://example.org/ocm12493873instance27">
+    <bf:title>Structures et mouvement dialectique dans la Phénoménologie de l'esprit de Hegel.</bf:title>
+    <bf:systemNumber rdf:resource="http://www.worldcat.org/oclc/562071271"/>
+  </bf:Instance>
+  <bf:Annotation rdf:about="http://example.org/ocm12493873annotation18">
+    <bf:derivedFrom rdf:resource="http://example.org/ocm12493873.marcxml.xml"/>
+    <bf:descriptionSource rdf:resource="http://id.loc.gov/vocabulary/organizations/ysm"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/pit"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/muq"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcq"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcg"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/debbg"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/zwz"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcq"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclco"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcf"/>
+    <bf:descriptionModifier rdf:resource="http://id.loc.gov/vocabulary/organizations/oclcq"/>
+    <bf:descriptionLanguage rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/aacr2"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:changeDate>2016-03-11T22:37</bf:changeDate>
+    <bf:annotates rdf:resource="http://example.org/ocm12493873"/>
+  </bf:Annotation>
+  <bf:HeldItem rdf:about="http://example.org/ocm12493873helditem38">
+    <bf:label>B2929 .L32 1985</bf:label>
+    <bf:shelfMarkLcc>B2929 .L32 1985</bf:shelfMarkLcc>
+    <bf:holdingFor rdf:resource="http://example.org/ocm12493873instance19"/>
+  </bf:HeldItem>
+  <bf:Title rdf:about="http://example.org/ocm12493873title5">
+    <bf:label>Structures et mouvement dialectique dans la Phénoménologie de l'esprit de Hegel / Pierre-Jean Labarrière.</bf:label>
+    <bf:titleValue>Structures et mouvement dialectique dans la Phénoménologie de l'esprit de Hegel</bf:titleValue>
+  </bf:Title>
+  <bf:Person rdf:about="http://example.org/ocm12493873person6">
+    <bf:label>Labarrière, Pierre-Jean, 1931-</bf:label>
+    <bf:authorizedAccessPoint>Labarrière, Pierre-Jean, 1931-</bf:authorizedAccessPoint>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <madsrdf:authoritativeLabel>Labarrière, Pierre-Jean, 1931-</madsrdf:authoritativeLabel>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Person>
+  <bf:Person rdf:about="http://example.org/ocm12493873person13">
+    <bf:authorizedAccessPoint>Hegel, Georg Wilhelm Friedrich, (1770-1831)--Dialectique.</bf:authorizedAccessPoint>
+    <bf:label>Hegel, Georg Wilhelm Friedrich, (1770-1831)--Dialectique.</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+        <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich, (1770-1831)--Dialectique.</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/vocabulary/subjectSchemes/ram"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:PersonalName>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Hegel, Georg Wilhelm Friedrich,</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:FullNameElement>
+                <madsrdf:elementValue>Hegel, Georg Wilhelm Friedrich,</madsrdf:elementValue>
+              </madsrdf:FullNameElement>
+            </madsrdf:elementList>
+          </madsrdf:PersonalName>
+          <madsrdf:Topic>
+            <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+            <madsrdf:authoritativeLabel>Dialectique</madsrdf:authoritativeLabel>
+            <madsrdf:elementList rdf:parseType="Collection">
+              <madsrdf:TopicElement>
+                <madsrdf:elementValue>Dialectique.</madsrdf:elementValue>
+              </madsrdf:TopicElement>
+            </madsrdf:elementList>
+          </madsrdf:Topic>
+        </madsrdf:componentList>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+    <bf:authoritySource>http://id.loc.gov/vocabulary/subjectSchemes/ram</bf:authoritySource>
+  </bf:Person>
+  <bf:Classification rdf:about="http://example.org/ocm12493873classification15">
+    <bf:classificationScheme>rvk</bf:classificationScheme>
+    <bf:classificationNumber>CG 4077</bf:classificationNumber>
+    <bf:label>CG 4077</bf:label>
+  </bf:Classification>
+  <bf:Title rdf:about="http://example.org/ocm12493873title22">
+    <bf:label>Structures et mouvement dialectique dans la Phénoménologie de l'esprit de Hegel / Pierre-Jean Labarrière.</bf:label>
+    <bf:titleValue>Structures et mouvement dialectique dans la Phénoménologie de l'esprit de Hegel</bf:titleValue>
+  </bf:Title>
+</rdf:RDF>
