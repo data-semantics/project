@@ -1,0 +1,78 @@
+IU Data Semantics group project: SPARQL queries
+March 27, 2016
+
+(1) Find all named entities tagged in an annotation, but who are not also
+    annotation creators.
+
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX oa: <http://www.w3.org/ns/oa#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+
+SELECT DISTINCT ?anno ?label
+WHERE {       
+    ?tag skos:prefLabel ?label
+    MINUS { ?anno dcterms:creator ?tag  }
+}
+ORDER BY ?label
+LIMIT 100
+
+(2) Find annotation creators who mention Marguerite Derrida 
+    (http://viaf.org/viaf/163091629) in their annotations
+
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX oa: <http://www.w3.org/ns/oa#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+
+SELECT DISTINCT ?anno ?name
+WHERE {       
+    ?anno dcterms:creator ?creator .
+  	?anno oa:hasBody ?body .
+	?meta oa:hasBody ?bn2 .
+	?bn2 oa:hasSource <http://viaf.org/viaf/163091629> .
+  	?meta oa:hasTarget ?bn1 .
+  	?bn1 oa:hasSource ?body .  	
+    ?creator skos:prefLabel ?name .  
+}
+ORDER BY ?label
+LIMIT 100
+
+(3) Find annotation texts that include words starting with "ami".
+
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX oa: <http://www.w3.org/ns/oa#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+
+SELECT *
+WHERE {       
+	?s ?p ?o .
+  	FILTER(regex(?o, "ami.*", "i"))
+}
+ORDER BY ?label
+LIMIT 100
+
+(4) Find all annotations in English (or French, etc.)
+
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX oa: <http://www.w3.org/ns/oa#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+
+SELECT ?body ?text
+WHERE {       
+	?body dc:language "en" .
+  	?body oa:text ?text .
+}
+ORDER BY ?label
+LIMIT 100
+
+
+(5) Find editions for books with annotations
+
+* Addition book data is needed to execute this query. To be downloaded from worldcat.org.  
