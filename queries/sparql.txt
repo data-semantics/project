@@ -75,4 +75,4 @@ LIMIT 100
 
 (5) Find editions for books with annotations
 
-* Addition book data is needed to execute this query. To be downloaded from worldcat.org.  
+* Additional book data is needed to execute this query. To be downloaded from worldcat.org.  
