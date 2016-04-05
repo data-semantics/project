@@ -1,0 +1,66 @@
+﻿ <http://www.worldcat.org/title/cahiers-internationaux-de-symbolisme/oclc/1538072&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/cahiers-internationaux-de-symbolisme/oclc/1538072&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/1538072> .
+ <http://www.worldcat.org/oclc/1538072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+ <http://www.worldcat.org/oclc/1538072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/1538072> <http://purl.org/library/oclcnum> "1538072"@en .
+ <http://www.worldcat.org/oclc/1538072> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/386917248#Place/mons_etc> .
+ <http://www.worldcat.org/oclc/1538072> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/be> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/386917248#Topic/symbolismus> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/386917248#Topic/literatur> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/about> <http://id.worldcat.org/fast/1140764> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/386917248#Topic/symbol> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/386917248#Topic/symbolisme_psychologie> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/386917248#Topic/symbolisme> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/about> <http://dewey.info/class/001.51/e19/> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/about> <http://id.loc.gov/authorities/classification/BF458> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/contributor> <http://viaf.org/viaf/67455455> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/contributor> <http://viaf.org/viaf/121868154> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/contributor> <http://viaf.org/viaf/258483707> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/datePublished> "1963/9999"@en .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/386917248> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/genre> "Zeitschrift"@en .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/genre> "Periodicals"@en .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/inLanguage> "fr"@en .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/name> "Cahiers internationaux de symbolisme."@en .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1538072#PublicationEvent/mons_etc_centre_interdisiplinaire_d_etudes_philosophique_de_l_universite_de_mons> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/386917248#Agent/centre_interdisiplinaire_d_etudes_philosophique_de_l_universite_de_mons> .
+ <http://www.worldcat.org/oclc/1538072> <http://schema.org/workExample> <http://worldcat.org/issn/0008-0284> .
+ <http://www.worldcat.org/oclc/1538072> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1538072> .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Place/mons_etc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Place/mons_etc> <http://schema.org/name> "Mons, etc."@en .
+ <http://id.loc.gov/vocabulary/countries/be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/be> <http://purl.org/dc/terms/identifier> "be"@en .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Topic/symbolismus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Topic/symbolismus> <http://schema.org/name> "Symbolismus."@en .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Topic/literatur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Topic/literatur> <http://schema.org/name> "Literatur."@en .
+ <http://id.worldcat.org/fast/1140764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/1140764> <http://schema.org/name> "Symbolism (Psychology)"@en .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Topic/symbol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Topic/symbol> <http://schema.org/name> "Symbol"@en .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Topic/symbolisme_psychologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Topic/symbolisme_psychologie> <http://schema.org/name> "Symbolisme (Psychologie)"@en .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Topic/symbolisme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Topic/symbolisme> <http://schema.org/name> "Symbolisme."@en .
+ <http://dewey.info/class/001.51/e19/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/classification/BF458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://viaf.org/viaf/67455455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/67455455> <http://schema.org/familyName> "Engelson"@en .
+ <http://viaf.org/viaf/67455455> <http://schema.org/givenName> "Moïse"@en .
+ <http://viaf.org/viaf/67455455> <http://schema.org/name> "Engelson, Moïse."@en .
+ <http://viaf.org/viaf/121868154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+ <http://viaf.org/viaf/121868154> <http://schema.org/name> "Société de symbolisme."@en .
+ <http://viaf.org/viaf/258483707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+ <http://viaf.org/viaf/258483707> <http://schema.org/name> "Université de Mons. Centre interdisciplinaire d'études philosophiques."@en .
+ <http://www.worldcat.org/title/-/oclc/1538072#PublicationEvent/mons_etc_centre_interdisiplinaire_d_etudes_philosophique_de_l_universite_de_mons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/1538072#PublicationEvent/mons_etc_centre_interdisiplinaire_d_etudes_philosophique_de_l_universite_de_mons> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/386917248#Place/mons_etc> .
+ <http://www.worldcat.org/title/-/oclc/1538072#PublicationEvent/mons_etc_centre_interdisiplinaire_d_etudes_philosophique_de_l_universite_de_mons> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/386917248#Agent/centre_interdisiplinaire_d_etudes_philosophique_de_l_universite_de_mons> .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Agent/centre_interdisiplinaire_d_etudes_philosophique_de_l_universite_de_mons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/386917248#Agent/centre_interdisiplinaire_d_etudes_philosophique_de_l_universite_de_mons> <http://schema.org/name> "Centre interdisiplinaire d'études philosophique de l'Université de Mons"@en .
+ <http://worldcat.org/issn/0008-0284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+ <http://worldcat.org/issn/0008-0284> <http://schema.org/issn> "0008-0284"@en .
+ <http://worldcat.org/issn/0008-0284> <http://schema.org/name> "Cahiers internationaux de symbolisme."@en .
+ <http://www.worldcat.org/title/-/oclc/1538072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/1538072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/1538072> <http://schema.org/about> <http://www.worldcat.org/oclc/1538072> .
+ <http://www.worldcat.org/title/-/oclc/1538072> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

@@ -1,0 +1,51 @@
+﻿ <http://www.worldcat.org/title/oeuvres-3-le-transfert-et-autres-travaux-psychanalytiques-1952-1956/oclc/917648766&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/oeuvres-3-le-transfert-et-autres-travaux-psychanalytiques-1952-1956/oclc/917648766&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/917648766> .
+ <http://www.worldcat.org/oclc/917648766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/917648766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/917648766> <http://purl.org/library/oclcnum> "917648766"@en .
+ <http://www.worldcat.org/oclc/917648766> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2864844824#Place/paris> .
+ <http://www.worldcat.org/oclc/917648766> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+ <http://www.worldcat.org/oclc/917648766> <http://schema.org/bookFormat> <http://bibliograph.net/PrintBook> .
+ <http://www.worldcat.org/oclc/917648766> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2864844824#Person/rosenblum_eva> .
+ <http://www.worldcat.org/oclc/917648766> <http://schema.org/creator> <http://experiment.worldcat.org/entity/work/data/2864844824#Person/lagache_daniel> .
+ <http://www.worldcat.org/oclc/917648766> <http://schema.org/datePublished> "1980"@en .
+ <http://www.worldcat.org/oclc/917648766> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2864844824> .
+ <http://www.worldcat.org/oclc/917648766> <http://schema.org/inLanguage> "fr"@en .
+ <http://www.worldcat.org/oclc/917648766> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/2864844824#Series/bibliotheque_de_psychanalyse> .
+ <http://www.worldcat.org/oclc/917648766> <http://schema.org/name> "Oeuvres. 3, Le transfert et autres travaux psychanalytiques : (1952 - 1956)"@en .
+ <http://www.worldcat.org/oclc/917648766> <http://schema.org/productID> "917648766"@en .
+ <http://www.worldcat.org/oclc/917648766> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/917648766#PublicationEvent/paris_presses_univ_de_france_1980> .
+ <http://www.worldcat.org/oclc/917648766> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2864844824#Agent/presses_univ_de_france> .
+ <http://www.worldcat.org/oclc/917648766> <http://schema.org/workExample> <http://worldcat.org/isbn/9782130363804> .
+ <http://www.worldcat.org/oclc/917648766> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/917648766> .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Agent/presses_univ_de_france> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Agent/presses_univ_de_france> <http://schema.org/name> "Presses Univ. de France"@en .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Person/lagache_daniel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Person/lagache_daniel> <http://schema.org/familyName> "Lagache"@en .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Person/lagache_daniel> <http://schema.org/givenName> "Daniel"@en .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Person/lagache_daniel> <http://schema.org/name> "Daniel Lagache"@en .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Person/lagache_daniel> <http://schema.org/sameAs> <http://d-nb.info/gnd/102335559> .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Person/rosenblum_eva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Person/rosenblum_eva> <http://schema.org/familyName> "Rosenblum"@en .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Person/rosenblum_eva> <http://schema.org/givenName> "Eva"@en .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Person/rosenblum_eva> <http://schema.org/name> "Eva Rosenblum"@en .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Person/rosenblum_eva> <http://schema.org/sameAs> <http://d-nb.info/gnd/151491690> .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Place/paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Place/paris> <http://schema.org/name> "Paris"@en .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Series/bibliotheque_de_psychanalyse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Series/bibliotheque_de_psychanalyse> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/917648766> .
+ <http://experiment.worldcat.org/entity/work/data/2864844824#Series/bibliotheque_de_psychanalyse> <http://schema.org/name> "Bibliothèque de psychanalyse"@en .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr"@en .
+ <http://worldcat.org/isbn/9782130363804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> .
+ <http://worldcat.org/isbn/9782130363804> <http://schema.org/isbn> "2130363806"@en .
+ <http://worldcat.org/isbn/9782130363804> <http://schema.org/isbn> "9782130363804"@en .
+ <http://www.worldcat.org/title/-/oclc/917648766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/917648766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/917648766> <http://schema.org/about> <http://www.worldcat.org/oclc/917648766> .
+ <http://www.worldcat.org/title/-/oclc/917648766> <http://schema.org/dateModified> "2016-01-12"@en .
+ <http://www.worldcat.org/title/-/oclc/917648766> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+ <http://www.worldcat.org/title/-/oclc/917648766#PublicationEvent/paris_presses_univ_de_france_1980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/917648766#PublicationEvent/paris_presses_univ_de_france_1980> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2864844824#Place/paris> .
+ <http://www.worldcat.org/title/-/oclc/917648766#PublicationEvent/paris_presses_univ_de_france_1980> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2864844824#Agent/presses_univ_de_france> .
+ <http://www.worldcat.org/title/-/oclc/917648766#PublicationEvent/paris_presses_univ_de_france_1980> <http://schema.org/startDate> "1980"@en .

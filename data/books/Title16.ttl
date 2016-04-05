@@ -1,0 +1,93 @@
+﻿ <http://www.worldcat.org/title/vers-la-paix-perpetuelle-que-signifie-sorienter-dans-la-pensee-quest-ce-que-les-lumieres-et-autres-textes/oclc/24461114&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/vers-la-paix-perpetuelle-que-signifie-sorienter-dans-la-pensee-quest-ce-que-les-lumieres-et-autres-textes/oclc/24461114&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/24461114> .
+ <http://www.worldcat.org/oclc/24461114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/24461114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/24461114> <http://bibliograph.net/translationOfWork> <http://www.worldcat.org/title/-/oclc/24461114#CreativeWork/unidentifiedOriginalWork> .
+ <http://www.worldcat.org/oclc/24461114> <http://purl.org/library/oclcnum> "24461114"@en .
+ <http://www.worldcat.org/oclc/24461114> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2564827747#Place/paris> .
+ <http://www.worldcat.org/oclc/24461114> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/pensee> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/paix> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/criticisme> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/paix_philosophie> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/mouvement_des_lumieres> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/about> <http://viaf.org/viaf/82088490> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/about> <http://dewey.info/class/193/a9/> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/philosophie_etude_et_enseignement_secondaire> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/philosophie_dix_huitieme_siecle> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/about> <http://id.loc.gov/authorities/classification/B2750> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/raison> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/siecle_des_lumieres> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/alternateName> "Qu'est-ce que les Lumières?"@en .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/alternateName> "Que signifie s'orienter dans la pensée?"@en .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/bookFormat> <http://bibliograph.net/PrintBook> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/contributor> <http://viaf.org/viaf/71436219> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/copyrightYear> "1991"@en .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/creator> <http://viaf.org/viaf/82088490> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/datePublished> "1991"@en .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2564827747> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/inLanguage> "fr"@en .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/2564827747#Series/garnier_flammarion_series> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/2564827747#Series/gf_grand_format> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/name> "Vers la paix perpétuelle. Que signifie s'orienter dans la pensée? Qu'est-ce que les Lumières? : et autres textes"@en .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/numberOfPages> "206"@en .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/productID> "24461114"@en .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/24461114#PublicationEvent/paris_flammarion_1991> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2564827747#Agent/flammarion> .
+ <http://www.worldcat.org/oclc/24461114> <http://schema.org/workExample> <http://worldcat.org/isbn/9782080705730> .
+ <http://www.worldcat.org/oclc/24461114> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/24461114> .
+ <http://dewey.info/class/193/a9/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Agent/flammarion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Agent/flammarion> <http://schema.org/name> "Flammarion"@en .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Place/paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Place/paris> <http://schema.org/name> "Paris"@en .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Series/garnier_flammarion_series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Series/garnier_flammarion_series> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/24461114> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Series/garnier_flammarion_series> <http://schema.org/name> "Garnier Flammarion (Series) ;"@en .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Series/gf_grand_format> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Series/gf_grand_format> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/24461114> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Series/gf_grand_format> <http://schema.org/name> "GF grand-format ;"@en .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/criticisme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/criticisme> <http://schema.org/name> "Criticisme"@en .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/mouvement_des_lumieres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/mouvement_des_lumieres> <http://schema.org/name> "Mouvement des Lumières"@en .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/paix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/paix> <http://schema.org/name> "Paix"@en .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/paix_philosophie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/paix_philosophie> <http://schema.org/name> "Paix--Philosophie"@en .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/pensee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/pensee> <http://schema.org/name> "Pensée"@en .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/philosophie_dix_huitieme_siecle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/philosophie_dix_huitieme_siecle> <http://schema.org/name> "Philosophie--Dix-huitième siècle"@en .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/philosophie_etude_et_enseignement_secondaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/philosophie_etude_et_enseignement_secondaire> <http://schema.org/name> "Philosophie--Étude et enseignement (secondaire)"@en .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/raison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/raison> <http://schema.org/name> "Raison"@en .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/siecle_des_lumieres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/2564827747#Topic/siecle_des_lumieres> <http://schema.org/name> "Siècle des lumières"@en .
+ <http://id.loc.gov/authorities/classification/B2750> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr"@en .
+ <http://viaf.org/viaf/71436219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/71436219> <http://schema.org/familyName> "Proust"@en .
+ <http://viaf.org/viaf/71436219> <http://schema.org/givenName> "Françoise"@en .
+ <http://viaf.org/viaf/71436219> <http://schema.org/name> "Françoise Proust"@en .
+ <http://viaf.org/viaf/82088490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/82088490> <http://schema.org/birthDate> "1724"@en .
+ <http://viaf.org/viaf/82088490> <http://schema.org/deathDate> "1804"@en .
+ <http://viaf.org/viaf/82088490> <http://schema.org/familyName> "Kant"@en .
+ <http://viaf.org/viaf/82088490> <http://schema.org/givenName> "Immanuel"@en .
+ <http://viaf.org/viaf/82088490> <http://schema.org/name> "Immanuel Kant"@en .
+ <http://worldcat.org/isbn/9782080705730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> .
+ <http://worldcat.org/isbn/9782080705730> <http://schema.org/isbn> "2080705733"@en .
+ <http://worldcat.org/isbn/9782080705730> <http://schema.org/isbn> "9782080705730"@en .
+ <http://www.worldcat.org/title/-/oclc/24461114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/24461114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/24461114> <http://schema.org/about> <http://www.worldcat.org/oclc/24461114> .
+ <http://www.worldcat.org/title/-/oclc/24461114> <http://schema.org/dateModified> "2015-07-07"@en .
+ <http://www.worldcat.org/title/-/oclc/24461114> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+ <http://www.worldcat.org/title/-/oclc/24461114#CreativeWork/unidentifiedOriginalWork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/title/-/oclc/24461114#CreativeWork/unidentifiedOriginalWork> <http://schema.org/inLanguage> "de"@en .
+ <http://www.worldcat.org/title/-/oclc/24461114#PublicationEvent/paris_flammarion_1991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/24461114#PublicationEvent/paris_flammarion_1991> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2564827747#Place/paris> .
+ <http://www.worldcat.org/title/-/oclc/24461114#PublicationEvent/paris_flammarion_1991> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2564827747#Agent/flammarion> .

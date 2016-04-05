@@ -1,0 +1,99 @@
+ <http://www.worldcat.org/title/systeme-et-revelation-la-philosophie-de-franz-rosenzweig/oclc/10145448&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/systeme-et-revelation-la-philosophie-de-franz-rosenzweig/oclc/10145448&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/10145448> .
+ <http://www.worldcat.org/oclc/10145448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/10145448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/10145448> <http://purl.org/library/oclcnum> "10145448"@en .
+ <http://www.worldcat.org/oclc/10145448> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+ <http://www.worldcat.org/oclc/10145448> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/139187448#Place/paris> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85070843> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/139187448#Topic/philosophie> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/about> <http://id.loc.gov/authorities/classification/B3327> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/about> <http://id.loc.gov/authorities/classification/BM755> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/about> <http://dewey.info/class/296.3/e19/> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/139187448#Topic/religion_philosophie> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/about> <http://viaf.org/viaf/68935195> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/139187448#Topic/joodse_filosofie> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929_stern_der_erlosung> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/about> <http://id.worldcat.org/fast/984302> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/bookFormat> <http://bibliograph.net/PrintBook> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/copyrightYear> "1982"@en .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/creator> <http://viaf.org/viaf/54349072> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/datePublished> "1982"@en .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/139187448> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/inLanguage> "fr"@en .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/139187448#Series/collection_esprit> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/139187448#Series/collection_esprit_la_condition_humaine> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/612933242> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/name> "Système et révélation : la philosophie de Franz Rosenzweig"@en .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/productID> "10145448"@en .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/10145448#PublicationEvent/paris_seuil_1982> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/139187448#Agent/seuil> .
+ <http://www.worldcat.org/oclc/10145448> <http://schema.org/workExample> <http://worldcat.org/isbn/9782020061537> .
+ <http://www.worldcat.org/oclc/10145448> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/10145448> .
+ <http://dewey.info/class/296.3/e19/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Agent/seuil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Agent/seuil> <http://schema.org/name> "Seuil"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929> <http://schema.org/birthDate> "1886"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929> <http://schema.org/deathDate> "1929"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929> <http://schema.org/familyName> "Rosenzweig"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929> <http://schema.org/givenName> "Franz"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929> <http://schema.org/name> "Franz Rosenzweig"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929> <http://schema.org/sameAs> <http://d-nb.info/gnd/118602802> .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929_stern_der_erlosung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929_stern_der_erlosung> <http://schema.org/birthDate> "1886"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929_stern_der_erlosung> <http://schema.org/deathDate> "1929"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929_stern_der_erlosung> <http://schema.org/familyName> "Rosenzweig"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929_stern_der_erlosung> <http://schema.org/givenName> "Franz <> / Stern der Erlösung"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Person/rosenzweig_franz_1886_1929_stern_der_erlosung> <http://schema.org/name> "Franz < Rosenzweig"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Place/paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Place/paris> <http://schema.org/name> "Paris"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Series/collection_esprit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Series/collection_esprit> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/10145448> .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Series/collection_esprit> <http://schema.org/name> "Collection Esprit."@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Series/collection_esprit_la_condition_humaine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Series/collection_esprit_la_condition_humaine> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/10145448> .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Series/collection_esprit_la_condition_humaine> <http://schema.org/name> "Collection Esprit. \"La Condition humaine\""@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Topic/joodse_filosofie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Topic/joodse_filosofie> <http://schema.org/name> "Joodse filosofie"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Topic/philosophie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Topic/philosophie> <http://schema.org/name> "Philosophie"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Topic/religion_philosophie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Topic/religion_philosophie> <http://schema.org/name> "Religion - Philosophie"@en .
+ <http://experiment.worldcat.org/entity/work/data/139187448#Topic/religion_philosophie> <http://schema.org/name> "Religion--Philosophie"@en .
+ <http://id.loc.gov/authorities/classification/B3327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/classification/BM755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/subjects/sh85070843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/subjects/sh85070843> <http://schema.org/name> "Judaism--Doctrines"@en .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr"@en .
+ <http://id.worldcat.org/fast/984302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/984302> <http://schema.org/name> "Judaism--Doctrines"@en .
+ <http://viaf.org/viaf/54349072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/54349072> <http://schema.org/birthDate> "1931"@en .
+ <http://viaf.org/viaf/54349072> <http://schema.org/deathDate> "2007"@en .
+ <http://viaf.org/viaf/54349072> <http://schema.org/familyName> "Mosès"@en .
+ <http://viaf.org/viaf/54349072> <http://schema.org/givenName> "Stéphane"@en .
+ <http://viaf.org/viaf/54349072> <http://schema.org/name> "Stéphane Mosès"@en .
+ <http://viaf.org/viaf/68935195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/68935195> <http://schema.org/birthDate> "1886"@en .
+ <http://viaf.org/viaf/68935195> <http://schema.org/deathDate> "1929"@en .
+ <http://viaf.org/viaf/68935195> <http://schema.org/familyName> "Rosenzweig"@en .
+ <http://viaf.org/viaf/68935195> <http://schema.org/givenName> "Franz"@en .
+ <http://viaf.org/viaf/68935195> <http://schema.org/name> "Franz Rosenzweig"@en .
+ <http://worldcat.org/isbn/9782020061537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> .
+ <http://worldcat.org/isbn/9782020061537> <http://schema.org/isbn> "2020061538"@en .
+ <http://worldcat.org/isbn/9782020061537> <http://schema.org/isbn> "9782020061537"@en .
+ <http://www.worldcat.org/oclc/612933242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/612933242> <http://www.w3.org/2000/01/rdf-schema#label> "Système et révélation."@en .
+ <http://www.worldcat.org/oclc/612933242> <http://schema.org/description> "Online version:"@en .
+ <http://www.worldcat.org/oclc/612933242> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/10145448> .
+ <http://www.worldcat.org/title/-/oclc/10145448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/10145448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/10145448> <http://schema.org/about> <http://www.worldcat.org/oclc/10145448> .
+ <http://www.worldcat.org/title/-/oclc/10145448> <http://schema.org/dateModified> "2015-08-14"@en .
+ <http://www.worldcat.org/title/-/oclc/10145448> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+ <http://www.worldcat.org/title/-/oclc/10145448#PublicationEvent/paris_seuil_1982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/10145448#PublicationEvent/paris_seuil_1982> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/139187448#Place/paris> .
+ <http://www.worldcat.org/title/-/oclc/10145448#PublicationEvent/paris_seuil_1982> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/139187448#Agent/seuil> .

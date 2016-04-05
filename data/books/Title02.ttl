@@ -1,0 +1,99 @@
+﻿ <http://www.worldcat.org/title/traite-sur-la-liberte-et-la-volonte-de-lun-enneade-vi-8-39/oclc/24251579&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/traite-sur-la-liberte-et-la-volonte-de-lun-enneade-vi-8-39/oclc/24251579&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/24251579> .
+ <http://www.worldcat.org/oclc/24251579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/24251579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/24251579> <http://bibliograph.net/translationOfWork> <http://www.worldcat.org/title/-/oclc/24251579#CreativeWork/unidentifiedOriginalWork> .
+ <http://www.worldcat.org/oclc/24251579> <http://purl.org/dc/terms/language> "fregrc"@en .
+ <http://www.worldcat.org/oclc/24251579> <http://purl.org/library/oclcnum> "24251579"@en .
+ <http://www.worldcat.org/oclc/24251579> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/25747667#Place/paris> .
+ <http://www.worldcat.org/oclc/24251579> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+ <http://www.worldcat.org/oclc/24251579> <http://www.w3.org/2000/01/rdf-schema#comment> "Using dcterms:language instead of schema:inLanguage because the value doesn't map to BCP-47"@en .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/25747667#Topic/neo_platonisme> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/about> <http://id.worldcat.org/fast/1198525> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/25747667#Topic/enneaden_plotinus> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/25747667#Topic/will_early_works_to_1800> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/25747667#Topic/one_the_one_in_philosophy_early_works_to_1800> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/about> <http://id.worldcat.org/fast/997251> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/25747667#Topic/libre_arbitre_et_determinisme> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/25747667#Topic/liberty_early_works_to_1800> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/about> <http://dewey.info/class/186.4/e20/> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/about> <http://id.loc.gov/authorities/classification/B693> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/25747667#Topic/un_philosophie> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/about> <http://id.worldcat.org/fast/1045763> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/bookFormat> <http://bibliograph.net/PrintBook> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/contributor> <http://viaf.org/viaf/92049796> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/creator> <http://viaf.org/viaf/108386765> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/datePublished> "1990"@en .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/25747667> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/genre> "Early works"@en .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/inLanguage> "fr"@en .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/25747667#Series/histoire_des_doctrines_de_l_antiquite_classique> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/654678036> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/name> "Traité sur la liberté et la volonté de l'Un : Ennéade VI, 8 (39)"@en .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/numberOfPages> "447"@en .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/productID> "24251579"@en .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/24251579#PublicationEvent/paris_j_vrin_1990> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/25747667#Agent/j_vrin> .
+ <http://www.worldcat.org/oclc/24251579> <http://schema.org/workExample> <http://worldcat.org/isbn/9782711610273> .
+ <http://www.worldcat.org/oclc/24251579> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/24251579> .
+ <http://dewey.info/class/186.4/e20/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Agent/j_vrin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Agent/j_vrin> <http://schema.org/name> "J. Vrin"@en .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Place/paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Place/paris> <http://schema.org/name> "Paris"@en .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Series/histoire_des_doctrines_de_l_antiquite_classique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Series/histoire_des_doctrines_de_l_antiquite_classique> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/24251579> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Series/histoire_des_doctrines_de_l_antiquite_classique> <http://schema.org/name> "Histoire des doctrines de l'Antiquité classique ;"@en .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/enneaden_plotinus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/enneaden_plotinus> <http://schema.org/name> "Enneaden (Plotinus)"@en .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/liberty_early_works_to_1800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/liberty_early_works_to_1800> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh2009129646> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/liberty_early_works_to_1800> <http://schema.org/name> "Liberty--Early works to 1800"@en .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/libre_arbitre_et_determinisme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/libre_arbitre_et_determinisme> <http://schema.org/name> "Libre arbitre et déterminisme"@en .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/neo_platonisme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/neo_platonisme> <http://schema.org/name> "Néo-platonisme"@en .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/one_the_one_in_philosophy_early_works_to_1800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/one_the_one_in_philosophy_early_works_to_1800> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85094740> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/one_the_one_in_philosophy_early_works_to_1800> <http://schema.org/name> "One (The One in philosophy)--Early works to 1800"@en .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/un_philosophie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/un_philosophie> <http://schema.org/name> "Un (philosophie)"@en .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/will_early_works_to_1800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/will_early_works_to_1800> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85146775> .
+ <http://experiment.worldcat.org/entity/work/data/25747667#Topic/will_early_works_to_1800> <http://schema.org/name> "Will--Early works to 1800"@en .
+ <http://id.loc.gov/authorities/classification/B693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr"@en .
+ <http://id.worldcat.org/fast/1045763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/1045763> <http://schema.org/name> "One (The One in philosophy)"@en .
+ <http://id.worldcat.org/fast/1198525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/1198525> <http://schema.org/name> "Will"@en .
+ <http://id.worldcat.org/fast/997251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/997251> <http://schema.org/name> "Liberty"@en .
+ <http://viaf.org/viaf/108386765> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/108386765> <http://schema.org/givenName> "Plotinus"@en .
+ <http://viaf.org/viaf/108386765> <http://schema.org/name> "Plotinus."@en .
+ <http://viaf.org/viaf/92049796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/92049796> <http://schema.org/familyName> "Leroux"@en .
+ <http://viaf.org/viaf/92049796> <http://schema.org/givenName> "Georges"@en .
+ <http://viaf.org/viaf/92049796> <http://schema.org/name> "Georges Leroux"@en .
+ <http://worldcat.org/entity/work/id/25747667> <http://schema.org/name> "Enneads. VI, 8."@en .
+ <http://worldcat.org/isbn/9782711610273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> .
+ <http://worldcat.org/isbn/9782711610273> <http://schema.org/isbn> "2711610276"@en .
+ <http://worldcat.org/isbn/9782711610273> <http://schema.org/isbn> "9782711610273"@en .
+ <http://www.worldcat.org/oclc/654678036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/654678036> <http://www.w3.org/2000/01/rdf-schema#label> "Traité sur la liberté et la volonté de l'Un."@en .
+ <http://www.worldcat.org/oclc/654678036> <http://schema.org/description> "Online version:"@en .
+ <http://www.worldcat.org/oclc/654678036> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/24251579> .
+ <http://www.worldcat.org/title/-/oclc/24251579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/24251579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/24251579> <http://schema.org/about> <http://www.worldcat.org/oclc/24251579> .
+ <http://www.worldcat.org/title/-/oclc/24251579> <http://schema.org/dateModified> "2015-09-27"@en .
+ <http://www.worldcat.org/title/-/oclc/24251579> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+ <http://www.worldcat.org/title/-/oclc/24251579#CreativeWork/unidentifiedOriginalWork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/title/-/oclc/24251579#CreativeWork/unidentifiedOriginalWork> <http://schema.org/inLanguage> "grc"@en .
+ <http://www.worldcat.org/title/-/oclc/24251579#CreativeWork/unidentifiedOriginalWork> <http://schema.org/name> "Enneads. VI, 8."@en .
+ <http://www.worldcat.org/title/-/oclc/24251579#PublicationEvent/paris_j_vrin_1990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/24251579#PublicationEvent/paris_j_vrin_1990> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/25747667#Place/paris> .
+ <http://www.worldcat.org/title/-/oclc/24251579#PublicationEvent/paris_j_vrin_1990> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/25747667#Agent/j_vrin> .
+ <http://www.worldcat.org/title/-/oclc/24251579#PublicationEvent/paris_j_vrin_1990> <http://schema.org/startDate> "1990"@en .

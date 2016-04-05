@@ -1,0 +1,102 @@
+﻿ <http://www.worldcat.org/title/en-decouvrant-lexistence-avec-husserl-et-heidegger-reimpression-conforme-a-la-premiere-edition-suivie-dessais-nouveaux/oclc/4411374&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/en-decouvrant-lexistence-avec-husserl-et-heidegger-reimpression-conforme-a-la-premiere-edition-suivie-dessais-nouveaux/oclc/4411374&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/4411374> .
+ <http://www.worldcat.org/oclc/4411374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/4411374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/4411374> <http://purl.org/library/oclcnum> "4411374"@en .
+ <http://www.worldcat.org/oclc/4411374> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+ <http://www.worldcat.org/oclc/4411374> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3994762#Place/paris> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3994762#Topic/phenomenologie> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/about> <http://viaf.org/viaf/44300322> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3994762#Topic/fenomenologie> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/about> <http://viaf.org/viaf/24602613> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/about> <http://dewey.info/class/111/> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/about> <http://id.loc.gov/authorities/classification/B3279> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938_et_l_ontologie> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3994762#Topic/existentie> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976_et_l_ontologie> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/about> <http://id.worldcat.org/fast/1356864> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/bookEdition> "3. éd."@en .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/bookFormat> <http://bibliograph.net/PrintBook> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/creator> <http://viaf.org/viaf/108203818> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/datePublished> "1974"@en .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3994762> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/inLanguage> "fr"@en .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/3994762#Series/bibliotheque_d_histoire_de_la_philosophie> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/name> "En découvrant l'existence avec Husserl et Heidegger : réimpression conforme à la première édition suivie d'essais nouveaux"@en .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/productID> "4411374"@en .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/4411374#PublicationEvent/paris_librairie_philosophique_j_vrin_1974> .
+ <http://www.worldcat.org/oclc/4411374> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3994762#Agent/librairie_philosophique_j_vrin> .
+ <http://www.worldcat.org/oclc/4411374> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/4411374> .
+ <http://dewey.info/class/111/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Agent/librairie_philosophique_j_vrin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Agent/librairie_philosophique_j_vrin> <http://schema.org/name> "Librairie philosophique J. Vrin"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976> <http://schema.org/birthDate> "1889"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976> <http://schema.org/deathDate> "1976"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976> <http://schema.org/familyName> "Heidegger"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976> <http://schema.org/givenName> "Martin"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976> <http://schema.org/name> "Martin Heidegger"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976> <http://schema.org/sameAs> <http://d-nb.info/gnd/118547798> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976_et_l_ontologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976_et_l_ontologie> <http://schema.org/birthDate> "1889"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976_et_l_ontologie> <http://schema.org/deathDate> "1976"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976_et_l_ontologie> <http://schema.org/familyName> "Heidegger"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976_et_l_ontologie> <http://schema.org/givenName> "Martin <> - Et l'ontologie"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/heidegger_martin_1889_1976_et_l_ontologie> <http://schema.org/name> "Martin < Heidegger"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938> <http://schema.org/birthDate> "1859"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938> <http://schema.org/deathDate> "1938"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938> <http://schema.org/familyName> "Husserl"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938> <http://schema.org/givenName> "Edmund"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938> <http://schema.org/name> "Edmund Husserl"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938> <http://schema.org/sameAs> <http://d-nb.info/gnd/118555006> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938_et_l_ontologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938_et_l_ontologie> <http://schema.org/birthDate> "1859"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938_et_l_ontologie> <http://schema.org/deathDate> "1938"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938_et_l_ontologie> <http://schema.org/familyName> "Husserl"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938_et_l_ontologie> <http://schema.org/givenName> "Edmund <> - Et l'ontologie"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Person/husserl_edmund_1859_1938_et_l_ontologie> <http://schema.org/name> "Edmund < Husserl"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Place/paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Place/paris> <http://schema.org/name> "Paris"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Series/bibliotheque_d_histoire_de_la_philosophie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Series/bibliotheque_d_histoire_de_la_philosophie> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/4411374> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Series/bibliotheque_d_histoire_de_la_philosophie> <http://schema.org/name> "Bibliothèque d'histoire de la philosophie."@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Series/bibliotheque_d_histoire_de_la_philosophie> <http://schema.org/name> "Bibliothèque d'histoire de la philosophie"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Topic/existentie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Topic/existentie> <http://schema.org/name> "Existentie"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Topic/fenomenologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Topic/fenomenologie> <http://schema.org/name> "Fenomenologie"@en .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Topic/phenomenologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/3994762#Topic/phenomenologie> <http://schema.org/name> "Phénoménologie"@en .
+ <http://id.loc.gov/authorities/classification/B3279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr"@en .
+ <http://id.worldcat.org/fast/1356864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://id.worldcat.org/fast/1356864> <http://schema.org/name> "Ontologie (Heidegger, Martin)"@en .
+ <http://viaf.org/viaf/108203818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/108203818> <http://schema.org/familyName> "Lévinas"@en .
+ <http://viaf.org/viaf/108203818> <http://schema.org/givenName> "Emmanuel"@en .
+ <http://viaf.org/viaf/108203818> <http://schema.org/name> "Emmanuel Lévinas"@en .
+ <http://viaf.org/viaf/24602613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/24602613> <http://schema.org/birthDate> "1889"@en .
+ <http://viaf.org/viaf/24602613> <http://schema.org/deathDate> "1976"@en .
+ <http://viaf.org/viaf/24602613> <http://schema.org/familyName> "Heidegger"@en .
+ <http://viaf.org/viaf/24602613> <http://schema.org/givenName> "Martin"@en .
+ <http://viaf.org/viaf/24602613> <http://schema.org/name> "Martin Heidegger"@en .
+ <http://viaf.org/viaf/44300322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/44300322> <http://schema.org/birthDate> "1859"@en .
+ <http://viaf.org/viaf/44300322> <http://schema.org/deathDate> "1938"@en .
+ <http://viaf.org/viaf/44300322> <http://schema.org/familyName> "Husserl"@en .
+ <http://viaf.org/viaf/44300322> <http://schema.org/givenName> "Edmund"@en .
+ <http://viaf.org/viaf/44300322> <http://schema.org/name> "Edmund Husserl"@en .
+ <http://www.worldcat.org/title/-/oclc/4411374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/4411374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/4411374> <http://schema.org/about> <http://www.worldcat.org/oclc/4411374> .
+ <http://www.worldcat.org/title/-/oclc/4411374> <http://schema.org/dateModified> "2015-08-17"@en .
+ <http://www.worldcat.org/title/-/oclc/4411374> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+ <http://www.worldcat.org/title/-/oclc/4411374#PublicationEvent/paris_librairie_philosophique_j_vrin_1974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/4411374#PublicationEvent/paris_librairie_philosophique_j_vrin_1974> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3994762#Place/paris> .
+ <http://www.worldcat.org/title/-/oclc/4411374#PublicationEvent/paris_librairie_philosophique_j_vrin_1974> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3994762#Agent/librairie_philosophique_j_vrin> .
+ <http://www.worldcat.org/title/-/oclc/4411374#PublicationEvent/paris_librairie_philosophique_j_vrin_1974> <http://schema.org/startDate> "1974"@en .

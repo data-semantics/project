@@ -1,0 +1,70 @@
+﻿ <http://www.worldcat.org/title/paul-ricur/oclc/30209070&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/paul-ricur/oclc/30209070&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/30209070> .
+ <http://www.worldcat.org/oclc/30209070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/30209070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/30209070> <http://purl.org/library/oclcnum> "30209070"@en .
+ <http://www.worldcat.org/oclc/30209070> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+ <http://www.worldcat.org/oclc/30209070> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/28141365#Place/paris> .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/about> <http://id.loc.gov/authorities/classification/B2430> .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/about> <http://viaf.org/viaf/108266369> .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/28141365#Person/ricoeur_paul_1913_2005> .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/28141365#Topic/philosophie> .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/about> <http://dewey.info/class/944.08092/e20/> .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/bookFormat> <http://bibliograph.net/PrintBook> .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/copyrightYear> "1994"@en .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/creator> <http://viaf.org/viaf/24621978> .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/datePublished> "1994"@en .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/28141365> .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/inLanguage> "fr"@en .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/28141365#Series/contemporains_editions_du_seuil> .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/28141365#Series/contemporains> .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/name> "Paul Ricœur"@en .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/productID> "30209070"@en .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/30209070#PublicationEvent/paris_seuil_1994> .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/28141365#Agent/seuil> .
+ <http://www.worldcat.org/oclc/30209070> <http://schema.org/workExample> <http://worldcat.org/isbn/9782020128346> .
+ <http://www.worldcat.org/oclc/30209070> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/30209070> .
+ <http://dewey.info/class/944.08092/e20/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Agent/seuil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Agent/seuil> <http://schema.org/name> "Seuil"@en .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Person/ricoeur_paul_1913_2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Person/ricoeur_paul_1913_2005> <http://schema.org/birthDate> "1913"@en .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Person/ricoeur_paul_1913_2005> <http://schema.org/deathDate> "2005"@en .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Person/ricoeur_paul_1913_2005> <http://schema.org/familyName> "Ricoeur"@en .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Person/ricoeur_paul_1913_2005> <http://schema.org/givenName> "Paul"@en .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Person/ricoeur_paul_1913_2005> <http://schema.org/name> "Paul Ricoeur"@en .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Person/ricoeur_paul_1913_2005> <http://schema.org/sameAs> <http://d-nb.info/gnd/118600613> .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Place/paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Place/paris> <http://schema.org/name> "Paris"@en .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Series/contemporains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Series/contemporains> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/30209070> .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Series/contemporains> <http://schema.org/name> "Contemporains ;"@en .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Series/contemporains_editions_du_seuil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Series/contemporains_editions_du_seuil> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/30209070> .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Series/contemporains_editions_du_seuil> <http://schema.org/name> "Contemporains (Editions du Seuil) ;"@en .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Topic/philosophie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/28141365#Topic/philosophie> <http://schema.org/name> "Philosophie"@en .
+ <http://id.loc.gov/authorities/classification/B2430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr"@en .
+ <http://viaf.org/viaf/108266369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/108266369> <http://schema.org/familyName> "Ricoeur"@en .
+ <http://viaf.org/viaf/108266369> <http://schema.org/familyName> "Ricœur"@en .
+ <http://viaf.org/viaf/108266369> <http://schema.org/givenName> "Paul"@en .
+ <http://viaf.org/viaf/108266369> <http://schema.org/name> "Paul Ricoeur"@en .
+ <http://viaf.org/viaf/108266369> <http://schema.org/name> "Paul Ricœur"@en .
+ <http://viaf.org/viaf/24621978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/24621978> <http://schema.org/familyName> "Mongin"@en .
+ <http://viaf.org/viaf/24621978> <http://schema.org/givenName> "Olivier"@en .
+ <http://viaf.org/viaf/24621978> <http://schema.org/name> "Olivier Mongin"@en .
+ <http://worldcat.org/isbn/9782020128346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> .
+ <http://worldcat.org/isbn/9782020128346> <http://schema.org/isbn> "2020128349"@en .
+ <http://worldcat.org/isbn/9782020128346> <http://schema.org/isbn> "9782020128346"@en .
+ <http://www.worldcat.org/title/-/oclc/30209070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/30209070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/30209070> <http://schema.org/about> <http://www.worldcat.org/oclc/30209070> .
+ <http://www.worldcat.org/title/-/oclc/30209070> <http://schema.org/dateModified> "2015-08-20"@en .
+ <http://www.worldcat.org/title/-/oclc/30209070> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+ <http://www.worldcat.org/title/-/oclc/30209070#PublicationEvent/paris_seuil_1994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/30209070#PublicationEvent/paris_seuil_1994> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/28141365#Place/paris> .
+ <http://www.worldcat.org/title/-/oclc/30209070#PublicationEvent/paris_seuil_1994> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/28141365#Agent/seuil> .

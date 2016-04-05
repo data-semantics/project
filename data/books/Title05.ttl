@@ -1,0 +1,88 @@
+﻿ <http://www.worldcat.org/title/choses-de-la-poesie-et-affaire-culturelle/oclc/15254717&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/choses-de-la-poesie-et-affaire-culturelle/oclc/15254717&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/15254717> .
+ <http://www.worldcat.org/oclc/15254717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/15254717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/15254717> <http://purl.org/library/oclcnum> "15254717"@en .
+ <http://www.worldcat.org/oclc/15254717> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9863107#Place/paris> .
+ <http://www.worldcat.org/oclc/15254717> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9863107#Topic/litterature_philosophie> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9863107#Topic/lyrik> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9863107#Place/franzosisch> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9863107#Topic/poesie> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9863107#Event/1800_1899> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://dewey.info/class/840.9/e19/> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://id.worldcat.org/fast/934688> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://id.worldcat.org/fast/934799> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9863107#Topic/philosophie> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9863107#Event/geschichte_1857_1918> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh2008104150> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9863107#Topic/kultur> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9863107#Topic/franzosisch> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9863107#Topic/aufsatzsammlung> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh2008104149> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/bookFormat> <http://bibliograph.net/PrintBook> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/copyrightYear> "1986"@en .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/creator> <http://viaf.org/viaf/85274456> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/datePublished> "1986"@en .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9863107> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/genre> "Criticism, interpretation, etc."@en .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/genre> "Aufsatzsammlung"@en .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/inLanguage> "fr"@en .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/name> "Choses de la poésie et affaire culturelle"@en .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/productID> "15254717"@en .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/15254717#PublicationEvent/paris_hachette_1986> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9863107#Agent/hachette> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/url> <http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=3133502> .
+ <http://www.worldcat.org/oclc/15254717> <http://schema.org/workExample> <http://worldcat.org/isbn/9782010122033> .
+ <http://www.worldcat.org/oclc/15254717> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/15254717> .
+ <http://dewey.info/class/840.9/e19/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Agent/hachette> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Agent/hachette> <http://schema.org/name> "Hachette"@en .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Event/1800_1899> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Event/1800_1899> <http://schema.org/name> "1800 - 1899"@en .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Event/geschichte_1857_1918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Event/geschichte_1857_1918> <http://schema.org/name> "Geschichte 1857-1918"@en .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Place/franzosisch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Place/franzosisch> <http://schema.org/name> "Französisch."@en .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Place/paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Place/paris> <http://schema.org/name> "Paris"@en .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/aufsatzsammlung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/aufsatzsammlung> <http://schema.org/name> "Aufsatzsammlung"@en .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/franzosisch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/franzosisch> <http://schema.org/name> "Französisch"@en .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/kultur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/kultur> <http://schema.org/name> "Kultur"@en .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/litterature_philosophie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/litterature_philosophie> <http://schema.org/name> "Littérature - Philosophie"@en .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/litterature_philosophie> <http://schema.org/name> "Littérature--Philosophie"@en .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/lyrik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/lyrik> <http://schema.org/name> "Lyrik"@en .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/philosophie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/philosophie> <http://schema.org/name> "Philosophie"@en .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/poesie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/9863107#Topic/poesie> <http://schema.org/name> "Poésie"@en .
+ <http://id.loc.gov/authorities/subjects/sh2008104149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/subjects/sh2008104149> <http://schema.org/name> "French literature--19th century--History and criticism"@en .
+ <http://id.loc.gov/authorities/subjects/sh2008104150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/subjects/sh2008104150> <http://schema.org/name> "French poetry--19th century--History and criticism"@en .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr"@en .
+ <http://id.worldcat.org/fast/934688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/934688> <http://schema.org/name> "French literature"@en .
+ <http://id.worldcat.org/fast/934799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/934799> <http://schema.org/name> "French poetry"@en .
+ <http://viaf.org/viaf/85274456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/85274456> <http://schema.org/familyName> "Deguy"@en .
+ <http://viaf.org/viaf/85274456> <http://schema.org/givenName> "Michel"@en .
+ <http://viaf.org/viaf/85274456> <http://schema.org/name> "Michel Deguy"@en .
+ <http://worldcat.org/isbn/9782010122033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> .
+ <http://worldcat.org/isbn/9782010122033> <http://schema.org/isbn> "2010122038"@en .
+ <http://worldcat.org/isbn/9782010122033> <http://schema.org/isbn> "9782010122033"@en .
+ <http://www.worldcat.org/title/-/oclc/15254717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/15254717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/15254717> <http://schema.org/about> <http://www.worldcat.org/oclc/15254717> .
+ <http://www.worldcat.org/title/-/oclc/15254717> <http://schema.org/dateModified> "2016-02-09"@en .
+ <http://www.worldcat.org/title/-/oclc/15254717> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+ <http://www.worldcat.org/title/-/oclc/15254717#PublicationEvent/paris_hachette_1986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/15254717#PublicationEvent/paris_hachette_1986> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9863107#Place/paris> .
+ <http://www.worldcat.org/title/-/oclc/15254717#PublicationEvent/paris_hachette_1986> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9863107#Agent/hachette> .

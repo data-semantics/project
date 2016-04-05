@@ -1,0 +1,84 @@
+ <http://www.worldcat.org/title/philosophy-and-social-hope/oclc/41311603&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/philosophy-and-social-hope/oclc/41311603&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/41311603> .
+ <http://www.worldcat.org/oclc/41311603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/41311603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/41311603> <http://purl.org/library/oclcnum> "41311603"@en .
+ <http://www.worldcat.org/oclc/41311603> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/New_York_City> .
+ <http://www.worldcat.org/oclc/41311603> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/about> <http://id.worldcat.org/fast/1061071> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85100964> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/26645624#Topic/rorty_richard_political_and_social_views> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/26645624#Topic/pragmatisme> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/26645624#Topic/hoop> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/about> <http://id.worldcat.org/fast/1074582> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/about> <http://dewey.info/class/191/e21/> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/about> <http://viaf.org/viaf/89085824> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/about> <http://id.loc.gov/authorities/classification/B945> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/26645624#Event/1900_1999> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/bookFormat> <http://bibliograph.net/PrintBook> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/creator> <http://viaf.org/viaf/89085824> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/datePublished> "1999"@en .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/description> "Trotsky and the wild orchids -- Truth without correspondence to reality -- A world without substances or essences -- Ethics without principles -- The banality of pragmatism and the poetry of justice -- Pragmatism and law: a response to David Luban -- Education as socialization and as individualization -- The humanistic intellectual: eleven theses -- The pragmatist's progress: Umberto Eco on interpretation -- Religious faith, intellectual responsibility and romance -- Religion as conversation-stopper -- Thomas Kuhn, rocks and the laws of physics -- On Heidegger's Nazism -- Failed prophecies, glorious hopes -- A spectre is haunting the intellectuals: Derrida on Marx -- Love and money -- Globalization, the politics of identity and social hope -- Looking backwards from the year 2096 -- The unpatriotic academy -- Back to class politics."@en .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/26645624> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/inLanguage> "en"@en .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/609342701> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/607414791> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/name> "Philosophy and social hope"@en .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/productID> "41311603"@en .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/41311603#PublicationEvent/new_york_penguin_books_1999> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/26645624#Agent/penguin_books> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/reviews> <http://www.worldcat.org/title/-/oclc/41311603#Review/-912328297> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/url> <http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=3258208> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/url> <http://catdir.loc.gov/catdir/enhancements/fy1203/00269736-t.html> .
+ <http://www.worldcat.org/oclc/41311603> <http://schema.org/workExample> <http://worldcat.org/isbn/9780140262889> .
+ <http://www.worldcat.org/oclc/41311603> <http://umbel.org/umbel#isLike> <http://bnb.data.bl.uk/id/resource/GB99Y0391> .
+ <http://www.worldcat.org/oclc/41311603> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/41311603> .
+ <http://dbpedia.org/resource/New_York_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://dbpedia.org/resource/New_York_City> <http://schema.org/name> "New York"@en .
+ <http://dewey.info/class/191/e21/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/26645624#Agent/penguin_books> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/26645624#Agent/penguin_books> <http://schema.org/name> "Penguin Books"@en .
+ <http://experiment.worldcat.org/entity/work/data/26645624#Event/1900_1999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+ <http://experiment.worldcat.org/entity/work/data/26645624#Event/1900_1999> <http://schema.org/name> "1900 - 1999"@en .
+ <http://experiment.worldcat.org/entity/work/data/26645624#Topic/hoop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/26645624#Topic/hoop> <http://schema.org/name> "Hoop"@en .
+ <http://experiment.worldcat.org/entity/work/data/26645624#Topic/pragmatisme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/26645624#Topic/pragmatisme> <http://schema.org/name> "Pragmatisme"@en .
+ <http://experiment.worldcat.org/entity/work/data/26645624#Topic/rorty_richard_political_and_social_views> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/26645624#Topic/rorty_richard_political_and_social_views> <http://schema.org/name> "Rorty--Richard--Political and social views"@en .
+ <http://id.loc.gov/authorities/classification/B945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/subjects/sh85100964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/subjects/sh85100964> <http://schema.org/name> "Philosophy, Modern--20th century"@en .
+ <http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk"@en .
+ <http://id.worldcat.org/fast/1061071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/1061071> <http://schema.org/name> "Philosophy, Modern"@en .
+ <http://id.worldcat.org/fast/1074582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/1074582> <http://schema.org/name> "Pragmatism"@en .
+ <http://viaf.org/viaf/89085824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/89085824> <http://schema.org/familyName> "Rorty"@en .
+ <http://viaf.org/viaf/89085824> <http://schema.org/givenName> "Richard"@en .
+ <http://viaf.org/viaf/89085824> <http://schema.org/name> "Richard Rorty"@en .
+ <http://worldcat.org/isbn/9780140262889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> .
+ <http://worldcat.org/isbn/9780140262889> <http://schema.org/isbn> "0140262881"@en .
+ <http://worldcat.org/isbn/9780140262889> <http://schema.org/isbn> "9780140262889"@en .
+ <http://www.worldcat.org/oclc/607414791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/607414791> <http://www.w3.org/2000/01/rdf-schema#label> "Philosophy and social hope."@en .
+ <http://www.worldcat.org/oclc/607414791> <http://schema.org/description> "Online version:"@en .
+ <http://www.worldcat.org/oclc/607414791> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/41311603> .
+ <http://www.worldcat.org/oclc/609342701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/609342701> <http://www.w3.org/2000/01/rdf-schema#label> "Philosophy and social hope."@en .
+ <http://www.worldcat.org/oclc/609342701> <http://schema.org/description> "Online version:"@en .
+ <http://www.worldcat.org/oclc/609342701> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/41311603> .
+ <http://www.worldcat.org/title/-/oclc/41311603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/41311603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/41311603> <http://schema.org/about> <http://www.worldcat.org/oclc/41311603> .
+ <http://www.worldcat.org/title/-/oclc/41311603> <http://schema.org/dateModified> "2016-02-11"@en .
+ <http://www.worldcat.org/title/-/oclc/41311603> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+ <http://www.worldcat.org/title/-/oclc/41311603#PublicationEvent/new_york_penguin_books_1999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/41311603#PublicationEvent/new_york_penguin_books_1999> <http://schema.org/location> <http://dbpedia.org/resource/New_York_City> .
+ <http://www.worldcat.org/title/-/oclc/41311603#PublicationEvent/new_york_penguin_books_1999> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/26645624#Agent/penguin_books> .
+ <http://www.worldcat.org/title/-/oclc/41311603#PublicationEvent/new_york_penguin_books_1999> <http://schema.org/startDate> "1999"@en .
+ <http://www.worldcat.org/title/-/oclc/41311603#Review/-912328297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> .
+ <http://www.worldcat.org/title/-/oclc/41311603#Review/-912328297> <http://schema.org/itemReviewed> <http://www.worldcat.org/oclc/41311603> .
+ <http://www.worldcat.org/title/-/oclc/41311603#Review/-912328297> <http://schema.org/reviewBody> "\"One of the most provocative figures in recent philosophical and wider literary and cultural debate, Richard Rorty brings together in this collection a wide range of philosophical, political and cultural writings, many published in book form for the first time. He explains how he began to move away from Plato towards James and Dewey, culminating in his own version of pragmatism. What matters, he suggests, is not whether our ideas correspond to some fundamental reality but whether they help us carry out practical tasks and create a fairer and more democratic society. In an introduction called 'Relativism' and a (previously unpublished) afterword on the unfortunate popularity of the term 'postmodern', Rorty responds to charges that he is a 'postmodern relativist'.\"--Jacket."@en .

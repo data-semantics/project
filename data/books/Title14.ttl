@@ -1,0 +1,67 @@
+ <http://www.worldcat.org/title/aux-frontieres-de-la-philosophie/oclc/466572221&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/aux-frontieres-de-la-philosophie/oclc/466572221&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/466572221> .
+ <http://www.worldcat.org/oclc/466572221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/466572221> <http://purl.org/library/oclcnum> "466572221"@en .
+ <http://www.worldcat.org/oclc/466572221> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/50941665#Place/paris> .
+ <http://www.worldcat.org/oclc/466572221> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/about> <http://id.loc.gov/authorities/classification/BL51> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/50941665#CreativeWork/bible> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/50941665#Topic/philosophie_et_religion> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/50941665#Topic/philosophie> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/about> <http://dewey.info/class/200.1/e22/> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/about> <http://dewey.info/class/194/e22/> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/50941665#Topic/philosophie_de_la_religion> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/author> <http://viaf.org/viaf/108266369> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/datePublished> "1994"@en .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/50941665> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/inLanguage> "fr"@en .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/50941665#Series/la_couleur_des_idees> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/50941665#Series/lectures> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/name> "Aux frontières de la philosophie"@en .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/numberOfPages> "369"@en .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/466572221#PublicationEvent/paris_ed_du_seuil_1994_18_saint_amand_impr_sepc> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/50941665#Agent/ed_du_seuil> .
+ <http://www.worldcat.org/oclc/466572221> <http://schema.org/workExample> <http://worldcat.org/isbn/9782020205061> .
+ <http://www.worldcat.org/oclc/466572221> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/466572221> .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Place/paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Place/paris> <http://schema.org/name> "Paris"@en .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr"@en .
+ <http://id.loc.gov/authorities/classification/BL51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/50941665#CreativeWork/bible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://experiment.worldcat.org/entity/work/data/50941665#CreativeWork/bible> <http://schema.org/name> "Bible"@en .
+ <http://experiment.worldcat.org/entity/work/data/50941665#CreativeWork/bible> <http://schema.org/name> "Bible"@en .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Topic/philosophie_et_religion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Topic/philosophie_et_religion> <http://schema.org/name> "Philosophie et religion."@en .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Topic/philosophie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Topic/philosophie> <http://schema.org/name> "philosophie"@en .
+ <http://dewey.info/class/200.1/e22/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://dewey.info/class/194/e22/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Topic/philosophie_de_la_religion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Topic/philosophie_de_la_religion> <http://schema.org/name> "Philosophie de la religion."@en .
+ <http://viaf.org/viaf/108266369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/108266369> <http://schema.org/birthDate> "1913"@en .
+ <http://viaf.org/viaf/108266369> <http://schema.org/deathDate> "2005"@en .
+ <http://viaf.org/viaf/108266369> <http://schema.org/familyName> "Ricoeur"@en .
+ <http://viaf.org/viaf/108266369> <http://schema.org/givenName> "Paul"@en .
+ <http://viaf.org/viaf/108266369> <http://schema.org/name> "Ricoeur, Paul, 1913-2005"@en .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Series/la_couleur_des_idees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Series> .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Series/la_couleur_des_idees> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/466572221> .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Series/la_couleur_des_idees> <http://schema.org/name> "La couleur des idées"@en .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Series/lectures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Series> .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Series/lectures> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/466572221> .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Series/lectures> <http://schema.org/name> "lectures ;"@en .
+ <http://www.worldcat.org/title/-/oclc/466572221#PublicationEvent/paris_ed_du_seuil_1994_18_saint_amand_impr_sepc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/466572221#PublicationEvent/paris_ed_du_seuil_1994_18_saint_amand_impr_sepc> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/50941665#Place/paris> .
+ <http://www.worldcat.org/title/-/oclc/466572221#PublicationEvent/paris_ed_du_seuil_1994_18_saint_amand_impr_sepc> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/50941665#Agent/ed_du_seuil> .
+ <http://www.worldcat.org/title/-/oclc/466572221#PublicationEvent/paris_ed_du_seuil_1994_18_saint_amand_impr_sepc> <http://schema.org/startDate> "1994"@en .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Agent/ed_du_seuil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/50941665#Agent/ed_du_seuil> <http://schema.org/name> "Ed. du Seuil"@en .
+ <http://worldcat.org/isbn/9782020205061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> .
+ <http://worldcat.org/isbn/9782020205061> <http://schema.org/description> "br"@en .
+ <http://worldcat.org/isbn/9782020205061> <http://schema.org/isbn> "2020205068"@en .
+ <http://worldcat.org/isbn/9782020205061> <http://schema.org/isbn> "9782020205061"@en .
+ <http://www.worldcat.org/title/-/oclc/466572221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/466572221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/466572221> <http://schema.org/about> <http://www.worldcat.org/oclc/466572221> .
+ <http://www.worldcat.org/title/-/oclc/466572221> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

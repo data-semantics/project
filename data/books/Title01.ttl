@@ -1,0 +1,102 @@
+﻿ <http://www.worldcat.org/title/barbarolexis-medieval-writing-and-sexuality/oclc/19354172&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/barbarolexis-medieval-writing-and-sexuality/oclc/19354172&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/19354172> .
+ <http://www.worldcat.org/oclc/19354172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/19354172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/19354172> <http://purl.org/library/oclcnum> "19354172"@en .
+ <http://www.worldcat.org/oclc/19354172> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/320912210#Place/cambridge_mass> .
+ <http://www.worldcat.org/oclc/19354172> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/mau> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/320912210#Topic/sexualite_dans_la_litterature> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh2008106711> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/320912210#Topic/sex_in_literature> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://dewey.info/class/840.9353/e19/> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://id.worldcat.org/fast/1921204> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/320912210#Topic/french_literature> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/320912210#Topic/sex_history> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/320912210#Topic/literature_medieval_history> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/320912210#Event/to_1500> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/320912210#Topic/literature_medieval_theory_etc> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://id.worldcat.org/fast/934688> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/320912210#Topic/latin_literature_medieval_and_modern> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/320912210#Topic/litterature_medievale_histoire_et_critique_theorie_etc> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh2008104133> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/320912210#Topic/litterature_francaise_avant_1500_histoire_et_critique> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/320912210#Thing/latin_literature_critical_studies> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://id.worldcat.org/fast/1114464> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85077550> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://id.worldcat.org/fast/993349> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/320912210#Topic/litterature_latine_medievale_et_moderne_histoire_et_critique> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/bookFormat> <http://bibliograph.net/PrintBook> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/creator> <http://viaf.org/viaf/92820736> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/datePublished> "1989"@en .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/320912210> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/genre> "Criticism, interpretation, etc."@en .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/inLanguage> "en"@en .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/name> "Barbarolexis : medieval writing and sexuality"@en .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/productID> "19354172"@en .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/19354172#PublicationEvent/cambridge_mass_harvard_university_press_1989> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/320912210#Agent/harvard_university_press> .
+ <http://www.worldcat.org/oclc/19354172> <http://schema.org/workExample> <http://worldcat.org/isbn/9780674061705> .
+ <http://www.worldcat.org/oclc/19354172> <http://umbel.org/umbel#isLike> <http://bnb.data.bl.uk/id/resource/GB9025921> .
+ <http://www.worldcat.org/oclc/19354172> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/19354172> .
+ <http://dewey.info/class/840.9353/e19/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Agent/harvard_university_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Agent/harvard_university_press> <http://schema.org/name> "Harvard University Press"@en .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Event/to_1500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Event/to_1500> <http://schema.org/name> "To 1500"@en .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Place/cambridge_mass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Place/cambridge_mass> <http://schema.org/name> "Cambridge, Mass."@en .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Thing/latin_literature_critical_studies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Thing/latin_literature_critical_studies> <http://schema.org/name> "Latin literature - Critical studies"@en .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/french_literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/french_literature> <http://schema.org/name> "French literature"@en .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/latin_literature_medieval_and_modern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/latin_literature_medieval_and_modern> <http://schema.org/name> "Latin literature, Medieval and modern"@en .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/literature_medieval_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/literature_medieval_history> <http://schema.org/name> "Literature, Medieval--history"@en .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/literature_medieval_theory_etc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/literature_medieval_theory_etc> <http://schema.org/name> "Literature, Medieval--Theory, etc"@en .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/litterature_francaise_avant_1500_histoire_et_critique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/litterature_francaise_avant_1500_histoire_et_critique> <http://schema.org/name> "Littérature française--Avant 1500--Histoire et critique"@en .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/litterature_latine_medievale_et_moderne_histoire_et_critique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/litterature_latine_medievale_et_moderne_histoire_et_critique> <http://schema.org/name> "Littérature latine médiévale et moderne--Histoire et critique"@en .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/litterature_medievale_histoire_et_critique_theorie_etc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/litterature_medievale_histoire_et_critique_theorie_etc> <http://schema.org/name> "Littérature médiévale--Histoire et critique--Théorie, etc"@en .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/sex_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/sex_history> <http://schema.org/name> "Sex--history"@en .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/sex_in_literature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/sex_in_literature> <http://schema.org/name> "Sex in literature"@en .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/sexualite_dans_la_litterature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/320912210#Topic/sexualite_dans_la_litterature> <http://schema.org/name> "Sexualité dans la littérature"@en .
+ <http://id.loc.gov/authorities/subjects/sh2008104133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/subjects/sh2008104133> <http://schema.org/name> "French literature--To 1500--History and criticism"@en .
+ <http://id.loc.gov/authorities/subjects/sh2008106711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/subjects/sh2008106711> <http://schema.org/name> "Latin literature, Medieval and modern--History and criticism"@en .
+ <http://id.loc.gov/authorities/subjects/sh85077550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/subjects/sh85077550> <http://schema.org/name> "Literature, Medieval--History and criticism--Theory, etc"@en .
+ <http://id.loc.gov/vocabulary/countries/mau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/mau> <http://purl.org/dc/terms/identifier> "mau"@en .
+ <http://id.worldcat.org/fast/1114464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/1114464> <http://schema.org/name> "Sex in literature"@en .
+ <http://id.worldcat.org/fast/1921204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/1921204> <http://schema.org/name> "Literature, Medieval--Theory, etc"@en .
+ <http://id.worldcat.org/fast/934688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/934688> <http://schema.org/name> "French literature"@en .
+ <http://id.worldcat.org/fast/993349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/993349> <http://schema.org/name> "Latin literature, Medieval and modern"@en .
+ <http://viaf.org/viaf/92820736> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/92820736> <http://schema.org/birthDate> "1948"@en .
+ <http://viaf.org/viaf/92820736> <http://schema.org/familyName> "Leupin"@en .
+ <http://viaf.org/viaf/92820736> <http://schema.org/givenName> "Alexandre"@en .
+ <http://viaf.org/viaf/92820736> <http://schema.org/name> "Alexandre Leupin"@en .
+ <http://worldcat.org/isbn/9780674061705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> .
+ <http://worldcat.org/isbn/9780674061705> <http://schema.org/isbn> "0674061705"@en .
+ <http://worldcat.org/isbn/9780674061705> <http://schema.org/isbn> "9780674061705"@en .
+ <http://www.worldcat.org/title/-/oclc/19354172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/19354172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/19354172> <http://schema.org/about> <http://www.worldcat.org/oclc/19354172> .
+ <http://www.worldcat.org/title/-/oclc/19354172> <http://schema.org/dateModified> "2016-02-23"@en .
+ <http://www.worldcat.org/title/-/oclc/19354172> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+ <http://www.worldcat.org/title/-/oclc/19354172#PublicationEvent/cambridge_mass_harvard_university_press_1989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/19354172#PublicationEvent/cambridge_mass_harvard_university_press_1989> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/320912210#Place/cambridge_mass> .
+ <http://www.worldcat.org/title/-/oclc/19354172#PublicationEvent/cambridge_mass_harvard_university_press_1989> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/320912210#Agent/harvard_university_press> .
+ <http://www.worldcat.org/title/-/oclc/19354172#PublicationEvent/cambridge_mass_harvard_university_press_1989> <http://schema.org/startDate> "1989"@en .

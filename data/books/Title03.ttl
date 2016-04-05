@@ -1,0 +1,48 @@
+﻿ <http://www.worldcat.org/title/issues-in-contemporary-culture-and-aesthetics/oclc/73243013&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/issues-in-contemporary-culture-and-aesthetics/oclc/73243013&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/73243013> .
+ <http://www.worldcat.org/oclc/73243013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/73243013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+ <http://www.worldcat.org/oclc/73243013> <http://purl.org/library/oclcnum> "73243013"@en .
+ <http://www.worldcat.org/oclc/73243013> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ne> .
+ <http://www.worldcat.org/oclc/73243013> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/59851767#Place/maastricht> .
+ <http://www.worldcat.org/oclc/73243013> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/59851767#Topic/cultuurfilosofie> .
+ <http://www.worldcat.org/oclc/73243013> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/59851767#Topic/esthetica> .
+ <http://www.worldcat.org/oclc/73243013> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/59851767#Topic/kunsttheorie> .
+ <http://www.worldcat.org/oclc/73243013> <http://schema.org/creator> <http://experiment.worldcat.org/entity/work/data/59851767#Organization/jan_van_eyck_akademie_maastricht_department_of_theory> .
+ <http://www.worldcat.org/oclc/73243013> <http://schema.org/datePublished> "1995/2001"@en .
+ <http://www.worldcat.org/oclc/73243013> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/59851767> .
+ <http://www.worldcat.org/oclc/73243013> <http://schema.org/inLanguage> "en"@en .
+ <http://www.worldcat.org/oclc/73243013> <http://schema.org/name> "Issues in contemporary culture and aesthetics"@en .
+ <http://www.worldcat.org/oclc/73243013> <http://schema.org/productID> "73243013"@en .
+ <http://www.worldcat.org/oclc/73243013> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/73243013#PublicationEvent/maastricht_jan_van_eyck_akademie_1995_2001> .
+ <http://www.worldcat.org/oclc/73243013> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/59851767#Agent/jan_van_eyck_akademie> .
+ <http://www.worldcat.org/oclc/73243013> <http://schema.org/workExample> <http://worldcat.org/issn/1384-1084> .
+ <http://www.worldcat.org/oclc/73243013> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/73243013> .
+ <http://experiment.worldcat.org/entity/work/data/59851767#Agent/jan_van_eyck_akademie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/59851767#Agent/jan_van_eyck_akademie> <http://schema.org/name> "Jan van Eyck Akademie"@en .
+ <http://experiment.worldcat.org/entity/work/data/59851767#Organization/jan_van_eyck_akademie_maastricht_department_of_theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+ <http://experiment.worldcat.org/entity/work/data/59851767#Organization/jan_van_eyck_akademie_maastricht_department_of_theory> <http://schema.org/name> "Jan van Eyck Akademie (Maastricht). Department of Theory.."@en .
+ <http://experiment.worldcat.org/entity/work/data/59851767#Place/maastricht> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/59851767#Place/maastricht> <http://schema.org/name> "Maastricht"@en .
+ <http://experiment.worldcat.org/entity/work/data/59851767#Topic/cultuurfilosofie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/59851767#Topic/cultuurfilosofie> <http://schema.org/name> "Cultuurfilosofie"@en .
+ <http://experiment.worldcat.org/entity/work/data/59851767#Topic/esthetica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/59851767#Topic/esthetica> <http://schema.org/name> "Esthetica"@en .
+ <http://experiment.worldcat.org/entity/work/data/59851767#Topic/kunsttheorie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/59851767#Topic/kunsttheorie> <http://schema.org/name> "Kunsttheorie"@en .
+ <http://id.loc.gov/vocabulary/countries/ne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/ne> <http://purl.org/dc/terms/identifier> "ne"@en .
+ <http://worldcat.org/entity/work/id/59851767> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1384-1084> .
+ <http://worldcat.org/issn/1384-1084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+ <http://worldcat.org/issn/1384-1084> <http://schema.org/issn> "1384-1084"@en .
+ <http://worldcat.org/issn/1384-1084> <http://schema.org/name> "Issues in contemporary culture and aesthetics"@en .
+ <http://worldcat.org/issn/1384-1084> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/59851767> .
+ <http://www.worldcat.org/title/-/oclc/73243013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/73243013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/73243013> <http://schema.org/about> <http://www.worldcat.org/oclc/73243013> .
+ <http://www.worldcat.org/title/-/oclc/73243013> <http://schema.org/dateModified> "2015-05-27"@en .
+ <http://www.worldcat.org/title/-/oclc/73243013> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+ <http://www.worldcat.org/title/-/oclc/73243013#PublicationEvent/maastricht_jan_van_eyck_akademie_1995_2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/73243013#PublicationEvent/maastricht_jan_van_eyck_akademie_1995_2001> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/59851767#Place/maastricht> .
+ <http://www.worldcat.org/title/-/oclc/73243013#PublicationEvent/maastricht_jan_van_eyck_akademie_1995_2001> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/59851767#Agent/jan_van_eyck_akademie> .
+ <http://www.worldcat.org/title/-/oclc/73243013#PublicationEvent/maastricht_jan_van_eyck_akademie_1995_2001> <http://schema.org/startDate> "1995-2001"@en .

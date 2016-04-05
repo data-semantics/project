@@ -1,0 +1,95 @@
+﻿ <http://www.worldcat.org/title/daimon-life-heidegger-and-life-philosophy/oclc/47008476&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/daimon-life-heidegger-and-life-philosophy/oclc/47008476&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/47008476> .
+ <http://www.worldcat.org/oclc/47008476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/47008476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/47008476> <http://purl.org/library/oclcnum> "47008476"@en .
+ <http://www.worldcat.org/oclc/47008476> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/inu> .
+ <http://www.worldcat.org/oclc/47008476> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/993086#Place/bloomington> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/993086#Topic/het_demonische> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/993086#Person/heidegger_martin_1889_1976> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/about> <http://viaf.org/viaf/24602613> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/993086#Topic/ontology_life_history_20th_century> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/993086#Topic/philosophy_history_&_surveys_modern> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/993086#Topic/levensfilosofie> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/about> <http://id.loc.gov/authorities/classification/B3279> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/about> <http://id.worldcat.org/fast/1060766> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/about> <http://dewey.info/class/193/e20/> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/993086#Topic/leben> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh2008109221> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/bookFormat> <http://schema.org/EBook> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/copyrightYear> "1992"@en .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/creator> <http://viaf.org/viaf/2495215> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/datePublished> "1992"@en .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/993086> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/genre> "Electronic books"@en .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/genre> "History"@en .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/inLanguage> "en"@en .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/993086#Series/studies_in_continental_thought> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/25026164> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/name> "Daimon life Heidegger and life-philosophy"@en .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/productID> "47008476"@en .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/47008476#PublicationEvent/bloomington_indiana_university_press_1992> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/993086#Agent/indiana_university_press> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/url> <http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=10985> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/25026164.html> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/url> <http://books.google.com/books?id=SvDWAAAAMAAJ> .
+ <http://www.worldcat.org/oclc/47008476> <http://schema.org/workExample> <http://worldcat.org/isbn/9780585130149> .
+ <http://www.worldcat.org/oclc/47008476> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/47008476> .
+ <http://dewey.info/class/193/e20/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/993086#Agent/indiana_university_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/993086#Agent/indiana_university_press> <http://schema.org/name> "Indiana University Press"@en .
+ <http://experiment.worldcat.org/entity/work/data/993086#Person/heidegger_martin_1889_1976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://experiment.worldcat.org/entity/work/data/993086#Person/heidegger_martin_1889_1976> <http://schema.org/birthDate> "1889"@en .
+ <http://experiment.worldcat.org/entity/work/data/993086#Person/heidegger_martin_1889_1976> <http://schema.org/deathDate> "1976"@en .
+ <http://experiment.worldcat.org/entity/work/data/993086#Person/heidegger_martin_1889_1976> <http://schema.org/familyName> "Heidegger"@en .
+ <http://experiment.worldcat.org/entity/work/data/993086#Person/heidegger_martin_1889_1976> <http://schema.org/givenName> "Martin"@en .
+ <http://experiment.worldcat.org/entity/work/data/993086#Person/heidegger_martin_1889_1976> <http://schema.org/name> "Martin Heidegger"@en .
+ <http://experiment.worldcat.org/entity/work/data/993086#Place/bloomington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/993086#Place/bloomington> <http://schema.org/name> "Bloomington"@en .
+ <http://experiment.worldcat.org/entity/work/data/993086#Series/studies_in_continental_thought> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+ <http://experiment.worldcat.org/entity/work/data/993086#Series/studies_in_continental_thought> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/47008476> .
+ <http://experiment.worldcat.org/entity/work/data/993086#Series/studies_in_continental_thought> <http://schema.org/name> "Studies in Continental thought."@en .
+ <http://experiment.worldcat.org/entity/work/data/993086#Series/studies_in_continental_thought> <http://schema.org/name> "Studies in continental thought"@en .
+ <http://experiment.worldcat.org/entity/work/data/993086#Topic/het_demonische> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/993086#Topic/het_demonische> <http://schema.org/name> "Het Demonische"@en .
+ <http://experiment.worldcat.org/entity/work/data/993086#Topic/leben> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/993086#Topic/leben> <http://schema.org/name> "Leben"@en .
+ <http://experiment.worldcat.org/entity/work/data/993086#Topic/levensfilosofie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/993086#Topic/levensfilosofie> <http://schema.org/name> "Levensfilosofie"@en .
+ <http://experiment.worldcat.org/entity/work/data/993086#Topic/ontology_life_history_20th_century> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/993086#Topic/ontology_life_history_20th_century> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85094833> .
+ <http://experiment.worldcat.org/entity/work/data/993086#Topic/ontology_life_history_20th_century> <http://schema.org/name> "Ontology--Life--History--20th century"@en .
+ <http://experiment.worldcat.org/entity/work/data/993086#Topic/philosophy_history_&_surveys_modern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/993086#Topic/philosophy_history_&_surveys_modern> <http://schema.org/name> "PHILOSOPHY--History & Surveys--Modern"@en .
+ <http://id.loc.gov/authorities/classification/B3279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/subjects/sh2008109221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/subjects/sh2008109221> <http://schema.org/name> "Philosophical anthropology--History--20th century"@en .
+ <http://id.loc.gov/vocabulary/countries/inu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/inu> <http://purl.org/dc/terms/identifier> "inu"@en .
+ <http://id.worldcat.org/fast/1060766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/1060766> <http://schema.org/name> "Philosophical anthropology"@en .
+ <http://viaf.org/viaf/24602613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/24602613> <http://schema.org/birthDate> "1889"@en .
+ <http://viaf.org/viaf/24602613> <http://schema.org/deathDate> "1976"@en .
+ <http://viaf.org/viaf/24602613> <http://schema.org/familyName> "Heidegger"@en .
+ <http://viaf.org/viaf/24602613> <http://schema.org/givenName> "Martin"@en .
+ <http://viaf.org/viaf/24602613> <http://schema.org/name> "Martin Heidegger"@en .
+ <http://viaf.org/viaf/2495215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/2495215> <http://schema.org/familyName> "Krell"@en .
+ <http://viaf.org/viaf/2495215> <http://schema.org/givenName> "David Farrell"@en .
+ <http://viaf.org/viaf/2495215> <http://schema.org/name> "David Farrell Krell"@en .
+ <http://worldcat.org/isbn/9780585130149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> .
+ <http://worldcat.org/isbn/9780585130149> <http://schema.org/isbn> "0585130140"@en .
+ <http://worldcat.org/isbn/9780585130149> <http://schema.org/isbn> "9780585130149"@en .
+ <http://www.worldcat.org/oclc/25026164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/25026164> <http://www.w3.org/2000/01/rdf-schema#label> "Daimon life."@en .
+ <http://www.worldcat.org/oclc/25026164> <http://schema.org/description> "Print version:"@en .
+ <http://www.worldcat.org/oclc/25026164> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/47008476> .
+ <http://www.worldcat.org/title/-/oclc/47008476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/47008476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/47008476> <http://schema.org/about> <http://www.worldcat.org/oclc/47008476> .
+ <http://www.worldcat.org/title/-/oclc/47008476> <http://schema.org/dateModified> "2016-03-05"@en .
+ <http://www.worldcat.org/title/-/oclc/47008476> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+ <http://www.worldcat.org/title/-/oclc/47008476#PublicationEvent/bloomington_indiana_university_press_1992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/47008476#PublicationEvent/bloomington_indiana_university_press_1992> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/993086#Place/bloomington> .
+ <http://www.worldcat.org/title/-/oclc/47008476#PublicationEvent/bloomington_indiana_university_press_1992> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/993086#Agent/indiana_university_press> .

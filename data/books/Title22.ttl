@@ -1,0 +1,79 @@
+﻿ <http://www.worldcat.org/title/kierkegaards-pseudonymous-authorship-a-study-of-time-and-the-self/oclc/1104386&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/kierkegaards-pseudonymous-authorship-a-study-of-time-and-the-self/oclc/1104386&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/1104386> .
+ <http://www.worldcat.org/oclc/1104386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/1104386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/1104386> <http://purl.org/library/oclcnum> "1104386"@en .
+ <http://www.worldcat.org/oclc/1104386> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nju> .
+ <http://www.worldcat.org/oclc/1104386> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/896980198#Place/princeton_n_j> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/about> <http://viaf.org/viaf/7392250> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/about> <http://id.worldcat.org/fast/1151043> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/896980198#Topic/temps> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/896980198#Person/kierkegaard_soren_1813_1855> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/896980198#Topic/moi_philosophie> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/896980198#Topic/existenzphilosophie> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/about> <http://id.worldcat.org/fast/1111454> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/about> <http://id.loc.gov/authorities/classification/B4378> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/about> <http://dewey.info/class/198.9/> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/bookFormat> <http://bibliograph.net/PrintBook> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/creator> <http://viaf.org/viaf/108639325> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/datePublished> "1975"@en .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/description> "Taylor focuses on the dramatic presentation of time and self at each state of Kierkegaard's dialectic of the stages of existence."@en .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/896980198> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/inLanguage> "en"@en .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/name> "Kierkegaard's pseudonymous authorship : a study of time and the self"@en .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/numberOfPages> "391"@en .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/productID> "1104386"@en .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1104386#PublicationEvent/princeton_n_j_princeton_university_press_1975> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/896980198#Agent/princeton_university_press> .
+ <http://www.worldcat.org/oclc/1104386> <http://schema.org/workExample> <http://worldcat.org/isbn/9780691072029> .
+ <http://www.worldcat.org/oclc/1104386> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1104386> .
+ <http://dewey.info/class/198.9/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Agent/princeton_university_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Agent/princeton_university_press> <http://schema.org/name> "Princeton University Press"@en .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Person/kierkegaard_soren_1813_1855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Person/kierkegaard_soren_1813_1855> <http://schema.org/birthDate> "1813"@en .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Person/kierkegaard_soren_1813_1855> <http://schema.org/deathDate> "1855"@en .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Person/kierkegaard_soren_1813_1855> <http://schema.org/familyName> "Kierkegaard"@en .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Person/kierkegaard_soren_1813_1855> <http://schema.org/givenName> "Søren <>"@en .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Person/kierkegaard_soren_1813_1855> <http://schema.org/givenName> "Søren"@en .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Person/kierkegaard_soren_1813_1855> <http://schema.org/name> "Søren < Kierkegaard"@en .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Person/kierkegaard_soren_1813_1855> <http://schema.org/name> "Søren Kierkegaard"@en .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Person/kierkegaard_soren_1813_1855> <http://schema.org/sameAs> <http://d-nb.info/gnd/118562002> .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Place/princeton_n_j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Place/princeton_n_j> <http://schema.org/name> "Princeton, N.J."@en .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Topic/existenzphilosophie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Topic/existenzphilosophie> <http://schema.org/name> "Existenzphilosophie"@en .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Topic/moi_philosophie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Topic/moi_philosophie> <http://schema.org/name> "Moi (Philosophie)"@en .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Topic/temps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/896980198#Topic/temps> <http://schema.org/name> "Temps"@en .
+ <http://id.loc.gov/authorities/classification/B4378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/vocabulary/countries/nju> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/nju> <http://purl.org/dc/terms/identifier> "nju"@en .
+ <http://id.worldcat.org/fast/1111454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/1111454> <http://schema.org/name> "Self (Philosophy)"@en .
+ <http://id.worldcat.org/fast/1151043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/1151043> <http://schema.org/name> "Time"@en .
+ <http://viaf.org/viaf/108639325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/108639325> <http://schema.org/birthDate> "1945"@en .
+ <http://viaf.org/viaf/108639325> <http://schema.org/familyName> "Taylor"@en .
+ <http://viaf.org/viaf/108639325> <http://schema.org/givenName> "Mark C."@en .
+ <http://viaf.org/viaf/108639325> <http://schema.org/name> "Mark C. Taylor"@en .
+ <http://viaf.org/viaf/7392250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/7392250> <http://schema.org/birthDate> "1813"@en .
+ <http://viaf.org/viaf/7392250> <http://schema.org/deathDate> "1855"@en .
+ <http://viaf.org/viaf/7392250> <http://schema.org/familyName> "Kierkegaard"@en .
+ <http://viaf.org/viaf/7392250> <http://schema.org/givenName> "Søren"@en .
+ <http://viaf.org/viaf/7392250> <http://schema.org/name> "Søren Kierkegaard"@en .
+ <http://worldcat.org/isbn/9780691072029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> .
+ <http://worldcat.org/isbn/9780691072029> <http://schema.org/isbn> "0691072027"@en .
+ <http://worldcat.org/isbn/9780691072029> <http://schema.org/isbn> "9780691072029"@en .
+ <http://www.worldcat.org/title/-/oclc/1104386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/1104386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/1104386> <http://schema.org/about> <http://www.worldcat.org/oclc/1104386> .
+ <http://www.worldcat.org/title/-/oclc/1104386> <http://schema.org/dateModified> "2015-12-02"@en .
+ <http://www.worldcat.org/title/-/oclc/1104386> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+ <http://www.worldcat.org/title/-/oclc/1104386#PublicationEvent/princeton_n_j_princeton_university_press_1975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/1104386#PublicationEvent/princeton_n_j_princeton_university_press_1975> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/896980198#Place/princeton_n_j> .
+ <http://www.worldcat.org/title/-/oclc/1104386#PublicationEvent/princeton_n_j_princeton_university_press_1975> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/896980198#Agent/princeton_university_press> .
+ <http://www.worldcat.org/title/-/oclc/1104386#PublicationEvent/princeton_n_j_princeton_university_press_1975> <http://schema.org/startDate> "1975"@en .

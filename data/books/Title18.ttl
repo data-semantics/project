@@ -1,0 +1,73 @@
+﻿ <http://www.worldcat.org/title/in-the-time-of-the-nations/oclc/30035553&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/in-the-time-of-the-nations/oclc/30035553&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/30035553> .
+ <http://www.worldcat.org/oclc/30035553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/30035553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/30035553> <http://bibliograph.net/translationOfWork> <http://www.worldcat.org/title/-/oclc/30035553#CreativeWork/unidentifiedOriginalWork> .
+ <http://www.worldcat.org/oclc/30035553> <http://purl.org/library/oclcnum> "30035553"@en .
+ <http://www.worldcat.org/oclc/30035553> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/117871286#Place/bloomington> .
+ <http://www.worldcat.org/oclc/30035553> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/inu> .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/about> <http://id.loc.gov/authorities/classification/BM504> .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/about> <http://id.worldcat.org/fast/1730516> .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/about> <http://dewey.info/class/181.06/e20/> .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/about> <http://id.worldcat.org/fast/984280> .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/117871286#CreativeWork/talmud> .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/about> <http://id.worldcat.org/fast/1356431> .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/creator> <http://viaf.org/viaf/108203818> .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/datePublished> "1994"@en .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/description> "The 'nations' of the title are the 'seventy nations': in the Talmudic idiom, the whole of humanity surrounding Israel. In this major collection of essays, Levinas considers Judaism's uncertain relationship to European culture since the Enlightenment, problems of distance and integration. It also includes five Talmudic readings from between 1981 and 1986, essays on Franz Rosenzweig and Moses Mendelssohn, and a discussion with Francoise Armengaud which raises questions of central importance to Jewish philosophy in the context of general philosophy. This work brings to the fore the vital encounter between philosophy and Judaism, a hallmark of Levinas's thought."@en .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/description> "Translator's Note -- Glossary of Hebrew Terms -- Author's Foreword -- For a Place in the Bible -- The Translation of the Scripture -- Contempt for the Torah as Idolatry -- Beyond Memory -- The Nations and the Presence of Israel -- From Ethics to Exegesis -- Judaism and Kenosis -- The Bible and the Greek -- Moses Mendelssohn's Thought -- A Figure and a Period -- The Philosophy of Franz Rosenzweig -- Judaism and Christianity -- On Jewish Philosophy -- Notes -- General Index -- Index of Biblical Passages."@en .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/117871286> .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/genre> "Criticism, interpretation, etc."@en .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/inLanguage> "en"@en .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/624498845> .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/631417990> .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/name> "In the time of the nations"@en .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/productID> "30035553"@en .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/30035553#PublicationEvent/bloomington_indiana_university_press_1994> .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/117871286#Agent/indiana_university_press> .
+ <http://www.worldcat.org/oclc/30035553> <http://schema.org/workExample> <http://worldcat.org/isbn/9780253332950> .
+ <http://www.worldcat.org/oclc/30035553> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/30035553> .
+ <http://dewey.info/class/181.06/e20/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/117871286#Agent/indiana_university_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/117871286#Agent/indiana_university_press> <http://schema.org/name> "Indiana University Press"@en .
+ <http://experiment.worldcat.org/entity/work/data/117871286#CreativeWork/talmud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://experiment.worldcat.org/entity/work/data/117871286#CreativeWork/talmud> <http://schema.org/name> "Talmud"@en .
+ <http://experiment.worldcat.org/entity/work/data/117871286#Place/bloomington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/117871286#Place/bloomington> <http://schema.org/name> "Bloomington"@en .
+ <http://id.loc.gov/authorities/classification/BM504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/vocabulary/countries/inu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/inu> <http://purl.org/dc/terms/identifier> "inu"@en .
+ <http://id.worldcat.org/fast/1356431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://id.worldcat.org/fast/1356431> <http://schema.org/name> "Talmud."@en .
+ <http://id.worldcat.org/fast/1730516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/1730516> <http://schema.org/name> "Jewish philosophy"@en .
+ <http://id.worldcat.org/fast/984280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/984280> <http://schema.org/name> "Judaism"@en .
+ <http://viaf.org/viaf/108203818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/108203818> <http://schema.org/familyName> "Lévinas"@en .
+ <http://viaf.org/viaf/108203818> <http://schema.org/givenName> "Emmanuel"@en .
+ <http://viaf.org/viaf/108203818> <http://schema.org/name> "Emmanuel Lévinas"@en .
+ <http://worldcat.org/entity/work/id/117871286> <http://schema.org/name> "A l'heure des nations."@en .
+ <http://worldcat.org/isbn/9780253332950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> .
+ <http://worldcat.org/isbn/9780253332950> <http://schema.org/isbn> "0253332958"@en .
+ <http://worldcat.org/isbn/9780253332950> <http://schema.org/isbn> "9780253332950"@en .
+ <http://www.worldcat.org/oclc/624498845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/624498845> <http://www.w3.org/2000/01/rdf-schema#label> "In the time of the nations."@en .
+ <http://www.worldcat.org/oclc/624498845> <http://schema.org/description> "Online version:"@en .
+ <http://www.worldcat.org/oclc/624498845> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/30035553> .
+ <http://www.worldcat.org/oclc/631417990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/oclc/631417990> <http://www.w3.org/2000/01/rdf-schema#label> "In the time of the nations."@en .
+ <http://www.worldcat.org/oclc/631417990> <http://schema.org/description> "Online version:"@en .
+ <http://www.worldcat.org/oclc/631417990> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/30035553> .
+ <http://www.worldcat.org/title/-/oclc/30035553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/30035553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/30035553> <http://schema.org/about> <http://www.worldcat.org/oclc/30035553> .
+ <http://www.worldcat.org/title/-/oclc/30035553> <http://schema.org/dateModified> "2015-03-10"@en .
+ <http://www.worldcat.org/title/-/oclc/30035553> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+ <http://www.worldcat.org/title/-/oclc/30035553#CreativeWork/unidentifiedOriginalWork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+ <http://www.worldcat.org/title/-/oclc/30035553#CreativeWork/unidentifiedOriginalWork> <http://schema.org/inLanguage> "fr"@en .
+ <http://www.worldcat.org/title/-/oclc/30035553#CreativeWork/unidentifiedOriginalWork> <http://schema.org/name> "A l'heure des nations."@en .
+ <http://www.worldcat.org/title/-/oclc/30035553#PublicationEvent/bloomington_indiana_university_press_1994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/30035553#PublicationEvent/bloomington_indiana_university_press_1994> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/117871286#Place/bloomington> .
+ <http://www.worldcat.org/title/-/oclc/30035553#PublicationEvent/bloomington_indiana_university_press_1994> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/117871286#Agent/indiana_university_press> .
+ <http://www.worldcat.org/title/-/oclc/30035553#PublicationEvent/bloomington_indiana_university_press_1994> <http://schema.org/startDate> "1994"@en .

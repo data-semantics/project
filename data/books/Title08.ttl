@@ -1,0 +1,56 @@
+﻿ <http://www.worldcat.org/title/humanisme-de-lautre-homme/oclc/1053895&referer=brief_results> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> .
+ <http://www.worldcat.org/title/humanisme-de-lautre-homme/oclc/1053895&referer=brief_results> <http://schema.org/about> <http://www.worldcat.org/oclc/1053895> .
+ <http://www.worldcat.org/oclc/1053895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> .
+ <http://www.worldcat.org/oclc/1053895> <http://purl.org/library/oclcnum> "1053895"@en .
+ <http://www.worldcat.org/oclc/1053895> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+ <http://www.worldcat.org/oclc/1053895> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/667876#Place/montpellier> .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/667876#Topic/philosophische_anthropologie> .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/about> <http://id.worldcat.org/fast/963520> .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/about> <http://dewey.info/class/194/> .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/about> <http://id.loc.gov/authorities/classification/B821> .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/667876#Topic/aufsatzsammlung> .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/667876#Topic/humanisme> .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/creator> <http://viaf.org/viaf/108203818> .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/datePublished> "1972"@en .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/667876> .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/inLanguage> "fr"@en .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/667876#Series/essais> .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/name> "Humanisme de l'autre homme."@en .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1053895#PublicationEvent/montpellierfata_morgana1972> .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/667876#Agent/fata_morgana> .
+ <http://www.worldcat.org/oclc/1053895> <http://schema.org/workExample> <http://worldcat.org/isbn/9782253041153> .
+ <http://www.worldcat.org/oclc/1053895> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1053895> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr"@en .
+ <http://experiment.worldcat.org/entity/work/data/667876#Place/montpellier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+ <http://experiment.worldcat.org/entity/work/data/667876#Place/montpellier> <http://schema.org/name> "Montpellier"@en .
+ <http://experiment.worldcat.org/entity/work/data/667876#Topic/philosophische_anthropologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/667876#Topic/philosophische_anthropologie> <http://schema.org/name> "Philosophische Anthropologie."@en .
+ <http://id.worldcat.org/fast/963520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.worldcat.org/fast/963520> <http://schema.org/name> "Humanism."@en .
+ <http://dewey.info/class/194/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://id.loc.gov/authorities/classification/B821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/667876#Topic/aufsatzsammlung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/667876#Topic/aufsatzsammlung> <http://schema.org/name> "Aufsatzsammlung."@en .
+ <http://experiment.worldcat.org/entity/work/data/667876#Topic/humanisme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+ <http://experiment.worldcat.org/entity/work/data/667876#Topic/humanisme> <http://schema.org/name> "Humanisme."@en .
+ <http://viaf.org/viaf/108203818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+ <http://viaf.org/viaf/108203818> <http://schema.org/familyName> "Lévinas"@en .
+ <http://viaf.org/viaf/108203818> <http://schema.org/givenName> "Emmanuel"@en .
+ <http://viaf.org/viaf/108203818> <http://schema.org/name> "Lévinas, Emmanuel."@en .
+ <http://experiment.worldcat.org/entity/work/data/667876#Series/essais> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Series> .
+ <http://experiment.worldcat.org/entity/work/data/667876#Series/essais> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/1053895> .
+ <http://experiment.worldcat.org/entity/work/data/667876#Series/essais> <http://schema.org/name> "Essais,"@en .
+ <http://www.worldcat.org/title/-/oclc/1053895#PublicationEvent/montpellierfata_morgana1972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+ <http://www.worldcat.org/title/-/oclc/1053895#PublicationEvent/montpellierfata_morgana1972> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/667876#Place/montpellier> .
+ <http://www.worldcat.org/title/-/oclc/1053895#PublicationEvent/montpellierfata_morgana1972> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/667876#Agent/fata_morgana> .
+ <http://www.worldcat.org/title/-/oclc/1053895#PublicationEvent/montpellierfata_morgana1972> <http://schema.org/startDate> "1972"@en .
+ <http://experiment.worldcat.org/entity/work/data/667876#Agent/fata_morgana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+ <http://experiment.worldcat.org/entity/work/data/667876#Agent/fata_morgana> <http://schema.org/name> "Fata Morgana"@en .
+ <http://worldcat.org/isbn/9782253041153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> .
+ <http://worldcat.org/isbn/9782253041153> <http://schema.org/isbn> "2253041157"@en .
+ <http://worldcat.org/isbn/9782253041153> <http://schema.org/isbn> "9782253041153"@en .
+ <http://www.worldcat.org/title/-/oclc/1053895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+ <http://www.worldcat.org/title/-/oclc/1053895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+ <http://www.worldcat.org/title/-/oclc/1053895> <http://schema.org/about> <http://www.worldcat.org/oclc/1053895> .
+ <http://www.worldcat.org/title/-/oclc/1053895> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
