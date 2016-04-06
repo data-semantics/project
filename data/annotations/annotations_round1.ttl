@@ -9,34 +9,35 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf:  <http://xmlns.com/foaf/0.1/> .
 @prefix dc:    <http://purl.org/dc/elements/1.1/> .
+@prefix ex:    <http://example.org> .
 
-<http://library.princeton.edu/1.2.4.40>
+<http://bibfram.es/annotations/derrida/1.2.4.40>
         a                oa:Annotation ;
         dcterms:created  "1980-11-03T12:00:00Z" ;
         dcterms:creator  <http://viaf.org/viaf/54153607> ;
-        oa:hasBody       <http://library.princeton.edu/1.2.4.40/body1> , <http://library.princeton.edu/1.2.4.40/body2> ;
-        oa:hasTarget     <http://library.princeton.edu/1.2.4.40/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.2.4.40/body1> , <http://bibfram.es/annotations/derrida/1.2.4.40/body2> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.2.4.40/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
 <http://viaf.org/viaf/54153607>
         a               foaf:Person ;
         skos:prefLabel  "Rosenblum, Eva" .
 
-<http://library.princeton.edu/1.2.4.40/body1>
+<http://bibfram.es/annotations/derrida/1.2.4.40/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "3-XI-80 Monsieur le Professeur, J'ai le plaisir de vous envoyer le troisime volume des Oeuvres de Daniel Lagache. Recevez, Monsieur, l'expression de mes sentiments les meilleurs Eva Rosenblum" .
 
-<http://library.princeton.edu/1.2.4.40/body2>
+<http://bibfram.es/annotations/derrida/1.2.4.40/body2>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Au Professeur Jacques Derrida avec mon cordial hommage Eva Rosenblum" .
 
-<http://library.princeton.edu/1.2.4.40/meta1>
+<http://bibfram.es/annotations/derrida/1.2.4.40/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/54207577> ;
                            oa:role       "tagging"
                          ] ;
@@ -45,7 +46,7 @@
                                              oa:prefix  "Oeuvres de " ;
                                              oa:suffix  ". Recevez,"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.4.40/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.4.40/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -53,9 +54,9 @@
         a               foaf:Person ;
         skos:prefLabel  "Lagache, Daniel, 1903-1972" .
 
-<http://library.princeton.edu/4.3.3.3/meta2>
+<http://bibfram.es/annotations/derrida/4.3.3.3/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/54153607> ;
                            oa:role       "tagging"
                          ] ;
@@ -67,14 +68,14 @@
                                              oa:prefix  "les meilleurs " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.4.40/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.4.40/body1>
                          ] ;
         oa:hasTarget     [ oa:hasSelector  [ a          oa:TextQuoteSelector ;
                                              oa:exact   "Oeuvres de Daniel Lagache" ;
                                              oa:prefix  "volume des " ;
                                              oa:suffix  ". Recevez, "
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.4.40/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.4.40/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -82,9 +83,9 @@
         a               bf:Work , schema:CreativeWork ;
         skos:prefLabel  "Lagache, Daniel, 1903-1972. | Works" .
 
-<http://library.princeton.edu/1.2.4.40/meta3>
+<http://bibfram.es/annotations/derrida/1.2.4.40/meta3>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/54153607> ;
                            oa:role       "tagging"
                          ] ;
@@ -93,13 +94,13 @@
                                              oa:prefix  "cordial hommage " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.4.40/body2>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.4.40/body2>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.2.4.40/meta4>
+<http://bibfram.es/annotations/derrida/1.2.4.40/meta4>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -108,7 +109,7 @@
                                              oa:prefix  "Au Professeur " ;
                                              oa:suffix  " avec mon cordial"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.4.40/body2>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.4.40/body2>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -116,26 +117,26 @@
         a               foaf:Person ;
         skos:prefLabel  "Derrida, Jacques" .
 
-<http://library.princeton.edu/1.2.4.41>
+<http://bibfram.es/annotations/derrida/1.2.4.41>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/66472709> ;
-        oa:hasBody       <http://library.princeton.edu/1.2.4.41/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.2.4.41/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.2.4.41/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.2.4.41/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
 <http://viaf.org/viaf/66472709>
         a               foaf:Person ;
         skos:prefLabel  "Rassial, Jean-Jacques" .
 
-<http://library.princeton.edu/1.2.4.41/body1>
+<http://bibfram.es/annotations/derrida/1.2.4.41/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "A Jacques Derrida, ce recueil mais aussi la question. En hommage  son enseignement qui nous interpellait quand nous formulions ce titre. J.-J. R interpellait" .
 
-<http://library.princeton.edu/1.2.4.41/meta1>
+<http://bibfram.es/annotations/derrida/1.2.4.41/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -144,13 +145,13 @@
                                              oa:prefix  "A " ;
                                              oa:suffix  ", ce recueil mais"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.4.41/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.4.41/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.2.4.41/meta2>
+<http://bibfram.es/annotations/derrida/1.2.4.41/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/66472709> ;
                            oa:role       "tagging"
                          ] ;
@@ -159,31 +160,31 @@
                                              oa:prefix  "ce titre. " ;
                                              oa:suffix  " interpellait"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.4.41/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.4.41/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.2.42>
+<http://bibfram.es/annotations/derrida/1.4.2.42>
         a                oa:Annotation ;
         dcterms:created  "19770303T12:00:00Z" ;
         dcterms:creator  <http://viaf.org/viaf/19675770> ;
-        oa:hasBody       <http://library.princeton.edu/1.4.2.42/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.4.2.42/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.4.2.42/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.4.2.42/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
 <http://viaf.org/viaf/19675770>
         a               foaf:Person ;
         skos:prefLabel  "Chemouilli, Henri, 1891-1981" .
 
-<http://library.princeton.edu/1.4.2.42/body1>
+<http://bibfram.es/annotations/derrida/1.4.2.42/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Pour Mme Marguerite Derrida tres cordialement le 3 / 3 /77 H. Chemouilli" .
 
-<http://library.princeton.edu/1.4.2.42/meta1>
+<http://bibfram.es/annotations/derrida/1.4.2.42/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/163091629> ;
                            oa:role       "tagging"
                          ] ;
@@ -192,7 +193,7 @@
                                              oa:prefix  "Pour " ;
                                              oa:suffix  " tres cordialement"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.2.42/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.2.42/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -200,9 +201,9 @@
         a               foaf:Person ;
         skos:prefLabel  "Derrida, Marguerite" .
 
-<http://library.princeton.edu/1.4.2.42/meta2>
+<http://bibfram.es/annotations/derrida/1.4.2.42/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/19675770> ;
                            oa:role       "tagging"
                          ] ;
@@ -211,30 +212,30 @@
                                              oa:prefix  "3 / 3 /77 " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.2.42/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.2.42/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.2.7.5>
+<http://bibfram.es/annotations/derrida/1.2.7.5>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/108203818> ;
-        oa:hasBody       <http://library.princeton.edu/1.2.7.5/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.2.7.5/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.2.7.5/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.2.7.5/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
 <http://viaf.org/viaf/108203818>
         a               foaf:Person ;
         skos:prefLabel  "Lévinas, Emmanuel" .
 
-<http://library.princeton.edu/1.2.7.5/body1>
+<http://bibfram.es/annotations/derrida/1.2.7.5/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Pour Jacques Derrida - pour le remercier de tant d'tonnements nouveaux et pour lui redire ma trs vive sympathie EL" .
 
-<http://library.princeton.edu/1.2.7.5/meta1>
+<http://bibfram.es/annotations/derrida/1.2.7.5/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -243,13 +244,13 @@
                                              oa:prefix  "Pour " ;
                                              oa:suffix  " - pour le remecier"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.7.5>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.7.5>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.2.7.5/meta2>
+<http://bibfram.es/annotations/derrida/1.2.7.5/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/108203818> ;
                            oa:role       "tagging"
                          ] ;
@@ -258,26 +259,26 @@
                                              oa:prefix  "vive sympathie " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.7.5>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.7.5>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.2.7.13>
+<http://bibfram.es/annotations/derrida/1.2.7.13>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/108203818> ;
-        oa:hasBody       <http://library.princeton.edu/1.2.7.13/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.2.7.13/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.2.7.13/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.2.7.13/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
-<http://library.princeton.edu/1.2.7.13/body1>
+<http://bibfram.es/annotations/derrida/1.2.7.13/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Pour Jacques Derrida ces pages de qui ne s'arrtent jamais,  vrai dire, ni  dire vrai  Avec toute l'amiti admirative d'E.L" .
 
-<http://library.princeton.edu/1.2.7.13/meta1>
+<http://bibfram.es/annotations/derrida/1.2.7.13/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -286,13 +287,13 @@
                                              oa:prefix  "Pour " ;
                                              oa:suffix  " ces pages de"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.7.13>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.7.13>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.2.7.13/meta2>
+<http://bibfram.es/annotations/derrida/1.2.7.13/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/108203818> ;
                            oa:role       "tagging"
                          ] ;
@@ -301,27 +302,27 @@
                                              oa:prefix  "admirative d'" ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.7.13>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.7.13>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.2.7.17>
+<http://bibfram.es/annotations/derrida/1.2.7.17>
         a                oa:Annotation ;
         dcterms:created  "1972-12-13T12:00:00Z" ;
         dcterms:creator  <http://viaf.org/viaf/108203818> ;
-        oa:hasBody       <http://library.princeton.edu/1.2.7.17/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.2.7.17/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.2.7.17/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.2.7.17/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
-<http://library.princeton.edu/1.2.7.17/body1>
+<http://bibfram.es/annotations/derrida/1.2.7.17/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Pour Jacques Derrida en signe de proximite malgre tant d'eloignements avec tous mes voeux pour 1972 et avec mes sympathies EL le 13/12-72" .
 
-<http://library.princeton.edu/1.2.7.17/meta1>
+<http://bibfram.es/annotations/derrida/1.2.7.17/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -330,13 +331,13 @@
                                              oa:prefix  "Pour " ;
                                              oa:suffix  " en signe de"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.7.17>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.7.17>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.2.7.17/meta2>
+<http://bibfram.es/annotations/derrida/1.2.7.17/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/108203818> ;
                            oa:role       "tagging"
                          ] ;
@@ -345,27 +346,27 @@
                                              oa:prefix  "mes sympathies " ;
                                              oa:suffix  " le 13/12.72"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.7.17>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.7.17>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.2.7.20>
+<http://bibfram.es/annotations/derrida/1.2.7.20>
         a                oa:Annotation ;
         dcterms:created  "1972-09-28T12:00:00Z" ;
         dcterms:creator  <http://viaf.org/viaf/108203818> ;
-        oa:hasBody       <http://library.princeton.edu/1.2.7.20/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.2.7.20/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.2.7.20/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.2.7.20/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
-<http://library.princeton.edu/1.2.7.20/body1>
+<http://bibfram.es/annotations/derrida/1.2.7.20/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Pour Jacques  qui ces textes ne peuvent apporter que mes bonnes penses le 28-9-72 EL" .
 
-<http://library.princeton.edu/1.2.7.20/meta1>
+<http://bibfram.es/annotations/derrida/1.2.7.20/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -374,13 +375,13 @@
                                              oa:prefix  "Pour " ;
                                              oa:suffix  " qui ces"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.7.20>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.7.20>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.2.7.20/meta2>
+<http://bibfram.es/annotations/derrida/1.2.7.20/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/108203818> ;
                            oa:role       "tagging"
                          ] ;
@@ -389,30 +390,30 @@
                                              oa:prefix  "28-9-72 " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.2.7.20>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.2.7.20>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/3.1.2.20>
+<http://bibfram.es/annotations/derrida/3.1.2.20>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/66483274> , <http://viaf.org/viaf/108283355> ;
-        oa:hasBody       <http://library.princeton.edu/3.1.3.20/body1> , <http://library.princeton.edu/3.1.2.20/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/3.1.3.20/pageX> , <http://library.princeton.edu/3.1.2.20/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/3.1.3.20/body1> , <http://bibfram.es/annotations/derrida/3.1.2.20/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/3.1.3.20/pageX> , <http://bibfram.es/annotations/derrida/3.1.2.20/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
 <http://viaf.org/viaf/66483274>
         a               foaf:Person ;
         skos:prefLabel  "Miller, J. Hillis (Joseph Hillis), 1928-" .
 
-<http://library.princeton.edu/3.1.3.20/body1>
+<http://bibfram.es/annotations/derrida/3.1.3.20/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "en" ;
         oa:text      "For Jacques affectionate greetings. I believe I have not sent you a copy of this  Best - see you soon Hillis" .
 
-<http://library.princeton.edu/3.1.2.20/meta1>
+<http://bibfram.es/annotations/derrida/3.1.2.20/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -424,20 +425,20 @@
                                              oa:prefix  "For " ;
                                              oa:suffix  " affectionate greetings"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.1.3.20/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.1.3.20/body1>
                          ] ;
         oa:hasTarget     [ oa:hasSelector  [ a          oa:TextQuoteSelector ;
                                              oa:exact   "Jacques" ;
                                              oa:prefix  "" ;
                                              oa:suffix  ", voici de la petite"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.1.2.20/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.1.2.20/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/3.1.2.20/meta2>
+<http://bibfram.es/annotations/derrida/3.1.2.20/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/66483274> ;
                            oa:role       "tagging"
                          ] ;
@@ -449,14 +450,14 @@
                                              oa:prefix  "see you soon " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.1.3.20/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.1.3.20/body1>
                          ] ;
         oa:hasTarget     [ oa:hasSelector  [ a          oa:TextQuoteSelector ;
                                              oa:exact   "John" ;
                                              oa:prefix  "merci pour tes dons. " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.1.2.20/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.1.2.20/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -464,23 +465,23 @@
         a               foaf:Person ;
         skos:prefLabel  "Llewelyn, John, 1928-" .
 
-<http://library.princeton.edu/3.1.2.20/body1>
+<http://bibfram.es/annotations/derrida/3.1.2.20/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Jacques, voici de la petite, peut-être fausse monnaie, mais avec un grand merci pour tes dons. John" .
 
-<http://library.princeton.edu/3.1.4.4>
+<http://bibfram.es/annotations/derrida/3.1.4.4>
         a                oa:Annotation ;
         dcterms:created  "1992-04-24T12:00:00Z" ;
         dcterms:creator  <http://viaf.org/viaf/108283355> ;
-        oa:hasBody       <http://library.princeton.edu/3.1.2.20/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/3.1.2.20/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/3.1.2.20/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/3.1.2.20/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
-<http://library.princeton.edu/3.1.4.4/meta1>
+<http://bibfram.es/annotations/derrida/3.1.4.4/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -489,19 +490,19 @@
                                              oa:prefix  "A " ;
                                              oa:suffix  ", dont la pensée me nourrit"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.1.4.4/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.1.4.4/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/3.1.4.4/body1>
+<http://bibfram.es/annotations/derrida/3.1.4.4/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "A Jacques Derrida, dont la pensée me nourrit, avec affection. Alexandre Leupin Baton Rouge, le 24 avril 92" .
 
-<http://library.princeton.edu/3.1.4.4/meta2>
+<http://bibfram.es/annotations/derrida/3.1.4.4/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/92820736> ;
                            oa:role       "tagging"
                          ] ;
@@ -510,7 +511,7 @@
                                              oa:prefix  "avec affection. " ;
                                              oa:suffix  " Baton Rouge, le 24 avril 92"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.1.4.4/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.1.4.4/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -518,9 +519,9 @@
         a               foaf:Person ;
         skos:prefLabel  "Leupin, Alexandre,‏ ‎1948-‏" .
 
-<http://library.princeton.edu/3.1.4.4/meta3>
+<http://bibfram.es/annotations/derrida/3.1.4.4/meta3>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/134323527> ;
                            oa:role       "tagging"
                          ] ;
@@ -529,7 +530,7 @@
                                              oa:prefix  "Alexandre Leupin " ;
                                              oa:suffix  ", le 24 avril 92"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.1.4.4/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.1.4.4/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -537,27 +538,27 @@
         a               schema:Place ;
         skos:prefLabel  "Baton Rouge (La.)" .
 
-<http://library.princeton.edu/3.1.4.5>
+<http://bibfram.es/annotations/derrida/3.1.4.5>
         a                oa:Annotation ;
         dcterms:created  "1992-12-12T12:00:00Z" ;
         dcterms:creator  <http://viaf.org/viaf/2495215> ;
-        oa:hasBody       <http://library.princeton.edu/3.1.4.5/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/3.1.4.5/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/3.1.4.5/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/3.1.4.5/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
 <http://viaf.org/viaf/2495215>
         a               foaf:Person ;
         skos:prefLabel  "Krell, David Farrell" .
 
-<http://library.princeton.edu/3.1.4.5/body1>
+<http://bibfram.es/annotations/derrida/3.1.4.5/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "mais oui, oui, pour jd pour nos vies ! ton ami, David Chicago 12.XII.92" .
 
-<http://library.princeton.edu/3.1.4.5/meta1>
+<http://bibfram.es/annotations/derrida/3.1.4.5/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -566,13 +567,13 @@
                                              oa:prefix  "mais oui, oui, pour " ;
                                              oa:suffix  " pour nos vies"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.1.4.5/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.1.4.5/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/3.1.4.5/meta2>
+<http://bibfram.es/annotations/derrida/3.1.4.5/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/92820736> ;
                            oa:role       "tagging"
                          ] ;
@@ -581,13 +582,13 @@
                                              oa:prefix  "ton ami, " ;
                                              oa:suffix  " Chicago 12.XII.92"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.1.4.5>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.1.4.5>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/3.1.4.5/meta3>
+<http://bibfram.es/annotations/derrida/3.1.4.5/meta3>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/134323527> ;
                            oa:role       "tagging"
                          ] ;
@@ -596,7 +597,7 @@
                                              oa:prefix  "ton ami, David " ;
                                              oa:suffix  " 12.XII.92"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.1.4.5>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.1.4.5>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -604,26 +605,26 @@
         a               schema:Place ;
         skos:prefLabel  "Chicago (Ill.)" .
 
-<http://library.princeton.edu/3.2.1.19>
+<http://bibfram.es/annotations/derrida/3.2.1.19>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/85274456> ;
-        oa:hasBody       <http://library.princeton.edu/3.2.1.19/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/3.2.1.19/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/3.2.1.19/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/3.2.1.19/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
 <http://viaf.org/viaf/85274456>
         a               foaf:Person ;
         skos:prefLabel  "Deguy, Michel" .
 
-<http://library.princeton.edu/3.2.1.19/body1>
+<http://bibfram.es/annotations/derrida/3.2.1.19/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "A Jacques, à Marguerite à vos fils avec ma fidèle amitié Michel" .
 
-<http://library.princeton.edu/3.2.1.19/meta1>
+<http://bibfram.es/annotations/derrida/3.2.1.19/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -632,13 +633,13 @@
                                              oa:prefix  "A " ;
                                              oa:suffix  ", à Marguerite à vos fils"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.2.1.19/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.2.1.19/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/3.2.1.19/meta2>
+<http://bibfram.es/annotations/derrida/3.2.1.19/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/85274456> ;
                            oa:role       "tagging"
                          ] ;
@@ -647,13 +648,13 @@
                                              oa:prefix  "avec ma fidèle amitié " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.2.1.19/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.2.1.19/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/3.2.1.19/meta3>
+<http://bibfram.es/annotations/derrida/3.2.1.19/meta3>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/163091629> ;
                            oa:role       "tagging"
                          ] ;
@@ -662,13 +663,13 @@
                                              oa:prefix  "A Jacques, à " ;
                                              oa:suffix  " à vos fils avec ma fidèle amitié Michel"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.2.1.19/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.2.1.19/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/3.2.1.19/meta4>
+<http://bibfram.es/annotations/derrida/3.2.1.19/meta4>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  [ a        oa:Composite ;
                                            oa:item  <http://viaf.org/viaf/225744163> , <http://viaf.org/viaf/151830533>
                                          ] ;
@@ -679,7 +680,7 @@
                                              oa:prefix  "A Jacques, à Marguerite à " ;
                                              oa:suffix  " avec ma fidèle amitié Michel"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.2.1.19/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.2.1.19/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -691,35 +692,35 @@
         a               foaf:Person ;
         skos:prefLabel  "Derrida, Jean, 1967-" .
 
-<http://library.princeton.edu/1.1.1.7>
+<http://bibfram.es/annotations/derrida/1.1.1.7>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/73856340> ;
-        oa:hasBody       <http://library.princeton.edu/1.1.1.7/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.1.1.7/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.1.1.7/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.1.1.7/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
 <http://viaf.org/viaf/73856340>
         a               foaf:Person ;
         skos:prefLabel  "Lejeune, Claire, 1926-" .
 
-<http://library.princeton.edu/1.1.1.7/body1>
+<http://bibfram.es/annotations/derrida/1.1.1.7/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Avec mon trs amical souvenir, CLejeune" .
 
-<http://library.princeton.edu/1.1.1.7/meta1>
+<http://bibfram.es/annotations/derrida/1.1.1.7/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
-        oa:hasSource     <http://library.princeton.edu/1.1.1.7/body1> ;
+        oa:hasSource     <http://bibfram.es/annotations/derrida/1.1.1.7/body1> ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.1.1.7/meta2>
+<http://bibfram.es/annotations/derrida/1.1.1.7/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/73856340> ;
                            oa:role       "tagging"
                          ] ;
@@ -728,30 +729,30 @@
                                              oa:prefix  "souvenir, " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.1.7/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.1.7/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.1.9.17>
+<http://bibfram.es/annotations/derrida/1.1.9.17>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/110488406> ;
-        oa:hasBody       <http://library.princeton.edu/1.1.9.17/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.1.9.17/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.1.9.17/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.1.9.17/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
 <http://viaf.org/viaf/110488406>
         a               foaf:Person ;
         skos:prefLabel  "Janicaud, Dominique, 1937-" .
 
-<http://library.princeton.edu/1.1.9.17/body1>
+<http://bibfram.es/annotations/derrida/1.1.9.17/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "À J. Derrida, en bien amical hommage. D. Janicaud" .
 
-<http://library.princeton.edu/1.1.9.17/meta1>
+<http://bibfram.es/annotations/derrida/1.1.9.17/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -760,13 +761,13 @@
                                              oa:prefix  "À " ;
                                              oa:suffix  ", en bien amical hommage"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.9.17/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.9.17/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.1.9.17/meta2>
+<http://bibfram.es/annotations/derrida/1.1.9.17/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/110488406> ;
                            oa:role       "tagging"
                          ] ;
@@ -775,26 +776,26 @@
                                              oa:prefix  "hommage. " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.9.17/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.9.17/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.1.9.19>
+<http://bibfram.es/annotations/derrida/1.1.9.19>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/110488406> ;
-        oa:hasBody       <http://library.princeton.edu/1.1.9.19/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.1.9.19/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.1.9.19/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.1.9.19/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
-<http://library.princeton.edu/1.1.9.19/body1>
+<http://bibfram.es/annotations/derrida/1.1.9.19/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      " Jacques Derrida, en te remerciant d'avoir intercédé pour ce texte, amical hommage. D. Janicaud Tous mes voeux à madame Derrida et à vous-même pour la naissance de Jean" .
 
-<http://library.princeton.edu/1.1.9.19/meta1>
+<http://bibfram.es/annotations/derrida/1.1.9.19/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -803,13 +804,13 @@
                                              oa:prefix  "À " ;
                                              oa:suffix  ", en te remerciant d'avoir intercédé"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.9.19/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.9.19/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.1.9.19/meta2>
+<http://bibfram.es/annotations/derrida/1.1.9.19/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/110488406> ;
                            oa:role       "tagging"
                          ] ;
@@ -818,13 +819,13 @@
                                              oa:prefix  "amical hommage. " ;
                                              oa:suffix  " Tous mes voeux "
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.9.19/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.9.19/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.1.9.19/meta3>
+<http://bibfram.es/annotations/derrida/1.1.9.19/meta3>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/163091629> ;
                            oa:role       "tagging"
                          ] ;
@@ -833,13 +834,13 @@
                                              oa:prefix  "mes voeux à " ;
                                              oa:suffix  " et vous-même pour la naissance de Jean"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.9.19/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.9.19/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.1.9.19/meta4>
+<http://bibfram.es/annotations/derrida/1.1.9.19/meta4>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/151830533> ;
                            oa:role       "tagging"
                          ] ;
@@ -848,26 +849,26 @@
                                              oa:prefix  "pour la naissance de " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.9.19/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.9.19/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.1.10.43>
+<http://bibfram.es/annotations/derrida/1.1.10.43>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/71436219> ;
-        oa:hasBody       <http://library.princeton.edu/1.1.10.43/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.1.10.43/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.1.10.43/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.1.10.43/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
-<http://library.princeton.edu/1.1.10.43/body1>
+<http://bibfram.es/annotations/derrida/1.1.10.43/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "A Jacques Derrida, avec mon respect et mon amitié Françoise Proust" .
 
-<http://library.princeton.edu/1.1.10.43/meta1>
+<http://bibfram.es/annotations/derrida/1.1.10.43/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -876,13 +877,13 @@
                                              oa:prefix  "A " ;
                                              oa:suffix  ", avec mon respect"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.10.43/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.10.43/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.1.10.43/meta2>
+<http://bibfram.es/annotations/derrida/1.1.10.43/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/71436219> ;
                            oa:role       "tagging"
                          ] ;
@@ -891,7 +892,7 @@
                                              oa:prefix  "respect et mon amitié " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.10.43/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.10.43/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -899,22 +900,22 @@
         a               foaf:Person ;
         skos:prefLabel  "Proust, Françoise 1947?-1998" .
 
-<http://library.princeton.edu/1.1.11.17>
+<http://bibfram.es/annotations/derrida/1.1.11.17>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/71436219> ;
-        oa:hasBody       <http://library.princeton.edu/1.1.11.17/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.1.11.17/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.1.11.17/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.1.11.17/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
-<http://library.princeton.edu/1.1.11.17/body1>
+<http://bibfram.es/annotations/derrida/1.1.11.17/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "A Jacques Derrida, ce signe amical, Françoise Proust" .
 
-<http://library.princeton.edu/1.1.11.17/meta1>
+<http://bibfram.es/annotations/derrida/1.1.11.17/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -923,13 +924,13 @@
                                              oa:prefix  "A " ;
                                              oa:suffix  ", ce signe amical"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.11.17/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.11.17/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.1.11.17/meta2>
+<http://bibfram.es/annotations/derrida/1.1.11.17/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/71436219> ;
                            oa:role       "tagging"
                          ] ;
@@ -938,26 +939,26 @@
                                              oa:prefix  "ce signe amical, " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.11.17/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.11.17/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.1.11.24>
+<http://bibfram.es/annotations/derrida/1.1.11.24>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/190751933> ;
-        oa:hasBody       <http://library.princeton.edu/1.1.11.24/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.1.11.24/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.1.11.24/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.1.11.24/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
-<http://library.princeton.edu/1.1.11.24/body1>
+<http://bibfram.es/annotations/derrida/1.1.11.24/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Cher Monsieur Derrida, Comme va de soi, ces quelques pages vous sont dédiées Erik Ogier" .
 
-<http://library.princeton.edu/1.1.11.24/meta1>
+<http://bibfram.es/annotations/derrida/1.1.11.24/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -966,13 +967,13 @@
                                              oa:prefix  "Cher " ;
                                              oa:suffix  ", Comme va de soi"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.11.24/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.11.24/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.1.11.24/meta2>
+<http://bibfram.es/annotations/derrida/1.1.11.24/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/190751933> ;
                            oa:role       "tagging"
                          ] ;
@@ -981,7 +982,7 @@
                                              oa:prefix  "vous sont dédiées " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.11.24/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.11.24/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -989,23 +990,23 @@
         a               foaf:Person ;
         skos:prefLabel  "Ogier, Eric" .
 
-<http://library.princeton.edu/1.1.12.13>
+<http://bibfram.es/annotations/derrida/1.1.12.13>
         a                oa:Annotation ;
         dcterms:created  "1983-05-19T12:00:00Z" ;
         dcterms:creator  <http://viaf.org/viaf/108639325> ;
-        oa:hasBody       <http://library.princeton.edu/1.1.12.13/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.1.12.13/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.1.12.13/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.1.12.13/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
-<http://library.princeton.edu/1.1.12.13/body1>
+<http://bibfram.es/annotations/derrida/1.1.12.13/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "en" ;
         oa:text      "May 19, 1983 For Jacques Derrida — (always) Incomplete reflections on a precursor who realized the irreducibility of alterity. With best wishes, Mark C. Taylor" .
 
-<http://library.princeton.edu/1.1.12.13/meta1>
+<http://bibfram.es/annotations/derrida/1.1.12.13/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -1014,13 +1015,13 @@
                                              oa:prefix  "For " ;
                                              oa:suffix  " — (always)"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.12.13/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.12.13/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.1.12.13/meta2>
+<http://bibfram.es/annotations/derrida/1.1.12.13/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/108639325> ;
                            oa:role       "tagging"
                          ] ;
@@ -1029,7 +1030,7 @@
                                              oa:prefix  "With best wishes, " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.1.12.13/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.1.12.13/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -1037,26 +1038,26 @@
         a               foaf:Person ;
         skos:prefLabel  "Taylor, Mark C., 1945-" .
 
-<http://library.princeton.edu/1.4.11.37>
+<http://bibfram.es/annotations/derrida/1.4.11.37>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/92049796> ;
-        oa:hasBody       <http://library.princeton.edu/1.4.11.37/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.4.11.37/pageX> ;
-        oa:motivatedBy   <http://library.princeton.edu/1.4.11.37/dedicating> .
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.4.11.37/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.4.11.37/pageX> ;
+        oa:motivatedBy   <http://bibfram.es/annotations/derrida/1.4.11.37/dedicating> .
 
 <http://viaf.org/viaf/92049796>
         a               foaf:Person ;
         skos:prefLabel  "Leroux, Georges" .
 
-<http://library.princeton.edu/1.4.11.37/body1>
+<http://bibfram.es/annotations/derrida/1.4.11.37/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Pour Jacques Derrida et ses deux fils, lecteurs de Plotin, eux qui savent ce que signifient [formule en grec] en hommage très cordial, Georges Leroux, le 2 avril 1997 à Montréal" .
 
-<http://library.princeton.edu/1.4.11.37/meta1>
+<http://bibfram.es/annotations/derrida/1.4.11.37/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -1065,13 +1066,13 @@
                                              oa:prefix  "Pour " ;
                                              oa:suffix  " et ses deux fils,"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.11.37/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.11.37/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.11.37/meta2>
+<http://bibfram.es/annotations/derrida/1.4.11.37/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  [ a        oa:Composite ;
                                            oa:item  <http://viaf.org/viaf/225744163> , <http://viaf.org/viaf/151830533>
                                          ] ;
@@ -1082,13 +1083,13 @@
                                              oa:prefix  "Pour Jacques Derrida et " ;
                                              oa:suffix  ", lecteurs de Plotin"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/3.2.1.19/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.2.1.19/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.11.37/meta3>
+<http://bibfram.es/annotations/derrida/1.4.11.37/meta3>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/92049796> ;
                            oa:role       "tagging"
                          ] ;
@@ -1097,13 +1098,13 @@
                                              oa:prefix  "en hommage très cordial, " ;
                                              oa:suffix  ", le 2 avril 1997"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.11.37/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.11.37/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.11.37/meta4>
+<http://bibfram.es/annotations/derrida/1.4.11.37/meta4>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/108386765> ;
                            oa:role       "tagging"
                          ] ;
@@ -1112,7 +1113,7 @@
                                              oa:prefix  "lecteurs de " ;
                                              oa:suffix  ", eux qui savent ce que signifient"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.11.37>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.11.37>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -1120,9 +1121,9 @@
         a               foaf:Person ;
         skos:prefLabel  "Plotinus" .
 
-<http://library.princeton.edu/1.4.11.37/meta5>
+<http://bibfram.es/annotations/derrida/1.4.11.37/meta5>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/312975450> ;
                            oa:role       "tagging"
                          ] ;
@@ -1131,7 +1132,7 @@
                                              oa:prefix  "2 avril 1997 à " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.11.37/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.11.37/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
@@ -1139,26 +1140,26 @@
         a               schema:Place ;
         skos:prefLabel  "Montréal (Québec)" .
 
-<http://library.princeton.edu/1.4.12.16>
+<http://bibfram.es/annotations/derrida/1.4.12.16>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/108266369> ;
-        oa:hasBody       <http://library.princeton.edu/1.4.12.16/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.4.12.16/pageX> ;
-        oa:motivatedBy   <http://library.princeton.edu/1.4.12.16/dedicating> .
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.4.12.16/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.4.12.16/pageX> ;
+        oa:motivatedBy   <http://bibfram.es/annotations/derrida/1.4.12.16/dedicating> .
 
 <http://viaf.org/viaf/108266369>
         a               foaf:Person ;
         skos:prefLabel  "Ricœur, Paul‏" .
 
-<http://library.princeton.edu/1.4.12.16/body1>
+<http://bibfram.es/annotations/derrida/1.4.12.16/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Pour Jacques Derrida en très cordial hommage P. Ricoeur en grande amitié" .
 
-<http://library.princeton.edu/1.4.12.16/meta1>
+<http://bibfram.es/annotations/derrida/1.4.12.16/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -1167,13 +1168,13 @@
                                              oa:prefix  "Pour " ;
                                              oa:suffix  " en très cordial hommage"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.12.16/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.12.16/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.12.16/meta2>
+<http://bibfram.es/annotations/derrida/1.4.12.16/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/108266369> ;
                            oa:role       "tagging"
                          ] ;
@@ -1182,26 +1183,26 @@
                                              oa:prefix  "très cordial hommage " ;
                                              oa:suffix  " en grande amitié"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.12.16/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.12.16/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.12.19>
+<http://bibfram.es/annotations/derrida/1.4.12.19>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/108266369> ;
-        oa:hasBody       <http://library.princeton.edu/1.4.12.19/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.4.12.19/pageX> ;
-        oa:motivatedBy   <http://library.princeton.edu/1.4.12.19/dedicating> .
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.4.12.19/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.4.12.19/pageX> ;
+        oa:motivatedBy   <http://bibfram.es/annotations/derrida/1.4.12.19/dedicating> .
 
-<http://library.princeton.edu/1.4.12.19/body1>
+<http://bibfram.es/annotations/derrida/1.4.12.19/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Pour Jacques Derrida, en signe de reconnaissance Paul Ricoeur" .
 
-<http://library.princeton.edu/1.4.12.19/meta1>
+<http://bibfram.es/annotations/derrida/1.4.12.19/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -1210,13 +1211,13 @@
                                              oa:prefix  "Pour " ;
                                              oa:suffix  ", en signe de "
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.12.191/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.12.191/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.12.19/meta2>
+<http://bibfram.es/annotations/derrida/1.4.12.19/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/108266369> ;
                            oa:role       "tagging"
                          ] ;
@@ -1225,30 +1226,30 @@
                                              oa:prefix  "signe de reconnaissance " ;
                                              oa:suffix  ""
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.12.19/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.12.19/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.13.4>
+<http://bibfram.es/annotations/derrida/1.4.13.4>
         a                oa:Annotation ;
         dcterms:creator  <http://viaf.org/viaf/24621978> ;
-        oa:hasBody       <http://library.princeton.edu/1.4.13.4/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.4.13.4/pageX> ;
-        oa:motivatedBy   <http://library.princeton.edu/1.4.13.4/dedicating> .
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.4.13.4/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.4.13.4/pageX> ;
+        oa:motivatedBy   <http://bibfram.es/annotations/derrida/1.4.13.4/dedicating> .
 
 <http://viaf.org/viaf/24621978>
         a               foaf:Person ;
         skos:prefLabel  "Mongin, Olivier" .
 
-<http://library.princeton.edu/1.4.13.4/body1>
+<http://bibfram.es/annotations/derrida/1.4.13.4/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Pour Jacques Derrida, cette [présentation] d'un vis à vis. Avec toute mon admiration [signature illisible]" .
 
-<http://library.princeton.edu/1.4.13.4/meta1>
+<http://bibfram.es/annotations/derrida/1.4.13.4/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -1257,40 +1258,40 @@
                                              oa:prefix  "Pour " ;
                                              oa:suffix  ", cette [présentation] d'un"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.13.41/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.13.41/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.13.4/meta2>
+<http://bibfram.es/annotations/derrida/1.4.13.4/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/24621978> ;
                            oa:role       "tagging"
                          ] ;
-        oa:hasSource     <http://library.princeton.edu/1.4.13.41/body1> ;
+        oa:hasSource     <http://bibfram.es/annotations/derrida/1.4.13.41/body1> ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.13.18>
+<http://bibfram.es/annotations/derrida/1.4.13.18>
         a                oa:Annotation ;
         dcterms:created  "2000-03-30T12:00:00Z" ;
         dcterms:creator  <http://viaf.org/viaf/89085824> ;
-        oa:hasBody       <http://library.princeton.edu/1.4.13.18/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.4.13.18/pageX> ;
-        oa:motivatedBy   <http://library.princeton.edu/1.4.13.18/dedicating> .
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.4.13.18/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.4.13.18/pageX> ;
+        oa:motivatedBy   <http://bibfram.es/annotations/derrida/1.4.13.18/dedicating> .
 
 <http://viaf.org/viaf/89085824>
         a               foaf:Person ;
         skos:prefLabel  "Rorty, Richard‏" .
 
-<http://library.princeton.edu/1.4.13.18/body1>
+<http://bibfram.es/annotations/derrida/1.4.13.18/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "For Jacques still more slices off the same old sausage. Dick 3 / 30 / 00" .
 
-<http://library.princeton.edu/1.4.13.18/meta1>
+<http://bibfram.es/annotations/derrida/1.4.13.18/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -1299,13 +1300,13 @@
                                              oa:prefix  "For " ;
                                              oa:suffix  " still more slices"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.13.18/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.13.18/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.13.18/meta2>
+<http://bibfram.es/annotations/derrida/1.4.13.18/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/89085824> ;
                            oa:role       "tagging"
                          ] ;
@@ -1314,31 +1315,31 @@
                                              oa:prefix  "the same old sausage. " ;
                                              oa:suffix  " 3 / 30 / 00"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.13.18/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.13.18/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.13.25>
+<http://bibfram.es/annotations/derrida/1.4.13.25>
         a                oa:Annotation ;
         dcterms:created  "1986-03-06T12:00:00Z" ;
         dcterms:creator  <http://viaf.org/viaf/54349072> ;
-        oa:hasBody       <http://library.princeton.edu/1.4.13.25/body1> ;
-        oa:hasTarget     <http://library.princeton.edu/1.4.13.25/pageX> ;
-        oa:motivatedBy   <http://library.princeton.edu/1.4.13.25/dedicating> .
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.4.13.25/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.4.13.25/pageX> ;
+        oa:motivatedBy   <http://bibfram.es/annotations/derrida/1.4.13.25/dedicating> .
 
 <http://viaf.org/viaf/54349072>
         a               foaf:Person ;
         skos:prefLabel  "Mosès, Stéphane, 1931-2007" .
 
-<http://library.princeton.edu/1.4.13.25/body1>
+<http://bibfram.es/annotations/derrida/1.4.13.25/body1>
         a            oa:TextualBody ;
         dc:format    "text/plain" ;
         dc:language  "fr" ;
         oa:text      "Pour Jacques Derrida avec l'amitié de Stéphane Mosès Paris, le 6 mars 1986" .
 
-<http://library.princeton.edu/1.4.13.25/meta1>
+<http://bibfram.es/annotations/derrida/1.4.13.25/meta1>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
                            oa:role       "tagging"
                          ] ;
@@ -1347,13 +1348,13 @@
                                              oa:prefix  "Pour " ;
                                              oa:suffix  " avec l'amitié de Stéphane"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.13.25/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.13.25/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.13.25/meta2>
+<http://bibfram.es/annotations/derrida/1.4.13.25/meta2>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/54349072> ;
                            oa:role       "tagging"
                          ] ;
@@ -1362,13 +1363,13 @@
                                              oa:prefix  "avec l'amitié de " ;
                                              oa:suffix  " Paris, le 6 mars"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.13.25/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.13.25/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
-<http://library.princeton.edu/1.4.13.25/meta3>
+<http://bibfram.es/annotations/derrida/1.4.13.25/meta3>
         a                oa:Annotation ;
-        dcterms:creator  <http://library.princeton.edu/> ;
+        dcterms:creator  <http://bibfram.es/annotations/derrida/> ;
         oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/158822968> ;
                            oa:role       "tagging"
                          ] ;
@@ -1377,7 +1378,7 @@
                                              oa:prefix  "de Stéphane Mosès " ;
                                              oa:suffix  ", le 6 mars"
                                            ] ;
-                           oa:hasSource    <http://library.princeton.edu/1.4.13.25/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.13.25/body1>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
