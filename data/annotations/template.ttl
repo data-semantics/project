@@ -1,0 +1,101 @@
+<http://bibfram.es/annotations/derrida/1.4.11.37>
+        a                oa:Annotation ;
+        dcterms:creator  <http://viaf.org/viaf/92049796> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/1.4.11.37/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/1.4.11.37/pageX> ;
+        oa:motivatedBy   <http://bibfram.es/annotations/derrida/1.4.11.37/dedicating> .
+
+<http://bibfram.es/annotations/derrida/1.4.11.37/body1>
+        a            oa:TextualBody ;
+        dc:format    "text/plain" ;
+        dc:language  "fr" ;
+        oa:text      "Pour Jacques Derrida et ses deux fils, lecteurs de Plotin, eux qui savent ce que signifient [formule en grec] en hommage très cordial, Georges Leroux, le 2 avril 1997 à Montréal" .
+
+<http://bibfram.es/annotations/derrida/1.4.11.37/pageX>
+        a                 <http://example.org/Page> ;
+        dcterms:isPartOf  <http://bibfram.es/annotations/derrida/1.4.11.37/item1> .
+
+<http://bibfram.es/annotations/derrida/1.4.11.37/meta1>
+        a                oa:Annotation ;
+        dcterms:creator  <http://library.princeton.edu> ;
+        oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/88958529> ;
+                           oa:role       "tagging"
+                         ] ;
+        oa:hasTarget     [ oa:hasSelector  [ a          oa:TextQuoteSelector ;
+                                             oa:exact   "Jacques Derrida" ;
+                                             oa:prefix  "Pour " ;
+                                             oa:suffix  " et ses deux fils,"
+                                           ] ;
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.11.37/body1>
+                         ] ;
+        oa:motivatedBy   oa:identifying .
+
+<http://bibfram.es/annotations/derrida/1.4.11.37/meta2>
+        a                oa:Annotation ;
+        dcterms:creator  <http://library.princeton.edu> ;
+        oa:hasBody       [ oa:hasSource  [ a        oa:Composite ;
+                                           oa:item  <http://viaf.org/viaf/225744163> , <http://viaf.org/viaf/151830533>
+                                         ] ;
+                           oa:role       "tagging"
+                         ] ;
+        oa:hasTarget     [ oa:hasSelector  [ a          oa:TextQuoteSelector ;
+                                             oa:exact   "ses deux fils" ;
+                                             oa:prefix  "Pour Jacques Derrida et " ;
+                                             oa:suffix  ", lecteurs de Plotin"
+                                           ] ;
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.2.1.19/body1>
+                         ] ;
+        oa:motivatedBy   oa:identifying .
+
+<http://bibfram.es/annotations/derrida/1.4.11.37/meta3>
+        a                oa:Annotation ;
+        dcterms:creator  <http://library.princeton.edu> ;
+        oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/92049796> ;
+                           oa:role       "tagging"
+                         ] ;
+        oa:hasTarget     [ oa:hasSelector  [ a          oa:TextQuoteSelector ;
+                                             oa:exact   "Georges Leroux" ;
+                                             oa:prefix  "en hommage très cordial, " ;
+                                             oa:suffix  ", le 2 avril 1997"
+                                           ] ;
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.11.37/body1>
+                         ] ;
+        oa:motivatedBy   oa:identifying .
+
+<http://bibfram.es/annotations/derrida/1.4.11.37/meta4>
+        a                oa:Annotation ;
+        dcterms:creator  <http://library.princeton.edu> ;
+        oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/108386765> ;
+                           oa:role       "tagging"
+                         ] ;
+        oa:hasTarget     [ oa:hasSelector  [ a          oa:TextQuoteSelector ;
+                                             oa:exact   "Plotin" ;
+                                             oa:prefix  "lecteurs de " ;
+                                             oa:suffix  ", eux qui savent ce que signifient"
+                                           ] ;
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.11.37>
+                         ] ;
+        oa:motivatedBy   oa:identifying .
+
+<http://bibfram.es/annotations/derrida/1.4.11.37/meta5>
+        a                oa:Annotation ;
+        dcterms:creator  <http://library.princeton.edu> ;
+        oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/312975450> ;
+                           oa:role       "tagging"
+                         ] ;
+        oa:hasTarget     [ oa:hasSelector  [ a          oa:TextQuoteSelector ;
+                                             oa:exact   "Montréal" ;
+                                             oa:prefix  "2 avril 1997 à " ;
+                                             oa:suffix  ""
+                                           ] ;
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.11.37/body1>
+                         ] ;
+        oa:motivatedBy   oa:identifying .
+
+<http://bibfram.es/annotations/derrida/1.4.11.37/item1>
+        a          bf:Item ;
+        bf:itemOf  <http://bibfram.es/annotations/derrida/1.4.11.37/instance1> .
+
+<http://bibfram.es/annotations/derrida/1.4.11.37/instance1>
+        a              bf:Instance ;
+        schema:sameAs  <http://www.worldcat.org/oclc/24251579> .
