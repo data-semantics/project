@@ -100,22 +100,22 @@
         a              bf:Instance ;
         schema:sameAs  <http://www.worldcat.org/oclc/XXX> .
 
-<http://viaf.org/viaf/92049796>
+<http://viaf.org/viaf/XXX>
         a               foaf:Person ;
-        skos:prefLabel  "Leroux, Georges" .
+        skos:prefLabel  " " .
 
-<http://viaf.org/viaf/225744163>
+<http://viaf.org/viaf/XXX>
         a               foaf:Person ;
-        skos:prefLabel  "Derrida, Pierre, 1963-" .
+        skos:prefLabel  " " .
 
-<http://viaf.org/viaf/151830533>
+<http://viaf.org/viaf/XXX>
         a               foaf:Person ;
-        skos:prefLabel  "Derrida, Jean, 1967-" .
+        skos:prefLabel  " " .
         
- <http://viaf.org/viaf/108386765>
+ <http://viaf.org/viaf/XXX>
         a               foaf:Person ;
-        skos:prefLabel  "Plotinus" .
+        skos:prefLabel  " " .
 
-<http://viaf.org/viaf/312975450>
+<http://viaf.org/viaf/XXX>
         a               schema:Place ;
-        skos:prefLabel  "Montréal (Québec)" .
+        skos:prefLabel  " " .
