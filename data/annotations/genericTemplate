@@ -1,0 +1,101 @@
+<http://bibfram.es/annotations/derrida/XXXX>
+        a                oa:Annotation ;
+        dcterms:creator  <http://viaf.org/viaf/XXX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/XXXX/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/XXXX/pageX> ;
+        oa:motivatedBy   <http://bibfram.es/annotations/derrida/XXXX/dedicating> .
+
+<http://bibfram.es/annotations/derrida/XXXX/body1>
+        a            oa:TextualBody ;
+        dc:format    "text/plain" ;
+        dc:language  "fr" ;
+        oa:text      " " .
+
+<http://bibfram.es/annotations/derrida/XXXX/pageX>
+        a                 <http://example.org/Page> ;
+        dcterms:isPartOf  <http://bibfram.es/annotations/derrida/XXXX/item1> .
+
+<http://bibfram.es/annotations/derrida/XXXX/meta1>
+        a                oa:Annotation ;
+        dcterms:creator  <http://library.princeton.edu> ;
+        oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/XXX> ;
+                           oa:role       "tagging"
+                         ] ;
+        oa:hasTarget     [ oa:hasSelector  [ a          oa:TextQuoteSelector ;
+                                             oa:exact   " " ;
+                                             oa:prefix  " " ;
+                                             oa:suffix  " "
+                                           ] ;
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/XXXX/body1>
+                         ] ;
+        oa:motivatedBy   oa:identifying .
+
+<http://bibfram.es/annotations/derrida/XXXX/meta2>
+        a                oa:Annotation ;
+        dcterms:creator  <http://library.princeton.edu> ;
+        oa:hasBody       [ oa:hasSource  [ a        oa:Composite ;
+                                           oa:item  <http://viaf.org/viaf/XXX> , <http://viaf.org/viaf/XXX>
+                                         ] ;
+                           oa:role       "tagging"
+                         ] ;
+        oa:hasTarget     [ oa:hasSelector  [ a          oa:TextQuoteSelector ;
+                                             oa:exact   " " ;
+                                             oa:prefix  " " ;
+                                             oa:suffix  " "
+                                           ] ;
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/XXXX/body1>
+                         ] ;
+        oa:motivatedBy   oa:identifying .
+
+<http://bibfram.es/annotations/derrida/XXXX/meta3>
+        a                oa:Annotation ;
+        dcterms:creator  <http://library.princeton.edu> ;
+        oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/XXX> ;
+                           oa:role       "tagging"
+                         ] ;
+        oa:hasTarget     [ oa:hasSelector  [ a          oa:TextQuoteSelector ;
+                                             oa:exact   " " ;
+                                             oa:prefix  " " ;
+                                             oa:suffix  " "
+                                           ] ;
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/XXXX/body1>
+                         ] ;
+        oa:motivatedBy   oa:identifying .
+
+<http://bibfram.es/annotations/derrida/XXXX/meta4>
+        a                oa:Annotation ;
+        dcterms:creator  <http://library.princeton.edu> ;
+        oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/XXX> ;
+                           oa:role       "tagging"
+                         ] ;
+        oa:hasTarget     [ oa:hasSelector  [ a          oa:TextQuoteSelector ;
+                                             oa:exact   " " ;
+                                             oa:prefix  " " ;
+                                             oa:suffix  " "
+                                           ] ;
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/XXXX>
+                         ] ;
+        oa:motivatedBy   oa:identifying .
+
+<http://bibfram.es/annotations/derrida/XXXX/meta5>
+        a                oa:Annotation ;
+        dcterms:creator  <http://library.princeton.edu> ;
+        oa:hasBody       [ oa:hasSource  <http://viaf.org/viaf/XXX> ;
+                           oa:role       "tagging"
+                         ] ;
+        oa:hasTarget     [ oa:hasSelector  [ a          oa:TextQuoteSelector ;
+                                             oa:exact   " " ;
+                                             oa:prefix  " " ;
+                                             oa:suffix  " "
+                                           ] ;
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/XXXX/body1>
+                         ] ;
+        oa:motivatedBy   oa:identifying .
+
+<http://bibfram.es/annotations/derrida/XXXX/item1>
+        a          bf:Item ;
+        bf:itemOf  <http://bibfram.es/annotations/derrida/XXXX/instance1> .
+
+<http://bibfram.es/annotations/derrida/XXXX/instance1>
+        a              bf:Instance ;
+        schema:sameAs  <http://www.worldcat.org/oclc/XXX> .
