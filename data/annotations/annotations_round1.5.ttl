@@ -1115,7 +1115,7 @@
                                              oa:prefix  "Pour Jacques Derrida et " ;
                                              oa:suffix  ", lecteurs de Plotin"
                                            ] ;
-                           oa:hasSource    <http://bibfram.es/annotations/derrida/3.2.1.19/body1>
+                           oa:hasSource    <http://bibfram.es/annotations/derrida/1.4.11.37>
                          ] ;
         oa:motivatedBy   oa:identifying .
 
