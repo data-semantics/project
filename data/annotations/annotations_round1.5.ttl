@@ -555,8 +555,8 @@
         a                oa:Annotation ;
         dcterms:created  "1992-04-24T12:00:00Z" ;
         dcterms:creator  <http://viaf.org/viaf/108283355> ;
-        oa:hasBody       <http://bibfram.es/annotations/derrida/3.1.2.20/body1> ;
-        oa:hasTarget     <http://bibfram.es/annotations/derrida/3.1.2.20/pageX> ;
+        oa:hasBody       <http://bibfram.es/annotations/derrida/3.1.4.4/body1> ;
+        oa:hasTarget     <http://bibfram.es/annotations/derrida/3.1.4.4/pageX> ;
         oa:motivatedBy   <http://example.org/dedicating> .
 
 <http://bibfram.es/annotations/derrida/3.1.4.4/meta1>
