@@ -9944,7 +9944,7 @@ _:b127  a       <http://www.loc.gov/mads/rdf/v1#TemporalElement> ;
 <http://bibfram.es/derrida/static/img/2016-04-18_10.38.10.jpg>
         a       <http://xmlns.com/foaf/0.1/Image> ;
         <http://xmlns.com/foaf/0.1/depicts>
-                <http://bibfram.es/derrida/resource/3.1.4.13/item1> .
+                <http://bibfram.es/derrida/resource/3.1.4.13/pageX> .
 
 <http://bibfram.es/derrida/resource/1.2.14.5>
         a       <http://www.w3.org/ns/oa#Annotation> ;

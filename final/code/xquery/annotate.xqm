@@ -99,7 +99,7 @@ as item()* {
     let $oclc-publication-date :=
         $oclc-instance//rdf:Description[@rdf:about eq $oclc]/schema:datePublished/string()
     let $oclc-publisher-id :=
-        $oclc-instance//rdf:Description[@rdf:about eq $oclc]/schema:publisher/@rdf:resource/string()
+        $oclc-instance//rdf:Description[@rdf:about eq $oclc]/schema:publisher[1]/@rdf:resource/string()
     let $oclc-publisher :=
         $oclc-instance//rdf:Description[@rdf:about eq $oclc-publisher-id]/schema:name/string()
     
@@ -133,7 +133,7 @@ as item()* {
             return 
         	    <cwb:oclc-work id="{$oclc-2}">
 				    <cwb:oclc-work-title>{                
-					    $oclc-work//rdf:Description[@rdf:about eq $oclc-2]/schema:name[1]/string()
+					    $oclc-work//rdf:Description[@rdf:about eq $oclc-2]/schema:name/string()
                     }</cwb:oclc-work-title>            	
                 </cwb:oclc-work>        
     return

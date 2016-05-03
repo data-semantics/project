@@ -2619,8 +2619,8 @@
    <span about="http://bibfram.es/derrida/resource/3.1.4.3/pageX" typeof="http://example.org/Page">
       <span rel="dcterms:isPartOf" resource="http://bibfram.es/derrida/resource/3.1.4.3/item1"/>
    </span>
-   <span about="http://bibfram.es/derrida/static/img/2016-04-18_11.14.10.jpg" typeof="foaf:Image">
-      <span rel="foaf:depicts" resource="http://bibfram.es/derrida/resource/3.2.1.19/pageX"/>
+   <span about="http://bibfram.es/derrida/static/img/2016-04-18_11.13.59.jpg" typeof="foaf:Image">
+      <span rel="foaf:depicts" resource="http://bibfram.es/derrida/resource/3.2.1.21/pageX"/>
    </span>
    <span about="http://bibfram.es/derrida/resource/bf/fFp1461696389/ocn299354015topic53" typeof="bf:Topic">
       <span property="bf:label" datatype="http://www.w3.org/2001/XMLSchema#string">Anthropologie</span>
@@ -6633,7 +6633,7 @@
       <span property="bf:authorizedAccessPoint" datatype="http://www.w3.org/2001/XMLSchema#string">Time</span>
    </span>
    <span about="http://bibfram.es/derrida/static/img/2016-04-18_10.38.10.jpg" typeof="foaf:Image">
-      <span rel="foaf:depicts" resource="http://bibfram.es/derrida/resource/3.1.4.13/item1"/>
+      <span rel="foaf:depicts" resource="http://bibfram.es/derrida/resource/3.1.4.13/pageX"/>
    </span>
    <span about="http://bibfram.es/derrida/resource/1.2.14.5" typeof="oa:Annotation">
       <span rel="dcterms:creator" resource="http://viaf.org/viaf/71387829"/>
@@ -13217,8 +13217,8 @@
       <span property="bf:title" datatype="http://www.w3.org/2001/XMLSchema#string">La couleur des idées</span>
       <span property="bf:authorizedAccessPoint" datatype="http://www.w3.org/2001/XMLSchema#string">La couleur des idées</span>
    </span>
-   <span about="http://bibfram.es/derrida/static/img/2016-04-18_11.13.59.jpg" typeof="foaf:Image">
-      <span rel="foaf:depicts" resource="http://bibfram.es/derrida/resource/3.2.1.19/item1"/>
+    <span about="http://bibfram.es/derrida/static/img/2016-04-18_11.13.44.jpg" typeof="foaf:Image">
+      <span rel="foaf:depicts" resource="http://bibfram.es/derrida/resource/3.2.1.21/item1"/>
    </span>
    <span about="http://bibfram.es/derrida/resource/bf/fFp1461696389/ocm01104386person26" typeof="bf:Person">
       <span property="bf:label" datatype="http://www.w3.org/2001/XMLSchema#string">Kierkegaard, Søren, 1813-1855.</span>
