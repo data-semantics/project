@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core">
+
+<ui:composition template="/WEB-INF/templates/BasicTemplate.xhtml">
+    <ui:define name="content">
+      <h:form>
+      	<h:messages id="message" style="font-family: Georgia, Serif;font-size: 14px;font-weight: bold;color:red;margin:8px;" />
+		
+        <h:dataTable value="#{loginBean.allEngAnnoList}" var="obj" 
+    			styleClass="order-table"
+    			headerClass="order-table-header"
+    			rowClasses="order-table-odd-row,order-table-even-row"
+    			border="1" rendered="#{loginBean.customQ eq 'first'}">
+
+    			<h:column>
+    			 	<f:facet name="header">
+						<h:outputText style="color: #a93226" value="Body"/>
+					</f:facet>
+    				<h:commandButton value="#{obj.body}" onclick="window.open(this.value);return false;" 
+        				 style="background-color: white;font-family: Georgia, Serif;color:#1f618d;text-decoration: underline;border:0;
+        				 cursor: pointer"/>
+    				<f:facet name="footer">
+						<h:outputText value=" "/>
+					</f:facet>
+    			</h:column>
+    			
+    			<h:column>
+    			 	<f:facet name="header">
+						<h:outputText style="color: #a93226" value="Text"/>
+					</f:facet>
+    				<h:outputText value="#{obj.text}"/>
+    				<f:facet name="footer">
+						<h:outputText value=" "/>
+					</f:facet>
+    			</h:column>
+    		
+    		</h:dataTable>
+    		
+    		<h:dataTable value="#{loginBean.creatorFList}" var="obj" 
+    			styleClass="order-table"
+    			headerClass="order-table-header"
+    			rowClasses="order-table-odd-row,order-table-even-row"
+    			border="1" rendered="#{loginBean.customQ eq 'second'}">
+
+    			<h:column>
+    			 	<f:facet name="header">
+						<h:outputText style="color: #a93226" value="Annotation"/>
+					</f:facet>
+    				<h:commandButton value="#{obj.creatorAnno}" onclick="window.open(this.value);return false;"
+        				  style="background-color: white;font-family: Georgia, Serif;color:#1f618d;text-decoration: underline;border:0;
+        				  cursor: pointer"/>
+    				<f:facet name="footer">
+						<h:outputText value=" "/>
+					</f:facet>
+    			</h:column>
+    			
+    			<h:column>
+    			 	<f:facet name="header">
+						<h:outputText style="color: #a93226" value="Name"/>
+					</f:facet>
+    				<h:outputText value="#{obj.creatorName}"/>
+    				<f:facet name="footer">
+						<h:outputText value=" "/>
+					</f:facet>
+    			</h:column>
+    		
+    		</h:dataTable>
+    		
+    		<h:dataTable value="#{loginBean.noCreatorList}" var="obj" 
+    			styleClass="order-table"
+    			headerClass="order-table-header"
+    			rowClasses="order-table-odd-row,order-table-even-row"
+    			border="1" rendered="#{loginBean.customQ eq 'third'}">
+
+    			<h:column>
+    			 	<f:facet name="header">
+						<h:outputText style="color: #a93226" value="Annotation"/>
+					</f:facet>
+    				<h:commandButton value="#{obj}" onclick="window.open(this.value);return false;"
+        				  style="background-color: white;font-family: Georgia, Serif;color:#1f618d;text-decoration: underline;border:0;
+        				  cursor: pointer"/>
+    				<f:facet name="footer">
+						<h:outputText value=" "/>
+					</f:facet>
+    			</h:column>
+    		</h:dataTable>
+    		
+   			<h:dataTable value="#{loginBean.annoEvaList}" var="obj" 
+   			styleClass="order-table"
+   			headerClass="order-table-header"
+   			rowClasses="order-table-odd-row,order-table-even-row"
+   			border="1" rendered="#{loginBean.customQ eq 'fourth'}">
+
+   			<h:column>
+   			 	<f:facet name="header">
+					<h:outputText style="color: #a93226" value="Annotation"/>
+				</f:facet>
+   				<h:commandButton value="#{obj.creatorAnno}" onclick="window.open(this.value);return false;"
+       				  style="background-color: white;font-family: Georgia, Serif;color:#1f618d;text-decoration: underline;border:0;
+       				  cursor: pointer"/>
+   				<f:facet name="footer">
+					<h:outputText value=" "/>
+				</f:facet>
+   			</h:column>
+   			
+   			<h:column>
+   			 	<f:facet name="header">
+					<h:outputText style="color: #a93226" value="Text"/>
+				</f:facet>
+   				<h:outputText value="#{obj.creatorName}"/>
+   				<f:facet name="footer">
+					<h:outputText value=" "/>
+				</f:facet>
+   			</h:column>
+   		
+   		</h:dataTable>
+   		<h:dataTable value="#{loginBean.allFrAnnoList}" var="obj" 
+    			styleClass="order-table"
+    			headerClass="order-table-header"
+    			rowClasses="order-table-odd-row,order-table-even-row"
+    			border="1" rendered="#{loginBean.customQ eq 'fifth'}">
+
+    			<h:column>
+    			 	<f:facet name="header">
+						<h:outputText style="color: #a93226" value="Body"/>
+					</f:facet>
+    				<h:commandButton value="#{obj.body}" onclick="window.open(this.value);return false;"
+        				  style="background-color: white;font-family: Georgia, Serif;color:#1f618d;text-decoration: underline;border:0;
+        				  cursor: pointer"/>
+    				<f:facet name="footer">
+						<h:outputText value=" "/>
+					</f:facet>
+    			</h:column>
+    			
+    			<h:column>
+    			 	<f:facet name="header">
+						<h:outputText style="color: #a93226" value="Text"/>
+					</f:facet>
+    				<h:outputText value="#{obj.text}"/>
+    				<f:facet name="footer">
+						<h:outputText value=" "/>
+					</f:facet>
+    			</h:column>
+    		
+    		</h:dataTable>
+    		  <h:panelGrid style="margin: 0 auto;">
+    		 
+                <h:commandButton value="Back"  action="backlogin"
+                		style="text-align: center;background: #f5b041;padding: 5px 10px;border-radius: 9px;font-size: 13px;
+			 			font-family: Georgia, Serif;cursor: pointer;"/>
+            </h:panelGrid>
+    		
+        
+    </h:form>
+    </ui:define>
+</ui:composition>
+</html>

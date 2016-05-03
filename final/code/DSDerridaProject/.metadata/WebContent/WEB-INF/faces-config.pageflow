@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pageflow:Pageflow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pageflow="http://www.sybase.com/suade/pageflow" id="pf14593518509390" configfile="/DSDerridaProject/WebContent/WEB-INF/faces-config.xml">
+  <nodes xsi:type="pageflow:PFPage" name="login.xhtml" x="675" y="55" id="pf14600729502594" referenceLink="//@navigationRule.11/@navigationCase.0/@toViewId|" outlinks="pf14600729502595 pf14600733641288 pf14600733641289 pf14603514338640 pf14614397330110 pf14620762697310" inlinks="pf14600729502596 pf146007336412810 pf146007336412811 pf14603543114910 pf14615200431681 pf14620762697311" path="/login.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="welcome.xhtml" x="675" y="252" id="pf14600729502597" referenceLink="//@navigationRule.1/@fromViewId|" outlinks="pf14600729502596" inlinks="pf14600729502595" path="/welcome.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="customresult.xhtml" x="384" y="204" id="pf146007336412812" referenceLink="//@navigationRule.3/@fromViewId|" outlinks="pf146007336412810" inlinks="pf14600733641288" path="/customresult.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="sparqlEditor.xhtml" x="1020" y="240" id="pf146007336412813" referenceLink="//@navigationRule.7/@navigationCase.0/@toViewId|" outlinks="pf146007336412811 pf146007336412814" inlinks="pf14600733641289 pf146007342558416" path="/sparqlEditor.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="queryresults.xhtml" x="984" y="492" id="pf146007336412815" referenceLink="//@navigationRule.7/@fromViewId|" outlinks="pf146007342558416" inlinks="pf146007336412814" path="/queryresults.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="booktemplate.xhtml" x="381" y="75" id="pf14603514338641" referenceLink="//@navigationRule.9/@fromViewId|" outlinks="pf14603543114910" inlinks="pf14603514338640" path="/booktemplate.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="gallery.xhtml" x="1007" y="41" id="pf14614397330111" referenceLink="//@navigationRule.11/@fromViewId|" outlinks="pf14615200431681" inlinks="pf14614397330110" path="gallery.xhtml"/>
+  <nodes xsi:type="pageflow:PFPage" name="bookLinks.xhtml" x="576" y="-72" id="pf14620762697312" outlinks="pf14620762697311" inlinks="pf14620762697310" path="/bookLinks.xhtml"/>
+  <links id="pf14600729502595" target="pf14600729502597" source="pf14600729502594" outcome="login"/>
+  <links id="pf14600729502596" target="pf14600729502594" source="pf14600729502597" outcome="backlogin"/>
+  <links id="pf14600733641288" target="pf146007336412812" source="pf14600729502594" outcome="result"/>
+  <links id="pf146007336412810" target="pf14600729502594" source="pf146007336412812" outcome="backlogin"/>
+  <links id="pf14600733641289" target="pf146007336412813" source="pf14600729502594" outcome="gosparql"/>
+  <links id="pf146007336412811" target="pf14600729502594" source="pf146007336412813" outcome="backlogin"/>
+  <links id="pf146007336412814" target="pf146007336412815" source="pf146007336412813" outcome="queryeditor"/>
+  <links id="pf146007342558416" target="pf146007336412813" source="pf146007336412815" outcome="backtoeditor"/>
+  <links id="pf14603514338640" target="pf14603514338641" source="pf14600729502594" outcome="bookPage"/>
+  <links id="pf14603543114910" target="pf14600729502594" source="pf14603514338641" outcome="backlogin"/>
+  <links id="pf14614397330110" target="pf14614397330111" source="pf14600729502594" outcome="gallery"/>
+  <links id="pf14615200431681" target="pf14600729502594" source="pf14614397330111" outcome="gotologin"/>
+  <links id="pf14620762697310" target="pf14620762697312" source="pf14600729502594" outcome="bookLink"/>
+  <links id="pf14620762697311" target="pf14600729502594" source="pf14620762697312" outcome="backlogin"/>
+</pageflow:Pageflow>

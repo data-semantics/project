@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core">
+
+
+<ui:composition template="/WEB-INF/templates/BasicTemplate.xhtml">
+	<ui:define name="content">
+		<h:outputStylesheet library="css" name="template.css" />
+		<h:form border="0">
+
+			<h:dataTable value="#{loginBean.imageList}" var="obj"
+				headerClass="editor-header" border="0">
+
+				<h:column>
+					<f:facet name="header">
+						<h:outputText style="color: #7b241c;font-size:24px;margin: 0 auto;"
+							value=" Annotation Gallery " />
+					</f:facet>
+					
+				<h:commandButton value="#{obj}" onclick="window.open(this.value);return false;"
+        				  style="font-family: Georgia, Serif;color:#1f618d;text-decoration: underline;border:0;
+        				  cursor: pointer;font-size:18px;"/>
+
+				</h:column>
+			</h:dataTable>
+
+			<h:panelGrid style="margin: 0 auto;">
+
+				<h:commandButton value="Back" action="gotologin"
+					style="background: #f5b041;padding: 5px 10px;border-radius: 9px;font-size: 13px;
+			 		font-family: Georgia, Serif;cursor: pointer;" />
+			</h:panelGrid>
+
+
+		</h:form>
+	</ui:define>
+</ui:composition>
+</html>

@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core">
+
+<ui:composition template="/WEB-INF/templates/BasicTemplate.xhtml">
+	<ui:define name="left">
+		<h:form>
+			<h:messages id="message"
+				style="font-family: Georgia, Serif;font-size: 14px;font-weight: bold;color:red;margin:8px;" />
+
+			<h:outputStylesheet library="css" name="template.css" />
+			<script type="text/javascript">
+	function openUrl(id) {
+		var res = id.split("title", 1);
+		var temp = res + ("url");
+		var url = document.getElementById(temp).value;
+		window.open(url, '_blank');
+
+	}
+
+	function showBookList(id) {
+		var res = id.split("derridaTab", 1);
+		var temp = res + ("bookPanel");
+		var temp1 = res + ("homeContent");
+		document.getElementById(temp).style.display = "block";
+		document.getElementById(temp1).style.display = "none";
+	}
+
+	function showHomePage(id) {
+		var res = id.split("homePage", 1);
+		var temp = res + ("bookPanel");
+		var temp1 = res + ("homeContent");
+		document.getElementById(temp).style.display = "none";
+		document.getElementById(temp1).style.display = "block";
+	}
+</script>
+
+
+			<h:panelGroup style="background-color: #d6eaf8;height: 100%; ">
+				<h:panelGrid columns="4">
+					<h:commandButton id="homePage" value="Home"
+						onclick="showHomePage(this.id);return false;"
+						style="background: #3399ff;padding: 7px 18px;border-radius: 11px;font-size: 16px;
+            	font-family: Georgia, Serif;cursor: pointer;box-shadow: 5px 5px 5px #888888;font-weight: bold;" />
+					<h:commandButton id="derridaTab" value="About Derrida"
+						onclick="showBookList(this.id);return false;"
+						style="background: #3399ff;padding: 7px 15px;border-radius: 11px;font-size: 16px;
+			 		font-family: Georgia, Serif;cursor: pointer;box-shadow: 5px 5px 5px #888888;font-weight: bold;" />
+					<h:commandButton id="bookTab" value="Books" action="bookLink"
+						style="background: #3399ff;padding: 7px 15px;border-radius: 11px;font-size: 16px;
+			 		font-family: Georgia, Serif;cursor: pointer;box-shadow: 5px 5px 5px #888888;font-weight: bold;" />
+					<h:commandButton value="SPARQL Editor" action="gosparql"
+						style="background: #3399ff;padding: 7px 15px;border-radius: 11px;font-size: 16px;
+			 		font-family: Georgia, Serif;cursor: pointer;box-shadow: 5px 5px 5px #888888; font-weight: bold;" />
+
+				</h:panelGrid>
+				<h:panelGrid id="homeContent"
+					style="margin:0 auto;width:100%;border: 1px;font-family: Georgia, Serif;background-color: #fef9e7;">
+					<h2 style="color: #7b241c">Home</h2>
+					<p>The vision of the Semantic Web, especially for libraries, is
+					to use linked data to present material on the Web. A search for a
+					book could bring up a concept graph, with information about the
+					book and its availability in the library at the moment of
+					searching. Links to the author and publisher and other information
+					about the book would also be made available through the graph
+					interface. Libraries already collect and manage this
+					information—making it useful for searchers and researchers on the
+					Web is an obvious next step</p>
+					<p>The De-Framing Derrida Web portal aims to collect manuscript
+					dedications, encode them, and make the data available to the
+					scholarly community. It features the power of semantic integration
+					by providing various ways for annotated material to be searched for
+					and retrieved.</p>
+					<p>De-Framing Derrida is a semantic search application that
+					uses BIBFRAME, the Web Annotation Vocabulary, VIAF, and the
+					WorldCat catalog in order to help users search for annotated
+					material in Derrida’s library.</p>
+
+				</h:panelGrid>
+				<h:panelGrid id="bookPanel"
+					style="margin:0 auto;width:100%;display:none;border: 1px;font-family: Georgia, Serif;background-color: #fef9e7;">
+					<h2 style="color: #7b241c">Jacques Derrida</h2>
+					<p>Jacques Derrida; born Jackie Élie Derrida; July 15, 1930 –
+					October 9, 2004) was a French philosopher, born in Algeria.Derrida
+					is best known for developing a form of semiotic analysis known as
+					deconstruction, which he discussed in numerous texts, and developed
+					in the context of phenomenology. He is one of the major figures
+					associated with post-structuralism and postmodern philosophy.</p>
+					<p>During his career Derrida published more than 40 books,
+					together with hundreds of essays and public presentations. He had a
+					significant influence upon the humanities and social sciences,
+					including—in addition to philosophy and literature—law,
+					anthropology,historiography, linguistics,sociolinguistics,
+					psychoanalysis, political theory, religious studies and feminism.</p>
+					<p>His work still has a major influence in the academe of
+					Continental Europe, South America and all other countries where
+					continental philosophy is predominant, particularly in debates
+					around ontology, epistemology (especially concerning social
+					sciences), ethics, aesthetics, hermeneutics, and the philosophy of
+					language. He also influenced architecture, music, art, and art
+					criticism.</p>
+					<h:outputText value="See Also" style="font-weight:bold"></h:outputText>
+					<h:commandLink
+						value="https://en.wikipedia.org/wiki/Jacques_Derrida"
+						onclick="window.open('https://en.wikipedia.org/wiki/Jacques_Derrida');"
+						style="font-weight:italic;font-family: Georgia, Serif;font-size: 14px;font-color: blue;"></h:commandLink>
+
+				</h:panelGrid>
+
+			</h:panelGroup>
+			<h:panelGrid columns="3" style="margin: 0 auto;">
+				<h:outputText style="color: #7b241c ;font-weight: bold"
+					value="Search Annotation"></h:outputText>
+				<h:inputText id="query" size="35" value="#{loginBean.query}"></h:inputText>
+				<h:commandButton id="search" value="Go!"
+					action="#{loginBean.openSearch}"
+					style="background: #f5b041;padding: 5px 10px;border-radius: 9px;font-size: 13px;font-family: Georgia, Serif;cursor: pointer;" />
+
+			</h:panelGrid>
+			<h:panelGrid border="1" width="100%">
+			</h:panelGrid>
+			<h:panelGrid border="0" width="100%">
+				<h:outputText
+					style="font-weight:bold;font-size: 22px;color: #7b241c "
+					value="Quick Search"></h:outputText>
+				<p>The Quick Search section allows users to find relationship
+				types — who knew whom, corresponded with whom, is in specific way
+				associated with whom — by selecting any of the customized query list
+				below :</p>
+				<h:panelGrid columns="2">
+					<h:selectOneMenu value="#{loginBean.selectedCreator}">
+						<b>Annotations created by </b>
+						<f:selectItems value="#{loginBean.creatorList}" />
+					</h:selectOneMenu>
+					<h:commandButton value="Go!" action="#{loginBean.creatorSearch}"
+						style="background: #f5b041;padding: 5px 10px;border-radius: 9px;font-size: 13px;font-family: Georgia, Serif;cursor: pointer;" />
+
+				</h:panelGrid>
+				<h:panelGrid border="0" columns="2"
+					style="background-color:#fef9e7;width:100%;">
+
+					<h:selectOneRadio value="#{loginBean.customQ}"
+						layout="pageDirection">
+						<f:selectItems value="#{loginBean.queryList}" var="c"
+							itemValue="#{c.queryValue}" itemLabel="#{c.queryName}" />
+					</h:selectOneRadio>
+
+				</h:panelGrid>
+				<h:panelGrid columns="2">
+					<h:commandButton value="Submit" action="#{loginBean.customSearch}"
+						style="background: #f5b041;padding: 5px 10px;border-radius: 9px;font-size: 13px;
+            	font-family: Georgia, Serif;cursor: pointer;" />
+					<h:commandButton value="Reset" action="#{loginBean.reset}"
+						style="background: #f5b041;padding: 5px 10px;border-radius: 9px;font-size: 13px;
+			 		font-family: Georgia, Serif;cursor: pointer;" />
+				</h:panelGrid>
+			</h:panelGrid>
+
+
+		</h:form>
+	</ui:define>
+
+
+	<ui:define name="right">
+		<h:dataTable value="#{editorBean.fullBookList}" var="obj"
+			headerClass="editor-header" border="0">
+
+			<h:column>
+				<f:facet name="header">
+					<h:graphicImage library="images" name="bookIcon.png" width="10%" />
+					<h:outputText style="color: #7b241c;font-size:20px; "
+						value="  Books - WorldCat Links " />
+				</f:facet>
+				<h:inputHidden id="url" value="#{obj.bookUrl}"></h:inputHidden>
+				<h:commandLink id="title" value="* #{obj.bookTitle}"
+					style="font-size:18px;color: navy" onclick="openUrl(this.id);" />
+
+
+			</h:column>
+		</h:dataTable>
+		<h:panelGrid border="1" width="100%">
+		</h:panelGrid>
+		<h:panelGrid border="0" width="100%">
+			<h:commandLink
+				style="font-weight:bold;color: #7b241c ;font-size: 18px;font-family: Georgia, Serif;"
+				value="Annotation Gallery" action="#{loginBean.goToGallery}" />
+		</h:panelGrid>
+		<h:dataTable border="0">
+			<h:column>
+				<f:facet name="header">
+					<h:graphicImage library="images" name="Img11.jpg" width="40%" />
+				</f:facet>
+			</h:column>
+			<h:column>
+				<f:facet name="header">
+					<h:graphicImage library="images" name="Img22.jpg" width="40%" />
+				</f:facet>
+			</h:column>
+			<h:column>
+				<f:facet name="header">
+					<h:graphicImage library="images" name="Img33.jpg" width="40%" />
+				</f:facet>
+			</h:column>
+		</h:dataTable>
+	</ui:define>
+
+
+</ui:composition>
+</html>

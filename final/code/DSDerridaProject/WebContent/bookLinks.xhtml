@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core">
+
+<ui:composition template="/WEB-INF/templates/BasicTemplate.xhtml">
+    <ui:define name="content">
+  	<h:outputStylesheet library="css" name="template.css"  />
+      <h:form  border="0">
+      
+      				<script type="text/javascript">
+						function openUrl(id) {
+							var res = id.split("title", 1);
+							var temp = res + ("url");
+							var url = document.getElementById(temp).value;
+							window.open(url, '_blank');
+					
+						}
+					</script>
+      	
+      	<h:dataTable value="#{editorBean.completeBookList}" var="obj"
+			headerClass="editor-header" border="0">
+
+			<h:column>
+				<f:facet name="header">
+					<h:graphicImage library="images" name="bookIcon.png" width="5%" />
+					<h:outputText style="color: #7b241c;font-size:24px; " value=" Books - WorldCat Links " />
+				</f:facet>
+				<h:inputHidden id="url" value="#{obj.bookUrl}"></h:inputHidden>
+				<h:commandLink id="title" value="* #{obj.bookTitle}"
+					style="margin: 2 auto;font-size:18px;color: navy" onclick="openUrl(this.id);"/>
+				
+			</h:column>
+		</h:dataTable>
+		
+    		  <h:panelGrid style="margin: 0 auto;">
+           
+                <h:commandButton value="Back"  action="backlogin" 
+                				style="background: #f5b041;padding: 5px 10px;border-radius: 9px;font-size: 13px;
+			 		font-family: Georgia, Serif;cursor: pointer;"/>
+            </h:panelGrid>
+    		
+      
+      </h:form>
+      </ui:define>
+</ui:composition>
+</html>

@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:ui="http://java.sun.com/jsf/facelets"
+	  xmlns:h="http://java.sun.com/jsf/html"
+	  xmlns:f="http://java.sun.com/jsf/core">
+
+<ui:composition template="/WEB-INF/templates/BasicTemplate.xhtml">
+<ui:define name="left" styleclass="top">
+        <h:form>
+        	<h:panelGrid columns="2">
+        			<h:graphicImage library="images" name="BGImg.jpg" />
+        			<h:graphicImage library="images" name="BGImg.jpg" />
+        	</h:panelGrid>
+        	
+        	 <h:dataTable border="0">
+        	 	<h:column>
+        	 	  <f:facet name="header">
+        	 	   <h:outputText value="Search Annotation"></h:outputText>
+        	 	   </f:facet>
+        	 	</h:column>
+        	 	<h:column>
+        	 	<f:facet name="header">
+        	 	    <h:inputText id="query" value="#{loginBean.query}"></h:inputText>
+        	 	 </f:facet>
+        	 	</h:column>
+        	 	<h:column>
+        	 	<f:facet name="header">
+        	 	   <h:commandButton id="search" value="Go!" action="#{loginBean.openSearch}"
+        	 	        style="background: #E5E5E5;padding: 5px 10px;border-radius: 9px;font-size: 13px;font-family: Georgia, Serif;cursor: pointer;"/>
+        	 	  </f:facet> 
+        	 	</h:column>
+        	 	<h:column>
+        	 	<f:facet name="header">
+        	 	   <h:outputText value=""></h:outputText>
+        	 	    </f:facet>
+        	 	</h:column>
+        	 	<h:column>
+        	 	<f:facet name="header">
+        	 	    <h:outputText value="" style="width:100%;"/>
+        	 	    </f:facet>
+        	 	</h:column>
+    		 </h:dataTable>
+    		
+    		<h:panelGroup border="1"> 
+            <h:panelGrid border="1" columns="2" style="background-color:#eaecee ;width:100%;">
+             <h:selectOneRadio value="#{loginBean.customQ}" layout="pageDirection">
+			   <f:selectItems value="#{loginBean.queryList}" var="c"
+   			itemValue="#{c.queryValue}" itemLabel="#{c.queryName}"/>
+
+			</h:selectOneRadio>
+            </h:panelGrid>
+            <h:panelGrid columns="2">
+            	<h:commandButton value="Submit" action="#{loginBean.customSearch}" 
+            	style="background: #E5E5E5;padding: 5px 10px;border-radius: 9px;font-size: 13px;
+            	font-family: Georgia, Serif;cursor: pointer;" />
+			 	<h:commandButton value="Reset" action="#{loginBean.reset}" 
+			 		style="background: #E5E5E5;padding: 5px 10px;border-radius: 9px;font-size: 13px;
+			 		font-family: Georgia, Serif;cursor: pointer;"/>
+            </h:panelGrid>
+           </h:panelGroup> 
+            
+           
+        </h:form>
+    </ui:define>
+    
+    
+     <ui:define name="right">
+     
+     
+  		 <script type="text/javascript"> 
+				function openUrl(id){
+					    var res = id.split("title",1);
+					    var temp = res +("url");
+					    var url = document.getElementById(temp).value;
+					    window.open(url, '_blank');
+					    
+					}
+
+				function showBookList(id){
+					var res = id.split(":",1);
+					var temp = res +(":bookPanel");
+					var temp1 = res +(":homeContent");
+					document.getElementById(temp).style.display= "block";
+					document.getElementById(temp1).style.display= "none";
+					}
+
+				function showHomePage(id){
+					var res = id.split(":",1);
+					var temp = res +(":bookPanel");
+					var temp1 = res +(":homeContent");
+					document.getElementById(temp).style.display= "none";
+					document.getElementById(temp1).style.display= "block";
+					}
+  		 
+  		  </script>
+  
+     
+		 <h:panelGrid>
+		    <h:panelGrid columns="3">
+		      	<h:commandButton id="homePage" value="Home"  onclick="showHomePage(this.id);return false;"
+            	style="background: #E5E5E5;padding: 5px 10px;border-radius: 9px;font-size: 13px;
+            	font-family: Georgia, Serif;cursor: pointer;" />
+			 	<h:commandButton id="bookTab" value="Books" onclick="showBookList(this.id);return false;" 
+			 		style="background: #E5E5E5;padding: 5px 10px;border-radius: 9px;font-size: 13px;
+			 		font-family: Georgia, Serif;cursor: pointer;"/>
+			 	<h:commandButton value="SPARQL Editor" action="gosparql" 
+			 		style="background: #E5E5E5;padding: 5px 10px;border-radius: 9px;font-size: 13px;
+			 		font-family: Georgia, Serif;cursor: pointer;"/>	
+		    </h:panelGrid>
+		    <h:panelGrid id="homeContent"  border="1" style="font-family: Georgia, Serif;">
+		    	<h1><b>Home</b></h1>
+		    	<p>
+		    		De-“Framing” Derrida  is a semantic search application that uses Bibliographic Framework (BIBFRAME), VIAF and WorldCat catalog and aims to help users search annotated material in Derrida’s library. It provides open search feature  to fulfill the function mentioned above.
+				</p>
+				<p>
+					This application allows users to find relationship types—who knew whom, corresponded with whom, is in specific way associated with whom — using two methods. The first method is user can select from any of the customized query list (below Search Option) and click Submit. Then the user can view the queried data in tabular form (Figure 3).
+					The second method is an Advanced feature named “SPARQL Editor” which presents an editor interface similar to Virtuoso. User can execute random SELECT query and obtain results in three different format- XML, JSON and Plain Text.
+							    		
+				</p>
+		    
+		    </h:panelGrid>
+			<h:dataTable id="bookPanel" value="#{editorBean.fullBookList}" var="obj" style="display:none" headerClass="editor-header"
+    			border="0">
+
+    			<h:column>
+    			 	<f:facet name="header">
+						<h:outputText value="Links to Books"/><h:graphicImage library="images" name="book1.jpg" />
+					</f:facet>
+						<h:inputHidden id="url" value="#{obj.bookUrl}"></h:inputHidden>
+						
+    				    <h:commandLink id="title" value="#{obj.bookTitle}" onclick="openUrl(this.id);"/>
+    				
+    				<f:facet name="footer">
+						 <h:outputText value=" "/>
+					</f:facet>
+    			</h:column>
+    		
+    		</h:dataTable>
+        	</h:panelGrid><!--
+        	
+        	<h:panelGrid>
+        	   <h:dataTable border="0">
+      				<f:facet name="header">
+						<h:outputText value="Advanced Options" style="text-align:left"/>
+					</f:facet>
+    				<f:facet name="footer">
+						<h:commandLink value="SPARQL Editor" action="gosparql"/>
+					</f:facet>
+    			
+      			</h:dataTable>
+      			</h:panelGrid>
+     
+     --></ui:define>
+
+
+</ui:composition>
+</html>

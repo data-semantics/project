@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core">
+
+<ui:composition template="/WEB-INF/templates/BasicTemplate.xhtml">
+	<ui:define name="content">
+		<h:form>
+			 <h:messages id="message" style="font-family: Georgia, Serif;font-size: 14px;font-weight: bold;color:red;margin:8px;" />
+		
+			<h:panelGrid>
+			    <h1 style="margin: 0 auto;font-family: Georgia, Serif;font-size: 20px;color:#7b241c;text-align:center">SPARQL Query Editor</h1>
+			    <p>“SPARQL Editor” provides user an advanced feature
+					which presents an editor interface similar to Virtuoso.
+					User can execute random SELECT query and obtain results in three
+					different format- XML, JSON and Plain Text.</p>
+			</h:panelGrid>
+			
+			<h:panelGrid border="1">
+			<h:dataTable border="0">
+				<h:column>
+					<f:facet name="footer">
+						<h:outputText value="For examples, see"/><h:commandLink value="SPARQL Examples." onclick="window.open('https://www.w3.org/2009/Talks/0615-qbe/');"/>
+						<h:outputText
+							value="A basic tutorial on SPARQL is available from "/><h:commandLink value="Apache Jena." onclick="window.open('http://jena.apache.org/tutorials/sparql.html');"/>
+					</f:facet>
+				</h:column>
+			</h:dataTable>
+
+			
+			<h:panelGrid>
+			   <h:outputText value="" style="background:white;width:100%;" />
+			</h:panelGrid>
+			
+			<h:panelGrid border="1" style="width:70%;">
+				<h:outputText value="SPARQL ENDPOINT" style="font-family: Georgia, Serif;background:#E5E5E5;width:100%;" />
+				<h:panelGrid>
+					<h:inputText value="#{editorBean.inputFileName}" size="50" style="font-family: Georgia, Serif;"/>
+				</h:panelGrid>
+			</h:panelGrid>
+
+			<table>
+				<tr>
+					<td><h:inputTextarea value="#{editorBean.query}" cols="106"
+						rows="15" /></td>
+				</tr>
+			</table>
+
+			<h:panelGrid columns="3">
+				<h:outputText value="Output" />
+				<h:selectOneMenu value="#{editorBean.format}">
+					<f:selectItem itemValue="xml" itemLabel="XML" />
+					<f:selectItem itemValue="json" itemLabel="JSON" />
+					<f:selectItem itemValue="text" itemLabel="Text" />
+				</h:selectOneMenu>
+				<h:commandButton value="Submit" action="#{editorBean.showResults}" 
+							style="background: #f5b041;padding: 5px 10px;border-radius: 9px;font-size: 13px;
+			 						font-family: Georgia, Serif;cursor: pointer;"/>
+			</h:panelGrid>
+
+			<h:panelGrid border="1" rendered="#{editorBean.showResultGrid}">
+			  	<h2 style="font-family: Georgia, Serif;font-size: 17px;">SPARQL Query Results:</h2>
+		 
+			 	<h:inputTextarea value="#{editorBean.xmlResult}" cols="150" rows="50"/>
+			 </h:panelGrid>
+			 
+			 	<h:commandButton value="Back" action="backlogin" 
+			 				style="margin: 0 auto;background: #f5b041;padding: 5px 10px;border-radius: 9px;font-size: 13px;
+			 						font-family: Georgia, Serif;cursor: pointer;"/>
+			 						
+			 </h:panelGrid>						
+		</h:form>
+	</ui:define>
+</ui:composition>
+</html>

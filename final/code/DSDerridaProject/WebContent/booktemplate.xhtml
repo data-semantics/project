@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core">
+
+
+<ui:composition template="/WEB-INF/templates/BasicTemplate.xhtml">
+    <ui:define name="content">
+	    <h:form>
+	     	<h:panelGrid border="1">
+			  <h2>Traité sur la liberté et la volonté de l'Un : Ennéade VI, 8 (39)</h2>
+			 </h:panelGrid>
+			 
+			 
+			<h:panelGrid columns="3">
+				<h:outputText value="Author: "/>
+				<h:commandLink value="Plotinus.;" onclick="window.open('http://www.worldcat.org/search?q=au%3APlotinus.&amp;QT=hot_author')"/>
+				<h:commandLink value="Georges Leroux" onclick="window.open('http://www.worldcat.org/search?q=au%3ALeroux%2C+Georges.&amp;QT=hot_author')"/>
+			</h:panelGrid> 
+			
+			<h:panelGrid columns="3">
+				<h:outputText value="Publisher: "/>
+				<h:outputText value="Paris : J. Vrin, 1990." />
+			</h:panelGrid> 
+			
+			<h:panelGrid columns="3">
+				<h:outputText value="Series: "/>
+				<h:commandLink value="Histoire des doctrines de l'Antiquité classique," 
+				onclick="window.open('http://www.worldcat.org/search?qt=hotseries&amp;q=se%3A%22Histoire+des+doctrines+de+l%27Antiquite%CC%81+classique%22')" />
+			    <h:outputText value="15."/>
+			</h:panelGrid> 
+			
+			<h:panelGrid columns="3">
+				<h:outputText value="Edition/Format: "/>
+				<h:outputText value="Print book : French " />
+			</h:panelGrid> 
+			
+			<h:panelGrid columns="3">
+				<h:outputText value="Database: "/>
+				<h:outputText value="WorldCat" />
+			</h:panelGrid> 
+			
+			<h:panelGrid columns="1">
+				<h:outputText value="Subjects: "/>
+			
+				<h:commandLink value="Liberty -- Early works to 1800." onclick="window.open('http://www.worldcat.org/search?q=su%3ALiberty+Early+works+to+1800.&amp;qt=hot_subject');"/>
+				<h:commandLink value="Will -- Early works to 1800." onclick="window.open('http://www.worldcat.org/search?q=su%3AWill+Early+works+to+1800.&amp;qt=hot_subject');"/>
+				<h:commandLink value="One (The One in philosophy) -- Early works to 1800." onclick="window.open('http://www.worldcat.org/search?q=su%3AOne+%28The+One+in+philosophy%29+Early+works+to+1800.&amp;qt=hot_subject');"/>
+			</h:panelGrid> 
+
+ 			<h:panelGrid columns="2">
+ 				<h:outputText value="More Like this:"/>
+				<h:commandLink value="Similar Items"  onclick="window.open('http://www.worldcat.org/title/traite-sur-la-liberte-et-la-volonte-de-lun-enneade-vi-8-39/oclc/24251579#similar');"/>
+			</h:panelGrid> 
+ 
+ 			<h:commandButton value="Back" action="backlogin" />
+	    
+	    </h:form>
+	</ui:define>
+</ui:composition>
+</html>

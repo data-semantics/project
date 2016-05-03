@@ -1,0 +1,63 @@
+.top{
+   background-image: url('#{request.contextPath}/images/LightBlueBackground.jpg');
+   background-repeat: repeat;
+   
+   
+}
+
+.order-table{   
+	border-collapse:collapse;
+}
+
+.order-table-header{
+	text-align:center;
+	background:none repeat scroll 0 0 #E5E5E5;
+	border-bottom:1px solid #BBBBBB;
+	padding:16px;
+	font-family: Georgia, Serif;
+}
+
+.order-table-odd-row{
+	text-align:left;
+	background:#FFFFFFF;
+	border-top:1px solid #BBBBBB;
+	font-family: Georgia, Serif;
+}
+
+.order-table-even-row{
+	text-align:left;
+	background:#F9F9F9;
+	border-top:1px solid #BBBBBB;
+	font-family: Georgia, Serif;
+}
+
+
+.button{
+   background: #E5E5E5;
+   padding: 5px 10px;
+   border-radius: 9px;
+   color: #080608;
+   font-size: 13px;
+   font-family: Georgia, Serif;
+   text-decoration: none;
+ }
+.editor-header{
+	text-align:left;
+}
+
+.text-class{
+	font-weight:italic;
+	font-family: Georgia, Serif;
+	font-size: 14px;
+	font-color: blue;
+	
+}
+
+.text-box{
+		 border-style: 1px solid red;
+		 font-family: Georgia, Serif;
+		 font-size: 12px;
+		 background-color: #eaecee;
+}
+
+
